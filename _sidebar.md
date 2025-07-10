@@ -1,4 +1,5 @@
 - [首页 Home](README.md)
+- [**新账号**](docs/new_account.md)
 
 - **GitHub Pages**
   - [i 鸣](https://bxx-114514.github.io/iming-blog)
