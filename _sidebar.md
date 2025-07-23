@@ -1,6 +1,10 @@
 - [首页 Home](README.md)
 - [**新账号**](docs/new_account.md)
 
+- **Markdown 和标点符号使用规范**
+  - [关于排版规范](关于排版规范.md)
+  - [Markdown 规范](Markdown.md)
+
 - **GitHub Pages**
   - [i 鸣](https://bxx-114514.github.io/iming-blog)
   - [i 哔](https://bxx-114514.github.io/evil-of-bilibili)
