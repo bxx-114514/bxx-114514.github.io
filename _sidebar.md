@@ -1,5 +1,6 @@
 - [首页 Home](README.md)
 - [**新账号**](docs/new_account.md)
+- [**坠机说明**](docs/banned.md)
 
 - **Markdown 和标点符号使用规范**
   - [关于排版规范](关于排版规范.md)
