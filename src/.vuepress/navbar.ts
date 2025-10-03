@@ -8,15 +8,15 @@ export default navbar([
   },
   {
     text: "i 鸣相关",
-    link: "/iming-blog/"
+    link: "/iming/"
   },
   {
     text: "仙舟联盟",
-    link: "/xzlm-hyv/"
+    link: "/xzlm/"
   },
   {
     text: "《原神》和媒体",
-    link: "/genshinimpact-and-media/"
+    link: "/genshinimpact-media/"
   },
   {
     text: "AC",
@@ -24,6 +24,6 @@ export default navbar([
   },
   {
     text: "i 鬼",
-    link: "/igui-blog/"
+    link: "/igui/"
   }
 ]);
