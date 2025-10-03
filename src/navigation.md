@@ -14,6 +14,7 @@ title: 导航页
 
 ## **仓库 Repositories**
 - [i 鸣](https://github.com/bxx-114514/iming-blog)
+- [i 鸣（新）](https://github.com/bxx-114514/new-iming-blog)
 - [i 哔](https://github.com/bxx-114514/evil-of-bilibili)
 - [i 鬼](https://github.com/bxx-114514/igui-blog)
 - [仙舟联盟的米游观察站](https://github.com/bxx-114514/xzlm-hyv)
