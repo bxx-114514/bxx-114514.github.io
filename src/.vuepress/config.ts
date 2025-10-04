@@ -27,6 +27,22 @@ export default defineUserConfig({
         rel: "stylesheet",
       },
     ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        crossorigin: "anonymous",
+        href: "https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Medium.min.css",
+      }
+    ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        crossorigin: "anonymous",
+        href: "https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Bold.min.css",
+      }
+    ],
   ],
 
   // 和 PWA 一起启用
