@@ -16,7 +16,7 @@ export default hopeTheme({
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
   docsDir: "src",
-  docsRepo: "bxx-114514.github.io",
+  docsRepo: "bxx-114514/bxx-114514.github.io",
   docsBranch: "main",
 
   // 导航栏
