@@ -1,5 +1,8 @@
-# new-iming-blog
-## 说明 Introduction
+---
+title: i 鸣
+---
+
+# 说明 Introduction
 
 新的 kl 黑历史存档仓库。  
 The new repository for archiving the evil of Kuro Games.
