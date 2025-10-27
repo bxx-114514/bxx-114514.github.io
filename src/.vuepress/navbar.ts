@@ -7,6 +7,10 @@ export default navbar([
     link: "/navigation.md"
   },
   {
+    text: "留言区",
+    link: "/comments.md"
+  },
+  {
     text: "i 鸣相关",
     link: "/iming/"
   },
