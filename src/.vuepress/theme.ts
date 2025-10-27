@@ -154,12 +154,13 @@ export default hopeTheme({
 
     comment: {
       // 选择一个评论服务
-      provider: "Giscus",
+      provider: "Waline",
+      serverURL: "https://bxx-waline.netlify.app/.netlify/functions/comment",
       // 服务选项
-      repo: "bxx-114514/bxx-114514.github.io",
-      repoId: "R_kgDOP7K8Qg",
-      category: "Announcements",
-      categoryId: "DIC_kwDOP7K8Qs4CwLTE"
+      // repo: "bxx-114514/bxx-114514.github.io",
+      // repoId: "R_kgDOP7K8Qg",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOP7K8Qs4CwLTE"
     },
 
     components: {
