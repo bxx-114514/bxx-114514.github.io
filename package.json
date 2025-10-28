@@ -12,9 +12,14 @@
     "deploy": "bash deploy.sh"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@vuepress/bundler-webpack": "2.0.0-rc.24",
     "@vuepress/plugin-docsearch": "2.0.0-rc.112",
     "@vuepress/plugin-search": "2.0.0-rc.112",
+=======
+    "@vuepress/bundler-webpack": "2.0.0-rc.26",
+    "@vuepress/plugin-search": "2.0.0-rc.115",
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
     "@waline/client": "^3.7.0",
     "sass-embedded": "^1.89.2",
     "sass-loader": "^16.0.5",

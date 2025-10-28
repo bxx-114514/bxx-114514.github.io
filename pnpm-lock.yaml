@@ -9,11 +9,16 @@ importers:
   .:
     devDependencies:
       '@vuepress/bundler-webpack':
+<<<<<<< HEAD
         specifier: 2.0.0-rc.24
         version: 2.0.0-rc.24
       '@vuepress/plugin-docsearch':
         specifier: 2.0.0-rc.112
         version: 2.0.0-rc.112(@algolia/client-search@5.41.0)(react@19.2.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
+=======
+        specifier: 2.0.0-rc.26
+        version: 2.0.0-rc.26
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
       '@vuepress/plugin-search':
         specifier: 2.0.0-rc.112
         version: 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
@@ -34,6 +39,7 @@ importers:
         version: 2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22)
       vuepress-theme-hope:
         specifier: 2.0.0-rc.94
+<<<<<<< HEAD
         version: 2.0.0-rc.94(@vuepress/plugin-docsearch@2.0.0-rc.112(@algolia/client-search@5.41.0)(react@19.2.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22)))(@vuepress/plugin-search@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22)))(@waline/client@3.7.0)(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass-loader@16.0.5(sass-embedded@1.93.2)(sass@1.93.2)(webpack@5.102.1))(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
 
 packages:
@@ -114,6 +120,12 @@ packages:
     resolution: {integrity: sha512-tYv3rGbhBS0eZ5D8oCgV88iuWILROiemk+tQ3YsAKZv2J4kKUNvKkrX/If/SreRy4MGP2uJzMlyKcfSfO2mrsQ==}
     engines: {node: '>= 14.0.0'}
 
+=======
+        version: 2.0.0-rc.94(@vuepress/plugin-search@2.0.0-rc.115(vuepress@2.0.0-rc.26(@vuepress/bundler-webpack@2.0.0-rc.26)(vue@3.5.22)))(@waline/client@3.7.0)(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass-loader@16.0.6(sass-embedded@1.93.2)(sass@1.93.2)(webpack@5.102.1))(sass@1.93.2)(vuepress@2.0.0-rc.26(@vuepress/bundler-webpack@2.0.0-rc.26)(vue@3.5.22))
+
+packages:
+
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   '@babel/code-frame@7.27.1':
     resolution: {integrity: sha512-cjQ7ZlQ0Mv3b47hABuTevyTuYN4i+loJKGeV9flcCgIK37cCXRh+L1bd3iBHlynerhQ7BhCkn2BPbQUL+rGqFg==}
     engines: {node: '>=6.9.0'}
@@ -138,6 +150,7 @@ packages:
   '@bufbuild/protobuf@2.9.0':
     resolution: {integrity: sha512-rnJenoStJ8nvmt9Gzye8nkYd6V22xUAnu4086ER7h1zJ508vStko4pMvDeQ446ilDTFpV5wnoc5YS7XvMwwMqA==}
 
+<<<<<<< HEAD
   '@docsearch/css@3.9.0':
     resolution: {integrity: sha512-cQbnVbq0rrBwNAKegIac/t6a8nWoUAn8frnkLFW6YARaRmAQr5/Eoe6Ln2fqkUCZ40KpdrKbpSAmgrkviOxuWA==}
 
@@ -163,6 +176,10 @@ packages:
 
   '@esbuild/aix-ppc64@0.25.10':
     resolution: {integrity: sha512-0NFWnA+7l41irNuaSVlLfgNT12caWJVLzp5eAVhZ0z1qpxbockccEt3s+149rE64VUI3Ml2zt8Nv5JVc4QXTsw==}
+=======
+  '@esbuild/aix-ppc64@0.25.11':
+    resolution: {integrity: sha512-Xt1dOL13m8u0WE8iplx9Ibbm+hFAO0GsU2P34UNoDGvZYkY8ifSiy6Zuc1lYxfG7svWE2fzqCUmFp5HCn51gJg==}
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
     engines: {node: '>=18'}
     cpu: [ppc64]
     os: [aix]
@@ -632,6 +649,7 @@ packages:
       markdown-it:
         optional: true
 
+<<<<<<< HEAD
   '@nodelib/fs.scandir@2.1.5':
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
     engines: {node: '>= 8'}
@@ -644,6 +662,8 @@ packages:
     resolution: {integrity: sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg==}
     engines: {node: '>= 8'}
 
+=======
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   '@parcel/watcher-android-arm64@2.5.1':
     resolution: {integrity: sha512-KF8+j9nNbUN8vzOFDpRMsaKBHZ/mcjEjMToVMJOhTozkDonQFFrRcfdLWn6yWKCmJKmdVxSgHiYvTCef4/qcBA==}
     engines: {node: '>= 10.0.0'}
@@ -1024,11 +1044,14 @@ packages:
     peerDependencies:
       vuepress: 2.0.0-rc.24
 
+<<<<<<< HEAD
   '@vuepress/plugin-docsearch@2.0.0-rc.112':
     resolution: {integrity: sha512-78R6bY2vtRAmY/UyzqU4SOiVCM5HKUcHl33FtwIilDQktKQt1oX3Jx7txvHhQZIvgtq/lbIKM/oLpR80IxCFJg==}
     peerDependencies:
       vuepress: 2.0.0-rc.24
 
+=======
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   '@vuepress/plugin-git@2.0.0-rc.112':
     resolution: {integrity: sha512-OKnw1wSgJuKFE6z2aFoqg+ldjUSRuTahzW8DVC9jOy32Uss0LDo0zXiL4UCk+XAkJXfERUOc2pXYOMs5seGDmQ==}
     peerDependencies:
@@ -1301,10 +1324,6 @@ packages:
 
   ajv@8.17.1:
     resolution: {integrity: sha512-B/gBuNg5SiMTrPkC+A2+cW0RszwxYmn6VYxB/inlBStS5nx6xHIt/ehKRhIMhqusl7a8LjQoZnjCs5vhwxOQ1g==}
-
-  algoliasearch@5.41.0:
-    resolution: {integrity: sha512-9E4b3rJmYbBkn7e3aAPt1as+VVnRhsR4qwRRgOzpeyz4PAOuwKh0HI4AN6mTrqK0S0M9fCCSTOUnuJ8gPY/tvA==}
-    engines: {node: '>= 14.0.0'}
 
   ansi-html-community@0.0.8:
     resolution: {integrity: sha512-1APHAyr3+PCamwNw3bXCPp4HFLONZt/yIH0sZp0/469KWNTEy+qN5jQ3GVX6DMZ1UXAi34yVwtTeaG/HpBuuzw==}
@@ -2975,10 +2994,6 @@ packages:
     resolution: {integrity: sha512-8zGqypfENjCIqGhgXToC8aB2r7YrBX+AQAfIPs/Mlk+BtPTztOvTS01NRW/3Eh60J+a48lt8qsCzirQ6loCVfA==}
     engines: {node: '>= 0.8'}
 
-  react@19.2.0:
-    resolution: {integrity: sha512-tmbWg6W31tQLeB5cdIBOicJDJRR2KzXsV7uSK9iNfLWQ5bIZfxuPEHp7M8wiHyHnn0DD1i7w3Zmin0FtkrwoCQ==}
-    engines: {node: '>=0.10.0'}
-
   readable-stream@2.3.8:
     resolution: {integrity: sha512-8p0AUk4XODgIewSi0l8Epjs+EVnWiK7NoDIEGU0HhE7+ZyY8D1IMY7odu5lRrFXGg71L15KG8QrPmum45RTtdA==}
 
@@ -3218,9 +3233,6 @@ packages:
   schema-utils@4.3.3:
     resolution: {integrity: sha512-eflK8wEtyOE6+hsaRVPxvUKYCpRgzLqDTb8krvAsRIwOGlHoSgYLgBXoubGgLd2fT41/OUYdb48v4k4WWHQurA==}
     engines: {node: '>= 10.13.0'}
-
-  search-insights@2.17.3:
-    resolution: {integrity: sha512-RQPdCYTa8A68uM2jwxoY842xDhvx3E5LFL1LxvxCNMev4o5mLuokczhzjAgGwUZBAmOKZknArSxLKmXtIi2AxQ==}
 
   section-matter@1.0.0:
     resolution: {integrity: sha512-vfD3pmTzGpufjScBh50YHKzEu2lxBWhVEHsNGoEXmCmn2hKGfeNLYMzCJpe8cD7gqX7TJluOVpBkAequ6dgMmA==}
@@ -3475,9 +3487,6 @@ packages:
 
   trough@2.2.0:
     resolution: {integrity: sha512-tmMpK00BjZiUyVyvrBK7knerNgmgvcV/KLVyuma/SC+TQN167GrMRciANTz09+k3zW8L8t60jWO1GpfkZdjTaw==}
-
-  ts-debounce@4.0.0:
-    resolution: {integrity: sha512-+1iDGY6NmOGidq7i7xZGA4cm8DAa6fqdYcvO5Z6yBevH++Bdo9Qt/mN0TzHUgcCcKv1gmh9+W5dHqz8pMWbCbg==}
 
   tslib@2.8.1:
     resolution: {integrity: sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==}
@@ -3826,11 +3835,19 @@ packages:
     resolution: {integrity: sha512-aePbxDmcYW++PaqBsJ+HYUFwCdv4LVvdnhBy78E57PIor8/OVvhMrADFFEDh8DHDFRv/O9i3lPhsENjO7QX0+A==}
     engines: {node: '>=8'}
 
+<<<<<<< HEAD
+=======
+  yoctocolors@2.1.2:
+    resolution: {integrity: sha512-CzhO+pFNo8ajLM2d2IW/R93ipy99LWjtwblvC1RsoSUMZgyLbYFr221TnSNT7GjGdYui6P459mw9JH/g/zW2ug==}
+    engines: {node: '>=18'}
+
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
 
 snapshots:
 
+<<<<<<< HEAD
   '@algolia/abtesting@1.7.0':
     dependencies:
       '@algolia/client-common': 5.41.0
@@ -3943,6 +3960,8 @@ snapshots:
     dependencies:
       '@algolia/client-common': 5.41.0
 
+=======
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   '@babel/code-frame@7.27.1':
     dependencies:
       '@babel/helper-validator-identifier': 7.27.1
@@ -3964,6 +3983,7 @@ snapshots:
 
   '@bufbuild/protobuf@2.9.0': {}
 
+<<<<<<< HEAD
   '@docsearch/css@3.9.0': {}
 
   '@docsearch/js@3.9.0(@algolia/client-search@5.41.0)(react@19.2.0)(search-insights@2.17.3)':
@@ -3990,6 +4010,9 @@ snapshots:
       - '@algolia/client-search'
 
   '@esbuild/aix-ppc64@0.25.10':
+=======
+  '@esbuild/aix-ppc64@0.25.11':
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
     optional: true
 
   '@esbuild/android-arm64@0.25.10':
@@ -4352,6 +4375,7 @@ snapshots:
     optionalDependencies:
       markdown-it: 14.1.0
 
+<<<<<<< HEAD
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
       '@nodelib/fs.stat': 2.0.5
@@ -4364,6 +4388,8 @@ snapshots:
       '@nodelib/fs.scandir': 2.1.5
       fastq: 1.19.1
 
+=======
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   '@parcel/watcher-android-arm64@2.5.1':
     optional: true
 
@@ -4469,8 +4495,11 @@ snapshots:
 
   '@sindresorhus/merge-streams@2.3.0': {}
 
+<<<<<<< HEAD
   '@stackblitz/sdk@1.11.0': {}
 
+=======
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   '@types/body-parser@1.19.6':
     dependencies:
       '@types/connect': 3.4.38
@@ -4903,6 +4932,7 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
+<<<<<<< HEAD
   '@vuepress/plugin-docsearch@2.0.0-rc.112(@algolia/client-search@5.41.0)(react@19.2.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))':
     dependencies:
       '@docsearch/css': 3.9.0
@@ -4922,6 +4952,9 @@ snapshots:
       - typescript
 
   '@vuepress/plugin-git@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))':
+=======
+  '@vuepress/plugin-git@2.0.0-rc.112(vuepress@2.0.0-rc.26(@vuepress/bundler-webpack@2.0.0-rc.26)(vue@3.5.22))':
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
     dependencies:
       '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
       '@vueuse/core': 13.9.0(vue@3.5.22)
@@ -5331,23 +5364,6 @@ snapshots:
       fast-uri: 3.1.0
       json-schema-traverse: 1.0.0
       require-from-string: 2.0.2
-
-  algoliasearch@5.41.0:
-    dependencies:
-      '@algolia/abtesting': 1.7.0
-      '@algolia/client-abtesting': 5.41.0
-      '@algolia/client-analytics': 5.41.0
-      '@algolia/client-common': 5.41.0
-      '@algolia/client-insights': 5.41.0
-      '@algolia/client-personalization': 5.41.0
-      '@algolia/client-query-suggestions': 5.41.0
-      '@algolia/client-search': 5.41.0
-      '@algolia/ingestion': 1.41.0
-      '@algolia/monitoring': 1.41.0
-      '@algolia/recommend': 5.41.0
-      '@algolia/requester-browser-xhr': 5.41.0
-      '@algolia/requester-fetch': 5.41.0
-      '@algolia/requester-node-http': 5.41.0
 
   ansi-html-community@0.0.8: {}
 
@@ -7011,9 +7027,12 @@ snapshots:
       iconv-lite: 0.4.24
       unpipe: 1.0.0
 
+<<<<<<< HEAD
   react@19.2.0:
     optional: true
 
+=======
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   readable-stream@2.3.8:
     dependencies:
       core-util-is: 1.0.3
@@ -7227,8 +7246,6 @@ snapshots:
       ajv: 8.17.1
       ajv-formats: 2.1.1(ajv@8.17.1)
       ajv-keywords: 5.1.0(ajv@8.17.1)
-
-  search-insights@2.17.3: {}
 
   section-matter@1.0.0:
     dependencies:
@@ -7519,8 +7536,6 @@ snapshots:
 
   trough@2.2.0: {}
 
-  ts-debounce@4.0.0: {}
-
   tslib@2.8.1: {}
 
   type-is@1.6.18:
@@ -7679,7 +7694,11 @@ snapshots:
     transitivePeerDependencies:
       - typescript
 
+<<<<<<< HEAD
   vuepress-theme-hope@2.0.0-rc.94(@vuepress/plugin-docsearch@2.0.0-rc.112(@algolia/client-search@5.41.0)(react@19.2.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22)))(@vuepress/plugin-search@2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22)))(@waline/client@3.7.0)(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass-loader@16.0.5(sass-embedded@1.93.2)(sass@1.93.2)(webpack@5.102.1))(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22)):
+=======
+  vuepress-theme-hope@2.0.0-rc.94(@vuepress/plugin-search@2.0.0-rc.115(vuepress@2.0.0-rc.26(@vuepress/bundler-webpack@2.0.0-rc.26)(vue@3.5.22)))(@waline/client@3.7.0)(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass-loader@16.0.6(sass-embedded@1.93.2)(sass@1.93.2)(webpack@5.102.1))(sass@1.93.2)(vuepress@2.0.0-rc.26(@vuepress/bundler-webpack@2.0.0-rc.26)(vue@3.5.22)):
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
     dependencies:
       '@vuepress/helper': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
       '@vuepress/plugin-active-header-links': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
@@ -7722,8 +7741,12 @@ snapshots:
       vuepress-plugin-md-enhance: 2.0.0-rc.94(markdown-it@14.1.0)(sass-embedded@1.93.2)(sass-loader@16.0.5(sass-embedded@1.93.2)(sass@1.93.2)(webpack@5.102.1))(sass@1.93.2)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
       vuepress-shared: 2.0.0-rc.94(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
     optionalDependencies:
+<<<<<<< HEAD
       '@vuepress/plugin-docsearch': 2.0.0-rc.112(@algolia/client-search@5.41.0)(react@19.2.0)(search-insights@2.17.3)(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
       '@vuepress/plugin-search': 2.0.0-rc.112(vuepress@2.0.0-rc.24(@vuepress/bundler-webpack@2.0.0-rc.24)(vue@3.5.22))
+=======
+      '@vuepress/plugin-search': 2.0.0-rc.115(vuepress@2.0.0-rc.26(@vuepress/bundler-webpack@2.0.0-rc.26)(vue@3.5.22))
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
       sass: 1.93.2
       sass-embedded: 1.93.2
       sass-loader: 16.0.5(sass-embedded@1.93.2)(sass@1.93.2)(webpack@5.102.1)
@@ -7927,4 +7950,9 @@ snapshots:
       y18n: 4.0.3
       yargs-parser: 18.1.3
 
+<<<<<<< HEAD
+=======
+  yoctocolors@2.1.2: {}
+
+>>>>>>> 7de1211a5d889c5e25928533129d6682977d303c
   zwitch@2.0.4: {}

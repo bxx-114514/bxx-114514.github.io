@@ -162,7 +162,7 @@ export default hopeTheme({
       // repoId: "R_kgDOP7K8Qg",
       // category: "Announcements",
       // categoryId: "DIC_kwDOP7K8Qs4CwLTE"
-    },
+    // },
 
     components: {
       components: ["Badge", "VPCard"],
