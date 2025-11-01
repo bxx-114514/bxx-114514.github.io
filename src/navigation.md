@@ -24,7 +24,7 @@ categories:
 - [仙舟联盟的米游观察站](https://github.com/bxx-114514/xzlm-hyv)
 - [《原神》与媒体](https://github.com/bxx-114514/genshinimpact-and-media)
 
-### 联系和投稿方式 Contact & Relate Details
+## 联系和投稿方式 Contact & Relate Details
 * Email: tzhong072@gmail.com
 
 ### SNS
