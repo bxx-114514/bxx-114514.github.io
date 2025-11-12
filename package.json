@@ -12,16 +12,15 @@
     "deploy": "bash deploy.sh"
   },
   "devDependencies": {
-    "@vuepress/bundler-webpack": "2.0.0-rc.26",
-    "@vuepress/plugin-docsearch": "2.0.0-rc.118",
-    "@vuepress/plugin-pwa": "2.0.0-rc.119",
-    "@vuepress/plugin-search": "2.0.0-rc.118",
-    "@waline/client": "^3.7.1",
-    "sass-embedded": "^1.93.3",
-    "sass-loader": "^16.0.6",
-    "vue": "^3.5.24",
-    "vuepress": "2.0.0-rc.26",
-    "vuepress-theme-hope": "2.0.0-rc.98"
+  "@vuepress/bundler-webpack": "2.0.0-rc.24",
+  "@vuepress/plugin-docsearch": "2.0.0-rc.112",
+  "@vuepress/plugin-search": "2.0.0-rc.112",
+    "@waline/client": "^3.7.0",
+    "sass-embedded": "^1.89.2",
+    "sass-loader": "^16.0.5",
+    "vue": "^3.5.17",
+    "vuepress": "2.0.0-rc.24",
+    "vuepress-theme-hope": "2.0.0-rc.94"
   },
   "packageManager": "pnpm@10.19.0+sha512.c9fc7236e92adf5c8af42fd5bf1612df99c2ceb62f27047032f4720b33f8eacdde311865e91c411f2774f618d82f320808ecb51718bfa82c060c4ba7c76a32b8"
 }
