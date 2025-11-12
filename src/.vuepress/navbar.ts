@@ -4,11 +4,13 @@ export default navbar([
   "/",
   {
     text: "原导航页",
-    link: "/navigation.md"
+    link: "/navigation.md",
+    icon: "line-md:compass-filled"
   },
   {
     text: "留言区",
-    link: "/comments.md"
+    link: "/comments.md",
+    icon: "line-md:chat-round-dots-filled"
   },
   {
     text: "i 鸣相关",

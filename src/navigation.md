@@ -1,6 +1,7 @@
 ---
 title: 导航页
 date: 2025-05-01
+icon: line-md:compass-filled
 categories:
   - 其他
   - 导航页
