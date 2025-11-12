@@ -1,6 +1,7 @@
 ---
+title: 介绍页
 icon: circle-info
-cover: /assets/images/cover3.jpg
+cover: /125323026_p0.webp
 ---
 
 # 介绍页

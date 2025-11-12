@@ -29,5 +29,10 @@ export default navbar([
   {
     text: "i 鬼",
     link: "/igui/"
+  },
+  {
+    text: "关于我",
+    link: "/intro.md",
+    icon: "circle-info"
   }
 ]);
