@@ -7,11 +7,11 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "呜哇呜哇不羡仙 - 114514",
+    name: "천화(天華)SRSH",
     url: "https://mister-hope.com",
   },
 
-  logo: "/16.png",
+  logo: "/logo.png",
 
   repo: "bxx-114514/bxx-114514.github.io",
 
@@ -31,6 +31,8 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
+    avatar: "/Citlali.jpg",
+    name: "천화(天華)SRSH",
     description: "一个正义的史官",
     intro: "/intro.html",
     medias: {
@@ -42,7 +44,7 @@ export default hopeTheme({
       Twitter: "https://x.com/bxx_114514",
       Weibo: "https://weibo.com/u/7847016698",
       XiaoHongShu: "https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d",
-      Youtube: "https://youtube.com/@buxianxian-ii45i4",
+      Youtube: "https://youtube.com/@bxx-ii45i4",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
         link: "https://theme-hope.vuejs.press",
