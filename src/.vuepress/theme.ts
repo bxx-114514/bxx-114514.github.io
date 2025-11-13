@@ -44,7 +44,7 @@ export default hopeTheme({
       Twitter: "https://x.com/bxx_114514",
       Weibo: "https://weibo.com/u/7847016698",
       XiaoHongShu: "https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d",
-      Youtube: "https://youtube.com/@bxx-ii45i4",
+      Youtube: "https://www.youtube.com/@bxx-ii4514",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
         link: "https://theme-hope.vuejs.press",
