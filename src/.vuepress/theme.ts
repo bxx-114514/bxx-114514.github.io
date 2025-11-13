@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "천화(天華)SRSH",
-    url: "https://mister-hope.com",
+    url: "https://bxx-114514.github.io",
   },
 
   logo: "/logo.png",
