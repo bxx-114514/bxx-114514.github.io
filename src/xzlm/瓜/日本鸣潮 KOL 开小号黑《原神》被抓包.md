@@ -1,7 +1,7 @@
 ---
 title: 日本鸣潮 KOL 开小号黑《原神》被抓包
 date: 2025-09-15
-category:
+categories:
   - i 鸣
   - 留档
   - 《原神》和媒体
