@@ -38,6 +38,7 @@ export default hopeTheme({
     medias: {
       BiliBili: "https://space.bilibili.com/626140137",
       Email: "mailto:tzhong072@gmail.com",
+      QQ: "https://qm.qq.com/q/1uKRrF0dba",
       GitHub: "https://github.com/bxx-114514",
       Gmail: "mailto:tzhong072@gmail.com",
       Instagram: "https://www.instagram.com/114514buxianxian/",
