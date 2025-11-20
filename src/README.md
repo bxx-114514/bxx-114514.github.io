@@ -10,5 +10,5 @@ tagline: 社区，终将被点燃。互联网永远有记忆。
 bgImage: /125931837_p0.webp
 bgImageDark: /125931837_p0.webp
 projects: 
-footer: <div align="left">社区终将被点燃。<br>Powered by <a href="https://theme-hope.vuejs.press/zh/">VuePress-Theme-Hope</a></div>
+footer: 
 ---

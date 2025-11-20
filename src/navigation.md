@@ -9,7 +9,7 @@ categories:
 
 ## 网页传送门 Website Links
 
-### **GitHub Pages**
+### GitHub Pages
 - [~~i 鸣~~](https://bxx-114514.github.io/iming-blog)
 - [i 鸣（新）](https://bxx-114514.github.io/new-iming-blog)
 - [i 哔](https://bxx-114514.github.io/evil-of-bilibili)
@@ -17,7 +17,7 @@ categories:
 - [仙舟联盟的米游观察站](https://bxx-114514.github.io/xzlm-hyv)
 - [《原神》与媒体](https://bxx-114514.github.io/genshinimpact-and-media)
 
-### **仓库 Repositories**
+### 仓库 Repositories
 - [~~i 鸣~~](https://github.com/bxx-114514/iming-blog)
 - [i 鸣（新）](https://github.com/bxx-114514/new-iming-blog)
 - [i 哔](https://github.com/bxx-114514/evil-of-bilibili)

@@ -26,7 +26,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "社区终将被点燃。",
+  footer: "Powered by VuePress-Theme-Hope",
   displayFooter: true,
 
   // 博客相关
