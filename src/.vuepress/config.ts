@@ -13,6 +13,7 @@ export default defineUserConfig({
 
   head: [
   // ...
+    ["script", { src: "/live2d-widget/dist/autoload.js" }],
 
   // 导入相应链接
     ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
