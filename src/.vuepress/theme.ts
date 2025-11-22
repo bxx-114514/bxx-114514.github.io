@@ -49,7 +49,7 @@ export default hopeTheme({
       Youtube: "https://www.youtube.com/@bxx-ii4514",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press/zh",
+        link: "https://theme-hope.vuejs.press/zh/",
       },
     },
   },
