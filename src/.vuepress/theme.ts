@@ -38,6 +38,7 @@ export default hopeTheme({
     medias: {
       BiliBili: "https://space.bilibili.com/626140137",
       Email: "mailto:tzhong072@gmail.com",
+      Telegram: "https://t.me/bxx_114514",
       QQ: "https://qm.qq.com/q/1uKRrF0dba",
       GitHub: "https://github.com/bxx-114514",
       Gmail: "mailto:tzhong072@gmail.com",
@@ -48,7 +49,7 @@ export default hopeTheme({
       Youtube: "https://www.youtube.com/@bxx-ii4514",
       VuePressThemeHope: {
         icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
+        link: "https://theme-hope.vuejs.press/zh",
       },
     },
   },
