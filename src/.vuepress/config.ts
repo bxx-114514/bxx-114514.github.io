@@ -44,6 +44,14 @@ export default defineUserConfig({
         href: "https://cdn.jsdelivr.net/npm/misans@4.1.0/lib/Normal/MiSans-Bold.min.css",
       }
     ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        crossorigin: "anonymous",
+        href: "/css/HYWenHei-85W.css",
+      }
+    ]
   ],
 
   // 和 PWA 一起启用
