@@ -19,6 +19,8 @@ export default hopeTheme({
   docsRepo: "bxx-114514/bxx-114514.github.io",
   docsBranch: "main",
 
+  fullscreen: true,
+
   // 导航栏
   navbar,
 
@@ -33,7 +35,7 @@ export default hopeTheme({
   blog: {
     avatar: "/Citlali.jpg",
     name: "천화(天華)SRSH",
-    description: "一个正义的史官",
+    description: "新的节奏若要萌芽，它的大脑须是死的。",
     intro: "/intro.html",
     medias: {
       BiliBili: "https://space.bilibili.com/626140137",

@@ -6,9 +6,9 @@ title: 主页 Home
 heroImage: /16.png
 heroText: bxx-114514 的留档博客
 heroFullScreen: true
-tagline: 社区，终将被点燃。互联网永远有记忆。
-bgImage: /125931837_p0.webp
-bgImageDark: /125931837_p0.webp
+tagline: 新的节奏若要萌芽，它的大脑须是死的。
+bgImage: /125323026_p0.webp
+bgImageDark: /125323026_p0.webp
 projects: 
 footer: 
 ---

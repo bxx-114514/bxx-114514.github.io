@@ -5,32 +5,43 @@ export default navbar([
   {
     text: "原导航页",
     link: "/navigation.md",
-    icon: "line-md:compass-filled"
+    icon: "compass"
   },
   {
     text: "留言区",
     link: "/comments.md",
-    icon: "line-md:chat-round-dots-filled"
+    icon: "comment"
   },
   {
-    text: "i 鸣相关",
-    link: "/iming/"
-  },
-  {
-    text: "仙舟联盟",
-    link: "/xzlm/"
-  },
-  {
-    text: "《原神》和媒体",
-    link: "/genshinimpact-media/"
-  },
-  {
-    text: "AC",
-    link: "/ibili-blog/"
-  },
-  {
-    text: "i 鬼",
-    link: "/igui/"
+    text: "分类",
+    icon: "folder",
+    children: [
+      {
+        text: "文章分类",
+        children: [
+          {
+            text: "i 鸣相关",
+            link: "/iming/"
+          },
+          {
+            text: "仙舟联盟",
+            link: "/xzlm/"
+          },
+          {
+            text: "《原神》和媒体",
+            link: "/genshinimpact-media/"
+          },
+          {
+            text: "AC",
+            link: "/ibili-blog/"
+          },
+          {
+            text: "i 鬼",
+            link: "/igui/"
+          }
+        ]
+      }
+    ]
   },
   {
     text: "关于我",

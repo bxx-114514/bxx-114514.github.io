@@ -1,7 +1,7 @@
 ---
 title: 评论和留言区 Comments & Messages Area
 date: 2025-10-27
-icon: line-md:chat-round-dots-filled
+icon: comment
 categories:
   - 其他
   - 留言页
