@@ -4,7 +4,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://bxx-114514.github.io",
 
   author: {
     name: "천화(天華)SRSH",
@@ -152,6 +152,7 @@ export default hopeTheme({
   plugins: {
     blog: true,
     search: true,
+    seo: true,
 
     // 启用之前需安装 @waline/client
     // 警告: 这是一个仅供演示的测试服务，在生产环境中请自行部署并使用自己的服务！
@@ -160,6 +161,12 @@ export default hopeTheme({
       serverURL: "https://bxx-waline.netlify.app/.netlify/functions/comment",
       dark: "auto",
       reaction: true,
+      requiredMeta: ["nick", "mail"],
+      locales: {
+        "/": {
+          placeholder: "说点什么吧（昵称和邮箱为必填项。为了你能及时收到相关回复的邮件通知，请确保邮箱的正确性！）",
+        },
+      },
     },
 
     // comment: {
