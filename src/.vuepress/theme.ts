@@ -3,8 +3,10 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
+const isNetlify = process.env.NETLIFY_CNAME;
+
 export default hopeTheme({
-  hostname: "https://bxx-114514.github.io",
+  hostname: isNetlify ? 'https://bxx114514.netlify.app' : 'https://bxx-114514.github.io/',
 
   author: {
     name: "천화(天華)SRSH",

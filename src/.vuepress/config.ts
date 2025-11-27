@@ -2,8 +2,10 @@ import { defineUserConfig } from "vuepress";
 
 import theme from "./theme.js";
 
+const isNetlify = process.env.NETLIFY_CNAME;
+
 export default defineUserConfig({
-  base: "/",
+  base: isNetlify ? '/' : '/',
 
   lang: "zh-CN",
   title: "bxx-114514 的留档博客",
