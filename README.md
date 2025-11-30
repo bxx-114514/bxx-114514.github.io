@@ -1,4 +1,6 @@
-# 说明 Introduction
+# bxx-114514.github.io
+
+![GitHub top language](https://img.shields.io/github/languages/top/bxx-114514/bxx-114514.github.io?color=blue&logo=Ionic&style=flat&logoColor=white) ![GitHub stars](https://img.shields.io/github/stars/bxx-114514/bxx-114514.github.io?color=success&style=flat&logo=github) ![GitHub forks](https://img.shields.io/github/forks/bxx-114514/bxx-114514.github.io?color=orange&logo=Furry%20Network&style=flat&logoColor=white) ![GitHub last commit](https://img.shields.io/github/last-commit/bxx-114514/bxx-114514.github.io?color=ff69b4&label=update&logo=git&style=flat&logoColor=white)
 
 这是网页的源代码仓库，已编译的网页则在 [`gh-pages`](https://github.com/bxx-114514/bxx-114514.github.io/tree/gh-pages) 分支存储。由 [`VuePress-Theme-Hope`](https://theme-hope.vuejs.press/zh/) 模板提供支持。
 
