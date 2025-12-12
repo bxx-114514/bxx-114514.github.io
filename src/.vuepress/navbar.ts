@@ -13,6 +13,10 @@ export default navbar([
         text: "文章分类",
         children: [
           {
+            text: "所有文章",
+            link: "/posts/"
+          },
+          {
             text: "i 鸣相关",
             link: "/posts/iming/"
           },
