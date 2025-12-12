@@ -1,5 +1,5 @@
 ---
-title: 评论和留言区 Comments & Messages Area
+title: 留言板
 date: 2025-10-27
 icon: comment
 categories:
@@ -7,7 +7,7 @@ categories:
   - 留言页
 ---
 
-# 评论和留言区 Comments & Messages Area
+# 留言板
 
 # 在这里任意写下想发表的内容吧。
 

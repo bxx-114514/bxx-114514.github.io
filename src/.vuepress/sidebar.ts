@@ -1,11 +1,20 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/iming/": "structure",
-  "/xzlm/": "structure",
-  "/genshinimpact-media/": "structure",
-  "/ibili-blog/": "structure",
-  "/igui/": "structure",
+  "/": [
+    "", "navigation", "comments", "posts/", "intro"
+  ],
+
+  "/posts/": [
+    {
+      text: "文章",
+      icon: "book",
+      prefix: "",
+      link: "",
+      collapsible: true,
+      children: "structure",
+    },
+  ],
 },
 
 );

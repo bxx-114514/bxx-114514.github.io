@@ -2,42 +2,35 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  {
-    text: "原导航页",
-    link: "/navigation.md",
-    icon: "compass"
-  },
-  {
-    text: "留言区",
-    link: "/comments.md",
-    icon: "comment"
-  },
+  "/navigation",
+  "/comments",
   {
     text: "分类",
     icon: "folder",
+    prefix: "posts/",
     children: [
       {
         text: "文章分类",
         children: [
           {
             text: "i 鸣相关",
-            link: "/iming/"
+            link: "/posts/iming/"
           },
           {
             text: "仙舟联盟",
-            link: "/xzlm/"
+            link: "/posts/xzlm/"
           },
           {
             text: "《原神》和媒体",
-            link: "/genshinimpact-media/"
+            link: "/posts/genshinimpact-media/"
           },
           {
             text: "AC",
-            link: "/ibili-blog/"
+            link: "/posts/ibili-blog/"
           },
           {
             text: "i 鬼",
-            link: "/igui/"
+            link: "/posts/igui/"
           }
         ]
       }
@@ -45,7 +38,7 @@ export default navbar([
   },
   {
     text: "关于我",
-    link: "/intro.md",
+    link: "/posts/intro.md",
     icon: "circle-info"
   }
 ]);
