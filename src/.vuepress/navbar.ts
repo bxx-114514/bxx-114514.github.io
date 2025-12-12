@@ -40,9 +40,5 @@ export default navbar([
       }
     ]
   },
-  {
-    text: "关于我",
-    link: "/posts/intro.md",
-    icon: "circle-info"
-  }
+  "/intro",
 ]);

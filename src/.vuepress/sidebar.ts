@@ -2,7 +2,7 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
-    "", "navigation", "comments", "posts/", "intro"
+    "", "navigation", "comments", "intro"
   ],
 
   "/posts/": [
