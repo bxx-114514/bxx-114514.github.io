@@ -30,7 +30,7 @@ Only fork source code branch `main` is enough. Just wait a minute.
 
 #### II. Clone forked repo into local for create posts
 
-1. Open your working directory and attention **cannot include Chinese, Japanese, Korean, Emoji, etc non-halfspace English text and halfspace/fullspace spaces!**
+1. Open your working directory and attention **cannot include Chinese, Japanese, Korean, Emoji, etc non-halfwidth English text and halfwidth/fullwidth spaces!**
    1. Error example `X:\ab cd\我的项目\`, correct example `X:\abcd-1234\my-project\`.
 2. Right-click blank area and click [Show more options] - [Open Git Bash here] (for Windows 11) or click [Open Git Bash here] directly (for Windows 10 and below) on menu.
    1. You can also input `cmd` for open Command Prompt in folder.
@@ -145,14 +145,14 @@ I will **examination** commit contents after reserving. **If it doesn’t have i
 
 ### The instruction for [my image hosting](https://github.com/bxx-114514/image-hosting)
 
-- **Image formats**: `*.webp`, `*.jpg`, `*.png`. Recommend `*.webp` lossy format and the quality is 80~90%.
+- **Image formats**: `*.webp`, `*.jpg`, `*.png`, recommend `*.webp` lossy format and the quality is 80~90%.
 - **File name and path**: `images/yymmdd/xx.webp` or `images/yymmdd-xx/xx.webp`.
   - `images` is fixed folder for images.
-  - `yymmdd` is date. For example, January 1st, 2025 is `250101`. If you had multi posts on the day, than you add `-xx` at end. For example, the pictures for 2nd post at January 1st, 2025 and so on.
-  - `xx.webp` is file name by number. For example, `01.webp` is the 1st picture in folder. The file extension must same with original file.
+  - `yymmdd` is date. For example, January 1, 2025 is `250101`. If you had multi posts on the day, than you add `-xx` at end. For example, the pictures for 2nd post at January 1st, 2025 is `250101-2` and so on.
+  - `xx.webp` is file name by number. For example, `01.webp` is the 1st picture in folder. Please note the file extension must same with original file.
   - **Complete examples**:
-    - **The first image of January 1, 2025**: `images/250101/01.webp`.
-    - **January 1, 2025 First image of the second post**: `images/250101-2/01.webp`.
+    - **The 1st image of January 1, 2025**: `images/250101/01.webp`.
+    - **January 1, 2025 1st image of the second post**: `images/250101-2/01.webp`.
 - **Link formats**:
   - `https://raw.githubusercontent.com/your-username/image-hosting/refs/heads/main/images/yymmdd/xx.webp`
   - `your-username` is your GitHub username. 
