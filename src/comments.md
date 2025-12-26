@@ -9,6 +9,10 @@ categories:
 
 # 留言板
 
+::: center
+
 # 在这里任意写下想发表的内容吧。
 
 # Write here what you want to post.
+
+:::
