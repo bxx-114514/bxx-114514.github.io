@@ -9,10 +9,10 @@ tags:
   - 协作
 ---
 
-## 通过邮件或发表在 [留言板](https://bxx-114514.github.io/comments.html)
+## 通过邮件或发表在 [留言板](/comments.html)
 
 - 将所需留档的图文发邮箱到 tzhong072@gmail.com 或 bxx-114514@outlook.com。
-- 直接发表在 [留言板](https://bxx-114514.github.io/comments.html)。注意带图**需要自备图床**。
+- 直接发表在 [留言板](/comments.html)。注意带图**需要自备图床**。
 
 ## 提交 PR (Pull request)
 
