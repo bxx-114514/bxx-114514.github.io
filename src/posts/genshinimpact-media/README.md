@@ -1,7 +1,8 @@
 ---
 title: 《原神》和媒体
-index: false
+index: true
 category: 《原神》和媒体
+date: 2024-07-01
 ---
 
 <Catalog />

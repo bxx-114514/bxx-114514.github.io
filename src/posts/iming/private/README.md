@@ -1,7 +1,8 @@
 ---
 title: 盒武器
-index: false
+index: true
 category: 盒武器
+date: 2024-07-01
 ---
 
 <Catalog />

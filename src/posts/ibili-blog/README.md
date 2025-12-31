@@ -1,5 +1,8 @@
 ---
 title: AC
+index: true
+category: AC
+date: 2024-07-01
 ---
 
 ![](https://raw.githubusercontent.com/bxx-114514/evil-of-bilibili/refs/heads/main/Images/head.jpg)
