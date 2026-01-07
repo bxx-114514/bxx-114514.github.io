@@ -155,6 +155,7 @@ export default hopeTheme({
     blog: true,
     search: true,
     seo: true,
+    pwa: true,
     feed: {
       rss: true,
       atom: true,
@@ -170,12 +171,14 @@ export default hopeTheme({
       reaction: true,
       requiredMeta: ["nick", "mail"],
       emoji: [
+        "https://unpkg.com/@waline/emojis@1.1.0/bmoji",
         "https://unpkg.com/@waline/emojis@1.1.0/weibo",
         "https://unpkg.com/@waline/emojis@1.1.0/alus",
         "https://unpkg.com/@waline/emojis@1.1.0/bilibili",
         "https://unpkg.com/@waline/emojis@1.1.0/qq",
         "https://unpkg.com/@waline/emojis@1.1.0/tieba",
         "https://unpkg.com/@waline/emojis@1.1.0/tw-emoji",
+        "https://unpkg.com/@waline/emojis@1.4.0/hoyoverse-hi3",
         "https://emoji.shojo.cn/bili/webp/乖巧宝宝",
         "https://emoji.shojo.cn/bili/webp/乖巧宝宝%20清凉一夏",
         "https://emoji.shojo.cn/bili/webp/原神",

@@ -10,6 +10,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "bxx-114514 的留档博客",
   description: "bxx-114514 的留档博客",
+  shouldPrefetch: false,
 
   theme,
 

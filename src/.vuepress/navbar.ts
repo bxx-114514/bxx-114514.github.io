@@ -41,4 +41,22 @@ export default navbar([
     ]
   },
   "/intro",
+  {
+    text: "订阅",
+    icon: "rss",
+    children: [
+      {
+        text: "RSS",
+        link: "/rss.xml"
+      },
+      {
+        text: "Atom",
+        link: "/atom.xml"
+      },
+      {
+        text: "Feed",
+        link: "/feed.json"
+      },
+    ]
+  },
 ]);
