@@ -1,0 +1,2666 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://bxx-114514.github.io/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://bxx-114514.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>bxx-114514 的留档博客</title>
+    <link>https://bxx-114514.github.io/</link>
+    <description>bxx-114514 的留档博客</description>
+    <language>zh-CN</language>
+    <pubDate>Thu, 22 Jan 2026 17:42:51 GMT</pubDate>
+    <lastBuildDate>Thu, 22 Jan 2026 17:42:51 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>《原神》和媒体</category>
+    <category>教程</category>
+    <category>留档</category>
+    <category>文章</category>
+    <category>鬼童丸</category>
+    <category>i 鸣</category>
+    <category>仙舟联盟</category>
+    <category>重量级</category>
+    <category>盒武器</category>
+    <category>盗用事件</category>
+    <category>瓜</category>
+    <category>未分类</category>
+    <category>尖锐的声音</category>
+    <category>文章分类</category>
+    <category>节奏</category>
+    <category>技术</category>
+    <category>安全</category>
+    <category>其他</category>
+    <category>留言页</category>
+    <category>导航页</category>
+    <category>AC</category>
+    <item>
+      <title>有关某家庭和学校纠纷的真相</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/260107.html</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/260107.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">有关某家庭和学校纠纷的真相</source>
+      <description>重要 节哀顺变。愿逝者安息。🙏 众所周知，米默对于「反米」事业大于一切，宁愿触碰红线和吃人血馒头也要反米。 最近，前段时间有关某个家庭和学校的纠纷，在最近被爆出。 当然，这事的重点不是「被爆出」纠纷，而是米默的关注重点并不在此事的核心焦点，而是在那个孩子出现的原相关内容上。 前因后果 该 11 岁女孩因不满老师体罚，和一位网友说了此事，该网友让女孩将...</description>
+      <category>《原神》和媒体</category>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container important">
+<p class="hint-container-title">重要</p>
+<p>节哀顺变。愿逝者安息。🙏</p>
+</div>
+<p>众所周知，米默对于「反米」事业大于一切，宁愿<strong>触碰红线</strong>和<strong>吃人血馒头</strong>也要反米。</p>
+]]></content:encoded>
+      <enclosure url="https://cdn.jsdelivr.net/gh/bxx-114514/image-hosting/images/260107/02.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>如何提交要留档的图文</title>
+      <link>https://bxx-114514.github.io/posts/relate-zh.html</link>
+      <guid>https://bxx-114514.github.io/posts/relate-zh.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">如何提交要留档的图文</source>
+      <description>通过邮件或发表在 将所需留档的图文发邮箱到 tzhong072@gmail.com 或 bxx-114514@outlook.com。 直接发表在 。注意带图需要自备图床。 提交 PR (Pull request) 所需条件 熟悉 Git、VS Code、Node.js、NPM、Yarn、PNPM 等软件且已安装。 熟悉 GitHub 的使用。 熟悉 ...</description>
+      <category>教程</category>
+      <category>留档</category>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>通过邮件或发表在 <a href="/comments.html" target="_blank">留言板</a></h2>
+<ul>
+<li>将所需留档的图文发邮箱到 <a href="mailto:tzhong072@gmail.com" target="_blank" rel="noopener noreferrer">tzhong072@gmail.com</a> 或 <a href="mailto:bxx-114514@outlook.com" target="_blank" rel="noopener noreferrer">bxx-114514@outlook.com</a>。</li>
+<li>直接发表在 <a href="/comments.html" target="_blank">留言板</a>。注意带图<strong>需要自备图床</strong>。</li>
+</ul>
+<h2>提交 PR (Pull request)</h2>
+<h3>所需条件</h3>
+<ul>
+<li>熟悉 Git、VS Code、Node.js、NPM、Yarn、PNPM 等软件且已安装。</li>
+<li>熟悉 GitHub 的使用。</li>
+<li>熟悉 Markdown 语法，以及其他标记语言。</li>
+<li><s>当然如果你是前端大佬就更好。</s></li>
+</ul>
+<h3>提交步骤</h3>
+<h4>一、Fork 仓库</h4>
+<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p><strong>必须要有自己的 GitHub 账户！</strong></p>
+</div>
+<p>单击 <a href="https://github.com/bxx-114514/bxx-114514.github.io/fork" target="_blank" rel="noopener noreferrer">Fork</a> 或者进入 <a href="https://github.com/bxx-114514/bxx-114514.github.com" target="_blank" rel="noopener noreferrer">仓库</a> 单击 Fork 按钮，Fork 一份在你的 GitHub 账户中。</p>
+<p>只 Fork 源代码 <code>main</code> 分支就足够。稍等片刻即可。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/01.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/02.png" alt="" loading="lazy"></p>
+<h4>二、克隆到本地以进行添加图文</h4>
+<ol>
+<li>先打开你所需的工作区文件夹，注意<strong>路径中不能有中文、日文、韩文、emoji 等非半角英文字符和半／全角空格</strong>！
+<ol>
+<li>错误示例 <code>X:\ab cd\我的项目\</code>，正确示例 <code>X:\abcd-1234\my-project\</code>。</li>
+</ol>
+</li>
+<li>右键单击空白区域，在弹出的菜单中选择【显示更多选项】—【Open Git Bash here】（Windows 11）或者直接选择【Open Git Bash here】（Windows 10 及以下）。
+<ol>
+<li>也可以在地址栏中输入 <code>cmd</code> 在工作区文件夹打开命令提示符。</li>
+</ol>
+</li>
+<li>使用 <code>git clone</code> 命令克隆。所需命令在下方。</li>
+<li>稍等片刻即可。</li>
+</ol>
+<div class="language-sh line-numbers-mode" data-highlighter="shiki" data-ext="sh" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-sh"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">git</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> clone</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> https://github.com/your-username/bxx-114514.github.io</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/03.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>需要替换成你自己的用户名！</p>
+</div>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<ul>
+<li>你可以在链接后面加上名字，以指定所需克隆的文件夹。</li>
+<li>例如 <code>git clone https://github.com/your-username/bxx-114514.github.io example</code> 是指定克隆到工作目录下的 <code>example</code> 文件夹。</li>
+<li>而 <code>git clone https://github.com/your-username/bxx-114514.github.io example/abc</code> 则是指定克隆到工作目录下 <code>example</code> 里的 <code>abc</code> 文件夹。</li>
+</ul>
+</div>
+<h4>三、进行更改操作</h4>
+<p>进入工作区文件夹，在空白处右键单击，在弹出的快捷菜单中单击【显示更多选项】—【通过 Code 打开】（Windows 11）或直接单击【通过 Code 打开】（Windows 10 及以下）。</p>
+<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>保险起见，你需要在 VS Code 内打开终端，安装所需 PNPM 组件，才能在本地进行预览。</p>
+</div>
+<div class="language-sh line-numbers-mode" data-highlighter="shiki" data-ext="sh" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-sh"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">pnpm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> i</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/04.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>在 <code>src/posts</code> 的相应子目录创建并打开相关 <code>*.md</code> 后缀 Markdown 文档，进行撰写。</p>
+<p>在 Markdown 文档的前面需要有 Front-matter 用于标记标题、日期、分类、标签等信息。</p>
+<div class="language-yaml line-numbers-mode" data-highlighter="shiki" data-ext="yaml" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-yaml"><span class="line"></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div>]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251212/01.png" type="image/png"/>
+    </item>
+    <item>
+      <title>文章</title>
+      <link>https://bxx-114514.github.io/posts/</link>
+      <guid>https://bxx-114514.github.io/posts/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">文章</source>
+      <category>文章</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>《原神》和媒体</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">《原神》和媒体</source>
+      <category>《原神》和媒体</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>鬼童丸</title>
+      <link>https://bxx-114514.github.io/posts/igui/</link>
+      <guid>https://bxx-114514.github.io/posts/igui/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">鬼童丸</source>
+      <category>鬼童丸</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>i 鸣</title>
+      <link>https://bxx-114514.github.io/posts/iming/</link>
+      <guid>https://bxx-114514.github.io/posts/iming/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">i 鸣</source>
+      <category>i 鸣</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>仙舟联盟</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">仙舟联盟</source>
+      <category>仙舟联盟</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>重量级</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">重量级</source>
+      <category>重量级</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>原神玩家拒绝入坑鸣潮之后，被举报到封号</title>
+      <link>https://bxx-114514.github.io/posts/iming/private/250817.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/private/250817.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">原神玩家拒绝入坑鸣潮之后，被举报到封号</source>
+      <description>注 小红书 @戏剧化愚者 笔记已经删光了，留个档，希望这位女孩子能振作起来。另外封面的「退网」是指离开小红书，其他平台有没有账号不清楚。 ps：似乎没这个缘分点进我那个动态（p5） 再次编辑：被库狗举报（p6），不利于赢的就要举报掉么？麻烦各位多多转发吧！ 外部链接 小红书 https://www.xiaohongshu.com/explore/683...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>小红书 <a href="https://www.xiaohongshu.com/user/profile/66ffe613000000001d032a70" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/4.jpg" alt="" loading="lazy"></p>
+<p>笔记已经删光了，留个档，希望这位女孩子能振作起来。另外封面的「退网」是指离开小红书，其他平台有没有账号不清楚。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/5.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>ps：似乎没这个缘分点进我那个动态（p5）</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/6.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>再次编辑：被库狗举报（p6），不利于赢的就要举报掉么？麻烦各位多多转发吧！</p>
+<h2>外部链接</h2>
+<ul>
+<li>小红书 <a href="https://www.xiaohongshu.com/explore/6836f05b0000000003039103" target="_blank" rel="noopener noreferrer">https://www.xiaohongshu.com/explore/6836f05b0000000003039103</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250528/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>盒武器</title>
+      <link>https://bxx-114514.github.io/posts/iming/private/</link>
+      <guid>https://bxx-114514.github.io/posts/iming/private/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">盒武器</source>
+      <category>盒武器</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>盗用事件</title>
+      <link>https://bxx-114514.github.io/posts/iming/stolen/</link>
+      <guid>https://bxx-114514.github.io/posts/iming/stolen/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">盗用事件</source>
+      <category>盗用事件</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>来吃某知名游戏音乐总监的瓜</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/250411.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/250411.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">来吃某知名游戏音乐总监的瓜</source>
+      <description>注 by 小红书 @依和p 来吃某知名游戏音乐总监的瓜。最近有人吐槽那个总监的专辑署名问题，结果来了个该厂人士，说有更离谱的看完之后也是绷不住了。 第二张图是爆料人，他之前在网易、kl 音乐部门工作过。根据他的说法，该游戏第一次公开测试的时候，制作人 lsl 要求国风游戏不可以用钢琴，但又不限制电子合成器，实在是太抽象了；而该音乐总监舔的特别厉害，以至...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 小红书 <a href="https://www.xiaohongshu.com/user/profile/620d3b24000000001000775a" target="_blank" rel="noopener noreferrer">@依和p</a></p>
+</div>
+<p>来吃某知名游戏音乐总监的瓜。最近有人吐槽那个总监的专辑署名问题，结果来了个该厂人士，说有更离谱的看完之后也是绷不住了。</p>
+<p>第二张图是爆料人，他之前在网易、kl 音乐部门工作过。根据他的说法，该游戏第一次公开测试的时候，制作人 lsl 要求<strong>国风游戏不可以用钢琴，但又不限制电子合成器</strong>，实在是太抽象了；<strong>而该音乐总监舔的特别厉害，以至于薪资特别高，还到处炫耀，以至于大家都知道他年薪百万了</strong>。从这里也可以看出来它这个特权确实比较离谱，<strong>因为行业是禁止自爆工资的。</strong></p>
+<p>甚至还透露，<strong>该音乐总监之前在网易雷火因为考勤问题被革职，失业了大半年，是该公司的前网易互娱员工看他可怜才招他进来的。他进来之后因为舔的厉害，靠着陷害前辈上位，接着压榨下属，还特别好面子；说自己是网易程序员，其实连 Windows 系统都不太会用；说自己是漫威游戏音乐总监，其实就给漫威 moba 手游和卡牌写过歌</strong>。现在该公司音乐部门也不招网易互娱的人了。</p>
+<p>看完之后实在是绷不住，<strong>这都是什么神人？</strong></p>
+<p>——依和p</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/6.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/7.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/8.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/9.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/10.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/11.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/12.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/13.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/14.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/15.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://xhslink.com/a/cSnmL5b7bcV9" target="_blank" rel="noopener noreferrer">https://xhslink.com/a/cSnmL5b7bcV9</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_67f154c30000000009015748/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>20250513——串子又开始了</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/250513.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/250513.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">20250513——串子又开始了</source>
+      <description>注 百度贴吧 @麻辣鱼鱼猫😘 不清楚是不是 RPG，但绝对是个串子。很早之前我似乎看到过有人挂它，但当时没留档标记，现在标记一下吧。楼下慢慢说。 此人的爆典合集，我只截一部分。 此人的主页，清一色的米游动态转发➕明显表面自己是米成分的发言。值得注意的是，22 年发了条动态后，到 24 年几乎就没动态了，看过往还是 b 站老用户了。 然后看历史发言吧，...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>百度贴吧 <a href="https://tieba.baidu.com/home/main?id=tb.1.3b2c397e.QkHyQBNCVTdjNagEZUqlmw" target="_blank" rel="noopener noreferrer">@麻辣鱼鱼猫😘</a></p>
+</div>
+<ul>
+<li>不清楚是不是 RPG，但绝对是个串子。很早之前我似乎看到过有人挂它，但当时没留档标记，现在标记一下吧。楼下慢慢说。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/1-1.jpg" alt="" loading="lazy"></li>
+<li>此人的爆典合集，我只截一部分。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/2-1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/2-2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/2-3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/2-4.jpg" alt="" loading="lazy"></li>
+<li>此人的主页，清一色的米游动态转发➕明显表面自己是米成分的发言。值得注意的是，22 年发了条动态后，到 24 年几乎就没动态了，看过往还是 b 站老用户了。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/3-1.jpg" alt="" loading="lazy"></li>
+<li>然后看历史发言吧，这人看上去似乎有点精神分裂；但大部分串子都这样，我分为两部分列出来。</li>
+<li>护米的发言，看到那句最完美的游戏，我就感觉有那味儿了。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/5-1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/5-2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/5-3.jpg" alt="" loading="lazy"></li>
+<li>然后是反米喷米的发言以及关于鸣的发言：<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/6-1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/6-2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/6-3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/6-4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/6-5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/6-6.jpg" alt="" loading="lazy"></li>
+<li>直播间弹幕记录，有意思。主页全是米游动态，没有一个鸣潮；然而游戏内容方面，直播看的，评论聊的是鸣潮相关的却不少。这可太有意思了，还是大鬼老师粉丝呢。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/7-1.jpg" alt="" loading="lazy"></li>
+</ul>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://tieba.baidu.com/p/9710365949" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9710365949</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250513174643/https://tieba.baidu.com/p/9710365949" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250513174643/https://tieba.baidu.com/p/9710365949</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/tieba-9710365949/1-1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>瓜</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">瓜</source>
+      <category>瓜</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国新闻网、新鸣式、米哈协议</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-10.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-10.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">中国新闻网、新鸣式、米哈协议</source>
+      <description>注 by bilibili @戏剧化愚者 报道就报道吧，特意把米哈协议拿出来鞭尸我是真没想到【嗑瓜子】【吃瓜】【doge】【笑哭】 不过呜哇新闻能跻身国际事件之间，说明呜哇非常红！恭喜呜哇!!【doge】 目前跟进的媒体的还不算多（图 4、图 5），我认为 @刃性哥哥 完全可以努努力嘛，狠狠批评米哈游，咱这边也配合你拉升新鸣式热度，来个全国大讨论，多带...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>报道就报道吧，特意把米哈协议拿出来鞭尸我是真没想到【嗑瓜子】【吃瓜】【doge】【笑哭】</p>
+<p>不过呜哇新闻能跻身国际事件之间，说明呜哇非常红！恭喜呜哇!!【doge】</p>
+<p>目前跟进的媒体的还不算多（图 4、图 5），我认为 @刃性哥哥 完全可以努努力嘛，狠狠批评米哈游，咱这边也配合你拉升新鸣式热度，来个全国大讨论，多带劲儿【吃瓜】【吃瓜】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052972307094437928/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052972307094437928/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052972307094437928/3.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052972307094437928/4.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052972307094437928/5.png" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1052972307094437928" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1052972307094437928</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408090433/https://www.bilibili.com/opus/1052972307094437928" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408090433/https://www.bilibili.com/opus/1052972307094437928</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052972307094437928/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>最重量级的下场了</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-11.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-11.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">最重量级的下场了</source>
+      <description>注 by bilibili @戏剧化愚者 央广网是谁：图 1 掌握 51% 库洛股份的腾讯转发了央广网报道，毕竟胳膊拧不过大腿【doge】（图 3） 央广网的报道内容意味深长： 报道立牌事件后，「网友并不买账」（图 4），接着报道了鸣潮在韩国高居第六位的上佳成绩（图 4），然后非常少见的，给出了多个网友评论截图（图 5、图 6、图 7），评论内容均为批...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<h2>央广网是谁：图 1</h2>
+<p>掌握 51% 库洛股份的腾讯转发了央广网报道，毕竟胳膊拧不过大腿【doge】（图 3）</p>
+<p>央广网的报道内容意味深长：</p>
+<p>报道立牌事件后，「网友并不买账」（图 4），接着报道了鸣潮在韩国高居第六位的上佳成绩（图 4），然后非常少见的，给出了多个网友评论截图（图 5、图 6、图 7），评论内容均为批评鸣潮。最后，则以米哈协议收尾。</p>
+<h2>up 认为这是一次比较严肃的敲打（官媒矩阵）</h2>
+<p>如果是维护之意，那么就不会选取这类评论截图，更不会把米哈协议翻出来。</p>
+<h2>最后附上一则小新闻：cctv 13 频道起底网暴开盒，案例里出现原神玩家受害者。</h2>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/1.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/3.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/4.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/5.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/6.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/7.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/8.png" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1052994310219235348" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1052994310219235348</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408084853/https://www.bilibili.com/opus/1052994310219235348" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408084853/https://www.bilibili.com/opus/1052994310219235348</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052994310219235348/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>估计塔也挺懵逼的</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">估计塔也挺懵逼的</source>
+      <description>注 by bilibili @戏剧化愚者 朴松伦此时是该因为库库的拥护而高兴还是害怕呢【doge】 外部链接 出自 https://www.bilibili.com/opus/1053320461416398872 快照备份 https://web.archive.org/web/20250408043442/https://www.bilibili....</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>朴松伦此时是该因为库库的拥护而高兴还是害怕呢【doge】<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053320461416398872/1053320461416398872.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>出自 <a href="https://www.bilibili.com/opus/1053320461416398872" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053320461416398872</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408043442/https://www.bilibili.com/opus/1053320461416398872" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408043442/https://www.bilibili.com/opus/1053320461416398872</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053320461416398872/1053320461416398872.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>狂热奔向深渊</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-4.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-4.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">狂热奔向深渊</source>
+      <description>注 by bilibili @戏剧化愚者 图 1：新华日报下场 图 2：类似言论普遍存在于小明最新动态评论区 图 3、图 4：一粒米原则——我横看竖看没看出啥问题，数据为符合事实，另外这位记者的文章大多是足球，以及去年的黑神话【doge】，当然，不反米就是藕片了，理解【doge】 图 5：炸裂！ 外部链接 出自 https://www.bilibili...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>图 1：新华日报下场</p>
+<p>图 2：类似言论普遍存在于小明最新动态评论区</p>
+<p>图 3、图 4：一粒米原则——我横看竖看没看出啥问题，数据为符合事实，另外这位记者的文章大多是足球，以及去年的黑神话【doge】，当然，不反米就是藕片了，理解【doge】</p>
+<p>图 5：炸裂！</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053060237927383044/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053060237927383044/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053060237927383044/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053060237927383044/4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053060237927383044/5.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>出自 <a href="https://www.bilibili.com/opus/1053060237927383044" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053060237927383044</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408050346/https://www.bilibili.com/opus/1053060237927383044" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408050346/https://www.bilibili.com/opus/1053060237927383044</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053060237927383044/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>论黑白颠倒</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-5.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-5.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">论黑白颠倒</source>
+      <description>注 by bilibili @戏剧化愚者 我已经化身动态加特林了，但子弹还是用不完 ☝🤓👆 外部链接 出自 https://www.bilibili.com/opus/1053154087266156548 快照备份 https://web.archive.org/web/20250408045242/https://www.bilibili.co...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>我已经化身动态加特林了，但子弹还是用不完<br>
+☝🤓👆</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053154087266156548/1.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053154087266156548/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053154087266156548/3.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>出自 <a href="https://www.bilibili.com/opus/1053154087266156548" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053154087266156548</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408045242/https://www.bilibili.com/opus/1053154087266156548" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408045242/https://www.bilibili.com/opus/1053154087266156548</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053154087266156548/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>提了一个 8 字被举报喽～～</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-7.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-7.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">提了一个 8 字被举报喽～～</source>
+      <description>注 by bilibili @戏剧化愚者 后天再直播【辣眼睛】欢迎库库们进来挨骂【吃瓜】 外部链接 来源 https://www.bilibili.com/opus/1053145939724730393 快照备份 https://web.archive.org/web/20250408082840/https://www.bilibili.com/o...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>后天再直播【辣眼睛】欢迎库库们进来挨骂【吃瓜】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053145939724730393/1.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053145939724730393/2.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1053145939724730393" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053145939724730393</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408082840/https://www.bilibili.com/opus/1053145939724730393" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408082840/https://www.bilibili.com/opus/1053145939724730393</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053145939724730393/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>幽默韩文道歉：三星没错，我的错！</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-9.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-9.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">幽默韩文道歉：三星没错，我的错！</source>
+      <description>注 by bilibili @戏剧化愚者 国服：都是合作方的问题！（图 1）我们已经严正交涉！（图 2） 韩服：都是合作方的问题！（图 3）但全是我们的错！（图 4） 图 5、图 6 是韩服道歉原文。 图 7 的立牌是事件源头。 所以，所谓的「严正交涉」就是替三星向韩国玩家认错么？ 还是说，先发个动态向棒子认错，接着再去和三星「严正交涉」？ 或者，和其...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>国服：都是合作方的问题！（图 1）我们已经严正交涉！（图 2）</p>
+<p>韩服：都是合作方的问题！（图 3）<strong>但全是我们的错！</strong>（图 4）</p>
+<p>图 5、图 6 是韩服道歉原文。</p>
+<p>图 7 的立牌是事件源头。</p>
+<p>所以，所谓的「严正交涉」就是<strong>替三星向韩国玩家认错</strong>么？</p>
+<p>还是说，<strong>先发个动态向棒子认错，接着再去和三星「严正交涉」？</strong></p>
+<p>或者，和其他游戏的普通线下联动一样，某游其实是有全程知情并参与的。<strong>但出于某种原因只能既甩锅却又认错，才造成韩文道歉如此精神分裂？</strong></p>
+<p><strong>就只看这个韩文道歉，还是在这个敏感时期，官媒仅仅是点名批评，已经算很温柔了！</strong></p>
+<p>感谢关注＋转发！</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_6.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_7.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>出自 <a href="https://www.bilibili.com/opus/1053301181328130068" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053301181328130068</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408035537/https://www.bilibili.com/opus/1053301181328130068" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408035537/https://www.bilibili.com/opus/1053301181328130068</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053301181328130068/BandiView_1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>朴松伦：kg 别带我节奏了！</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250409-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250409-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">朴松伦：kg 别带我节奏了！</source>
+      <description>注 by bilibili @戏剧化愚者 目前的切片还不够爆，有没有更爆的？咱这就帮刃÷踩油门【吃瓜】【吃瓜】【吃瓜】 外部链接 来源 https://www.bilibili.com/opus/1052757640343453720 快照备份 https://web.archive.org/web/20250409160549/https://www...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>目前的切片还不够爆，有没有更爆的？咱这就帮刃÷踩油门【吃瓜】【吃瓜】【吃瓜】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052757640343453720/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052757640343453720/2.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1052757640343453720" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1052757640343453720</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250409160549/https://www.bilibili.com/opus/1052757640343453720" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250409160549/https://www.bilibili.com/opus/1052757640343453720</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052757640343453720/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>虚假的国际化：米哈游</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250409-3.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250409-3.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">虚假的国际化：米哈游</source>
+      <description>注 by bilibili @戏剧化愚者 @朴博哲 出列！介绍下先进经验！【点赞】 外部链接 原文 https://www.bilibili.com/opus/1052601393707220995 快照备份 https://web.archive.org/web/20250409183606/https://www.bilibili.com/opus...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p><a href="https://space.bilibili.com/3494355675384073" target="_blank" rel="noopener noreferrer">@朴博哲</a> 出列！介绍下先进经验！【点赞】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052601393707220995/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052601393707220995/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052601393707220995/3.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>原文 <a href="https://www.bilibili.com/opus/1052601393707220995" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1052601393707220995</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250409183606/https://www.bilibili.com/opus/1052601393707220995" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250409183606/https://www.bilibili.com/opus/1052601393707220995</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052601393707220995/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>崩铁开服老登：不羡仙10032？</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250409.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250409.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">崩铁开服老登：不羡仙10032？</source>
+      <description>注 by bilibili @戏剧化愚者 @不羡仙10032 很多开服玩家都没你玩的懂【笑哭】 补充编辑图 3： 不羡仙10032，早年参与魔禁讨论，并于王者圈 kpl 中对线，原神相关评论最早出现于 22 年 6 月，23 年入坑铁道，接着化身米默。 串或者不串不好拿来评价，但引人注目会获得快感我想应该很符合。【doge】 外部链接 来源 https...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p><a href="https://space.bilibili.com/350915518" target="_blank" rel="noopener noreferrer">@不羡仙10032</a> 很多开服玩家都没你玩的懂【笑哭】</p>
+<p>补充编辑图 3：<br>
+不羡仙10032，早年参与魔禁讨论，并于王者圈 kpl 中对线，原神相关评论最早出现于 22 年 6 月，23 年入坑铁道，接着化身米默。</p>
+<p>串或者不串不好拿来评价，但引人注目会获得快感我想应该很符合。【doge】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052617499846115361/1.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052617499846115361/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052617499846115361/3.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1052617499846115361" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1052617499846115361</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250409182900/https://www.bilibili.com/opus/1052617499846115361" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250409182900/https://www.bilibili.com/opus/1052617499846115361</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052617499846115361/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>太库啦！</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250410-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250410-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">太库啦！</source>
+      <description>注 by bilibili @戏剧化愚者 这个动态（图 1）的置顶违规喽，7 天禁言～哈哈 置顶补档：发动态之前就举报了，12 个小时了（现在 24 小时），依然没有收到任何举报反馈，@哔哩哔哩社区小管家 如果让你不爽了可以封我嘛 怎么就只是禁言呢？【吃瓜】 各位可以截图留档哦，等我被封了多多宣传 ac 的美德【doge】 外部链接 来源 https:...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p><a href="https://b23.tv/yWTYPRL" target="_blank" rel="noopener noreferrer">这个动态（图 1）</a>的置顶违规喽，7 天禁言～哈哈</p>
+<p>置顶补档：发动态之前就举报了，12 个小时了（现在 24 小时），依然没有收到任何举报反馈，@哔哩哔哩社区小管家 如果让你不爽了可以封我嘛</p>
+<p>怎么就只是禁言呢？【吃瓜】</p>
+<p>各位可以截图留档哦，等我被封了多多宣传 ac 的美德【doge】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052060120463179780/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052060120463179780/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052060120463179780/3.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1052060120463179780" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1052060120463179780</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250410053034/https://www.bilibili.com/opus/1052060120463179780" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250410053034/https://www.bilibili.com/opus/1052060120463179780</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1052060120463179780/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>呜哇！端水失败！</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250410-3.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250410-3.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">呜哇！端水失败！</source>
+      <description>注 by bilibili @戏剧化愚者 逆风翻盘在即！别问为什么盘一直翻！【doge】 另外针对图 5 我要指出一个错误：米的海外运营只有 HoYoverse，不是 miHoYo【吃瓜】 外部链接 来源 https://www.bilibili.com/opus/1051963264633667586 快照备份 https://web.archive...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>逆风翻盘在即！别问为什么盘一直翻！【doge】</p>
+<p>另外针对图 5 我要指出一个错误：<strong>米的海外运营只有 HoYoverse，不是 miHoYo</strong>【吃瓜】</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051963264633667586/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051963264633667586/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051963264633667586/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051963264633667586/4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051963264633667586/5.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1051963264633667586" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1051963264633667586</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250410053602/https://www.bilibili.com/opus/1051963264633667586" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250410053602/https://www.bilibili.com/opus/1051963264633667586</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051963264633667586/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>狱游刑 的动态</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250428.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250428.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">狱游刑 的动态</source>
+      <description>注 by bilibili @狱游刑 【代发】 考虑到新视频评论区情况还是如此，于是发布该条动态。 相关内容请集中在此条评论，在其他地方发布的评论会被处理。 外部链接 来源 https://www.bilibili.com/opus/1057142368163069971 快照备份 https://web.archive.org/web/2025042...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/41312446" target="_blank" rel="noopener noreferrer">@狱游刑</a></p>
+</div>
+<p><strong>【代发】</strong></p>
+<p>考虑到新视频评论区情况还是如此，于是发布该条动态。</p>
+<p>相关内容请集中在此条评论，在其他地方发布的评论会被处理。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/6.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/7.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/8.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/9.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/10.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/11.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/12.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1057142368163069971" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1057142368163069971</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250428032825/https://www.bilibili.com/opus/1057142368163069971" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250428032825/https://www.bilibili.com/opus/1057142368163069971</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1057142368163069971/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>关于【烦恼死的夏洛】【星穹互娱】和【碎星文化】</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250430.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250430.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">关于【烦恼死的夏洛】【星穹互娱】和【碎星文化】</source>
+      <description>2025 年 4 月 28 日，该 UP 主在动态发「有人偷玩」并配图大明联动奈雪、大明游戏账号。因此一度引起纷争。 而该 UP 主对待事件（包括今年 1 月份）的态度是：质疑的正常玩家均被删评论拉黑，逆天库狗反倒留下。 随后，该 UP 主编辑动态后关闭了评论区。 玩多家游戏没有问题，有问题的是借此搞拉踩，以及装纯良。而且该 UP 主主页简介自称「不混...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>2025 年 4 月 28 日，<strong>该 UP 主在动态发「有人偷玩」并配图大明联动奈雪、大明游戏账号</strong>。因此一度引起纷争。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>而该 UP 主对待事件（包括今年 1 月份）的态度是：<strong>质疑的正常玩家均被删评论拉黑，逆天库狗反倒留下。</strong></p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/6.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/7.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/8.jpg" alt="" loading="lazy"></p>
+<p>随后，该 UP 主编辑动态后关闭了评论区。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/2.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>玩多家游戏没有问题，有问题的是借此搞拉踩，以及装纯良。而且该 UP 主主页简介自称「不混游戏饭圈」，那么问题来了，自己玩就算了，为什么非要带上「偷玩」俩字？为什么别人正确指出你问题的时候，你要拉黑别人？</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/3.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>题外话</h2>
+<p>该 UP 主的米游二创作品，一只手能数得过来，<strong>且该 UP 主有不少作品在米友这里负反馈多</strong>。此外，该 UP 主的 MCN 公司也曾被米哈游起诉「不正当竞争」。<strong>且该 MCN 旗下多名主播曾暴雷过。</strong></p>
+<p>此外，该 UP 主的 MCN 公司为<strong>星穹互娱</strong>，该 MCN 公司与<strong>碎星文化</strong>的法定代表人为同一人，因此可以判定为同一家。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/9.jpg" alt="" loading="lazy"></p>
+<h2>参考资料</h2>
+<p><a href="https://tieba.baidu.com/p/9675511919" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9675511919</a></p>
+<p>快照备份 <a href="https://web.archive.org/web/20250430131051/https://tieba.baidu.com/p/9675511919" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250430131051/https://tieba.baidu.com/p/9675511919</a></p>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/sxwh/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>从没见过这么纯的</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250513.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250513.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">从没见过这么纯的</source>
+      <description>来源 https://tieba.baidu.com/p/9710140489 快照备份 https://web.archive.org/web/20250513162530/https://tieba.baidu.com/p/9710140489</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250514/A4F1909374488FF7621DB7EA04E0F457.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>来源</h2>
+<ul>
+<li><a href="https://tieba.baidu.com/p/9710140489" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9710140489</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250513162530/https://tieba.baidu.com/p/9710140489" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250513162530/https://tieba.baidu.com/p/9710140489</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250514/A4F1909374488FF7621DB7EA04E0F457.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>米哈游玩家被造谣刑事犯罪喽</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250516.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250516.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">米哈游玩家被造谣刑事犯罪喽</source>
+      <description>注 小红书 @戏剧性愚者 我的库站动态（图 2）有 1,500 条评论了。绝大部分是👖🐩来展示下限的，选了三个点赞数相对较多的截图： 事件简单经过： 图 2： 改子哥（50 万粉米 UP）被盒发动态，本人转发「支持」。 图 3：「支持」动态发出不到 10 秒，被封号 30 天，很巧，哈哈哈哈（给狱老师做完辟谣视频后，我加大了嘲讽库站、小明、小明 U...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Fri, 16 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>小红书 <a href="https://www.xiaohongshu.com/user/profile/66ffe613000000001d032a70" target="_blank" rel="noopener noreferrer">@戏剧性愚者</a></p>
+</div>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>我的库站动态（图 2）有 1,500 条评论了。<strong>绝大部分是👖🐩来展示下限的</strong>，选了三个点赞数相对较多的截图：</p>
+<p>事件简单经过：</p>
+<ul>
+<li>图 2： 改子哥（50 万粉米 UP）被盒发动态，本人转发「支持」。  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/2.jpg" alt="" loading="lazy"></li>
+<li>图 3：「支持」动态发出不到 10 秒，被封号 30 天，很巧，哈哈哈哈（给狱老师做完辟谣视频后，我加大了嘲讽库站、小明、小明 UP 以及👖🐩的力度）  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/3.jpg" alt="" loading="lazy"></li>
+<li>图 4、5、6、7：👖🐩造谣是本人开盒了改放，300 万粉 UP 大鬼也直播参与造谣（低赞的懒得截图了）  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/4.jpg" alt="" loading="lazy"> <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/5.jpg" alt="" loading="lazy"> <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/6.jpg" alt="" loading="lazy"> <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/7.jpg" alt="" loading="lazy"></li>
+<li>图 8：有人冒充警察在改子评论区留言嘲讽。  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/8.jpg" alt="" loading="lazy"></li>
+<li>图 9：此人被发现是利用网图冒充警察。  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/9.jpg" alt="" loading="lazy"></li>
+<li>图 10：此人被封号。  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/10.jpg" alt="" loading="lazy"></li>
+<li>图 11：👖🐩继续造谣此人是我小号（水友截图发给我的，相同谣言很多不截图了）  <img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/11.jpg" alt="" loading="lazy"></li>
+</ul>
+<p>有人问了，<strong>怎么不报警呢？怎么不起诉呢？是不敢么？</strong></p>
+<p>唉嘿～～～你猜～～欢迎👖🐩们把谣言钉死成「铁案」。</p>
+<p>大伙儿多多转发留档，小红薯这边可能会被👖🐩组团举报方便岁月史书。</p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.xiaohongshu.com/explore/6825be72000000000f030a37" target="_blank" rel="noopener noreferrer">https://www.xiaohongshu.com/explore/6825be72000000000f030a37</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/xhs_6825be72000000000f030a37/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>不愧是朴博哲库狗，继承了偷国传统</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250528.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250528.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">不愧是朴博哲库狗，继承了偷国传统</source>
+      <description>by 小红书 @二次元瓜貂</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 28 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>by 小红书 <a href="https://www.xiaohongshu.com/user/profile/6596dc76000000001f010a0f" target="_blank" rel="noopener noreferrer">@二次元瓜貂</a></p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/Screenshot_2025-05-28-21-32-52-294_com.xingin.xhs.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/Screenshot_2025-05-28-21-32-52-294_com.xingin.xhs.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kurean 又来前瞻下撒野了</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250606.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250606.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">Kurean 又来前瞻下撒野了</source>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250606/photo_2_2025-06-06_22-24-39.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250606/photo_1_2025-06-06_22-24-39.jpg" alt="" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250606/photo_2_2025-06-06_22-24-39.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>疑似串子或镍币人 Suspected flamebaiter</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250609.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250609.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">疑似串子或镍币人 Suspected flamebaiter</source>
+      <description>看起来评论区已变得混乱。（p1~3） Looks like the comment section turned into a catfight zone. (p1~3) 值得注意的关注列表。（p4） Some noteworthy users this person follows. (p4) 主页里有许多有争议的视频。（p5~8） Many con...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<ul>
+<li>
+<p>看起来评论区已变得混乱。（p1~3）</p>
+</li>
+<li>
+<p>Looks like the comment section turned into a catfight zone. (p1~3)<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p3.jpg" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>值得注意的关注列表。（p4）</p>
+</li>
+<li>
+<p>Some noteworthy users this person follows. (p4)<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p4.jpg" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>主页里有许多有争议的视频。（p5~8）</p>
+</li>
+<li>
+<p>Many controversial videos. (p5~8)<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p6.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p7.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p8.jpg" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>有关该账号发表的评论和弹幕历史。</p>
+</li>
+<li>
+<p>The results of checking the comments and danmaku.<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/屏幕截图 2025-06-09 191702.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/屏幕截图 2025-06-09 191717.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/屏幕截图 2025-06-09 191732.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/屏幕截图 2025-06-09 191751.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/屏幕截图 2025-06-09 192842.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>QQ 群已解散。（p9）</p>
+</li>
+<li>
+<p>The QQ group no longer exists. (p9)<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p9.jpg" alt="" loading="lazy"></p>
+</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/suspectedflamebaitersentfromtieba/p1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>未分类</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">未分类</source>
+      <category>未分类</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尖锐的声音</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/strict/</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/strict/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">尖锐的声音</source>
+      <category>尖锐的声音</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>瓜</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/things/</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/things/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">瓜</source>
+      <category>瓜</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>文章标题</title>
+      <link>https://bxx-114514.github.io/posts/example.html</link>
+      <guid>https://bxx-114514.github.io/posts/example.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">文章标题</source>
+      <description>内容示例。 H1 H2 H3 H4 H5 H6 有序列表 有序项目 1 有序项目 2 有序项目 3 无序列表 无序项目 1 无序项目 2 无序项目 3 断行 行末两个空格 实现断行。 字体属性 粗体 斜体 代码等宽字体 这是 hello world 代码等宽字体。 代码 引用文本 这是引用文本。 GFM 风格警告容器 注 即使只是快速浏览内容时，用户也...</description>
+      <category>文章分类</category>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>内容示例。</p>
+<div class="language-markdown line-numbers-mode" data-highlighter="shiki" data-ext="markdown" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-markdown"><span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75"># H1</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">## H2</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">### H3</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">#### H4</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">##### H5</span></span>
+<span class="line"><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">###### H6</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h1>H1</h1>
+<h2>H2</h2>
+<h3>H3</h3>
+<h4>H4</h4>
+<h5>H5</h5>
+<h6>H6</h6>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/bxx-114514/refs/heads/main/head.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>事情到现在已经明了了</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/things/251120.html</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/things/251120.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">事情到现在已经明了了</source>
+      <description>注 by 小红书 @偶我的副墓 提示 拿图转发做视频搬运发到其他平台随意。 这里是针对造谣的辟谣总结： 辟谣在图片，需要拿自取。后续会看评论补充。 注意 声明 如果你坚持认为，提到大丽花就是对死者的消费，mhy 作为一个游戏公司就应该避嫌，不用这个词汇和意向，那是你的观点，我这里是辟谣帖，不要在我这里复制粘贴了。 其次，为什么米哈游作为游戏公司不回应不...</description>
+      <category>留档</category>
+      <category>仙舟联盟</category>
+      <category>节奏</category>
+      <pubDate>Thu, 20 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 小红书 <a href="https://www.xiaohongshu.com/user/profile/68872d98000000001e0048e5" target="_blank" rel="noopener noreferrer">@偶我的副墓</a></p>
+</div>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>拿图转发做视频搬运发到其他平台随意。</p>
+</div>
+<p>这里是针对造谣的辟谣总结：</p>
+<p>辟谣在图片，需要拿自取。后续会看评论补充。</p>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<h2>声明</h2>
+<p>如果你坚持认为，提到大丽花就是对死者的消费，mhy 作为一个游戏公司就应该避嫌，不用这个词汇和意向，那是你的观点，我这里是辟谣帖，不要在我这里复制粘贴了。<br>
+其次，为什么米哈游作为游戏公司不回应不作为，首先如果你了解这个游戏的话，它从出现到现在都是一个版本一个大节奏，一周一个小节奏，而且很多节奏都特别蠢。如果事事有回应那还是太有生活了。<br>
+其次，这个节奏主要平台是微博和小红书，且热度明显不正常，热力图已经附上了。这个节奏在其他平台和海外压根没起来。更何况有很多只要查一查就能发现谬误的地方，叽里咕噜说啥呢？自己去看看 PV 和介绍就是了。难道等官方拿个圈给你圈上吗？难道要按着头告诉你所有背景元素和考证吗？要知道，星铁从开服到现在，游戏里含的哲学、影视、小说、名人各种原型数不胜数。难道要掰开揉碎了喂给你吗？<br>
+最后，有些开立体防御的你别太离谱，官方澄清了就是心虚了，有问题。官方不说就是实锤了，太傲慢了。拿个淘宝客服回复就搁那里赢别太离谱了。<br>
+我自己是想官方做一个制作理念分析视频类似于魈的那个，魈刚出的时候节奏有多离谱我就不用说了吧？那个时候就有人说了是傩面，你上网搜一下也知道是，那节奏怎么起的，不就是一堆人宁愿当复读机也不去搜搜事实是什么样子的。</p>
+</div>
+<h2>辟谣</h2>
+<h3>P1. 辟谣 1　有关技能和死者强关联</h3>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/01.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3>P2. 有关消费死者</h3>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/02.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3>P3. 辟谣 2　大丽花头发颜色</h3>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/03.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3>P4. 辟谣 3　原型参考和考据，针对所谓《蓝色大丽花》不出名的发言，以及发色设计呼应</h3>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/04.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3>P5. 为什么蓝色大丽花是蓝紫色的？</h3>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/05.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3>P6. 附加图，有关热度的热力图</h3>
+<p>P6 不说明任何东西，只是希望各位能独立思考，善于使用手里的工具。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/06.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h3>P7, P8. 来源于热心网友提供的整理</h3>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/07.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>外部链接</h2>
+<ul>
+<li><a href="https://www.xiaohongshu.com/explore/69153dc3000000000402af47?xsec_token=ABjUeUgC6oYTv57t2dkReRbWVRZYfEGFUKUMH2rPnEg_U=&amp;xsec_source=pc_collect" target="_blank" rel="noopener noreferrer">事情到现在已经明了了 - 小红书</a></li>
+</ul>
+<!-- (https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/ -->
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/251120/01.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>「捉迷藏」式收割：撕开鲁大师为首系列企业流量劫持黑幕！</title>
+      <link>https://bxx-114514.github.io/posts/251112.html</link>
+      <guid>https://bxx-114514.github.io/posts/251112.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">「捉迷藏」式收割：撕开鲁大师为首系列企业流量劫持黑幕！</source>
+      <description>注 by 火绒安全 当前，网络已成为工作、学习、消费、社交等各类日常活动的重要支撑，部分厂商依托这一普遍的上网常态加大推广力度，因此用户需提高警惕，防范各类隐蔽的流量劫持及恶意推广行为。 近期，火绒安全实验室监测发现，包含成都奇鲁科技有限公司、天津杏仁桉科技有限公司在内的多家软件厂商，正通过云控配置方式构建大规模推广产业链，远程开启推广模块以实现流量变...</description>
+      <category>技术</category>
+      <category>安全</category>
+      <category>留档</category>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 火绒安全</p>
+</div>
+<p>当前，网络已成为工作、学习、消费、社交等各类日常活动的重要支撑，部分厂商依托这一普遍的上网常态加大推广力度，因此用户需提高警惕，防范各类隐蔽的流量劫持及恶意推广行为。</p>
+<p>近期，火绒安全实验室监测发现，包含成都奇鲁科技有限公司、天津杏仁桉科技有限公司在内的多家软件厂商，正通过云控配置方式构建大规模推广产业链，远程开启推广模块以实现流量变现。这些厂商通过云端下达配置指令，动态控制软件的推广行为，不同公司及其产品的推广方式各有差异。以成都奇鲁科技旗下的鲁大师为例，其推广行为涵盖但不限于：利用浏览器弹窗推广「传奇」类页游、在未获用户明确许可的情况下弹窗安装第三方软件、篡改京东网页链接并插入京粉推广参数以获取佣金、弹出带有渠道标识的百度搜索框、植入具有推广性质且伪装为正常应用的浏览器扩展程序等。</p>
+<p>尽管流量推广向来是互联网公司常用的盈利模式，然而这些厂商却运用了多种技术对抗手段，以阻碍安全分析与行为复现，蓄意隐匿其损害用户体验的行为。</p>
+<p>它们在未充分向用户告知或故意模糊告知相关情况的前提下，利用用户流量进行变现操作。通过伪装成正规应用的方式，与用户「捉迷藏」，使用户难以识别并定位真正的推广源头。这些主体采用各种手段规避网络舆论监督，逃避公众审查。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/01.png" alt="查杀图" loading="lazy"><br>
+查杀图</p>
+</div>
+<h2>【一】溯源信息</h2>
+<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p><strong>声明：本节所涉及的信息均来源于外网公开可查询的信息。</strong></p>
+</div>
+<h3>1.1 推广产业网的形成</h3>
+<p>在对其恶意行为进行监控分析的过程中，一张由幕后人员精心编织的产业网络逐渐浮出水面。数十余家不同时间、不同地区注册的公司通过隐蔽的关联关系相互连接，利用隐藏的结算体系进行利益输送，并通过极其相似的云控模块向用户终端推送各类推广产品。为了逃避监管和技术追踪，这些公司采用了数据加密、代码混淆、动态加载、多层跳转等多种技术对抗手段。</p>
+<p>通过来自天眼查的数据，我们初步将其连带关系形成了可视化的网状图。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/02.png" alt="相关企业初步关联网状图" loading="lazy"><br>
+相关企业初步关联网状图</p>
+</div>
+<p>根据火绒安全情报中心的统计数据，大量软件包含本文所述的推广模块。下图中列表列出的软件被发现与本次威胁具有较强相关性（包括但不限于）：</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/03.png" alt="与本次威胁情报强相关的软件" loading="lazy"><br>
+与本次威胁情报强相关的软件</p>
+</div>
+<p>在收集本次威胁情报相关信息的过程中，我们发现了一系列相关的网络活动痕迹。其中，围绕「天津杏仁桉科技有限公司」及其域名 <code>apkevery.com</code>，产生了大量网络活跃数据。</p>
+<h3>1.2 背后隐藏的利益输送关系</h3>
+<p>借助外网搜索引擎可以发现由天津杏仁桉科技提供支持、搭建于「重庆赫赫有盾科技有限公司」等多家公司服务器下的「杏仁桉推广结算系统」后台，证明了背后围绕天津杏仁桉科技形成的推广结算利益输送链条。在本次威胁情报对应的推广插件中，也大量发现与 <code>apkevery.com</code> 对应的服务器之间的数据传输。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/04.png" alt="杏仁桉推广结算系统平台" loading="lazy"><br>
+杏仁桉推广结算系统平台</p>
+</div>
+<p>在收集天津杏仁桉科技相关信息的过程中，我们发现其域名下搭建了一个用户中心系统，该系统仅允许以 <code>@ludashi.com</code> 为后缀的邮箱注册使用。经查证，<code>ludashi.com</code> 域名归属于「成都奇鲁科技有限公司」，这直接证明了两家公司之间存在密切的业务关联。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/05.png" alt="杏仁桉后台只允许鲁大师邮箱注册" loading="lazy"><br>
+杏仁桉后台只允许鲁大师邮箱注册</p>
+</div>
+<h3>1.3 外网构建系统中的隐藏关系</h3>
+<p>在收集天津杏仁桉科技域名 <code>apkevery.com</code> 相关信息的过程中，我们发现了一个曾面向外网开放的程序自动构建网站，相关信息被搜索引擎快照收录保存。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/06.png" alt="自动构建网站" loading="lazy"><br>
+自动构建网站</p>
+</div>
+<p>该网站托管了多款软件的源码并实现自动构建，包括但不限于：天津简诚出品的「小蓝鸽」「大力文件粉碎」，重庆赫赫有盾出品的「DXRepair」，天津欣远出品的「花瓣护眼」等软件，以及本次威胁情报中涉及的一系列推广模块。这进一步证实了这些公司之间的技术协作关系。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/07.png" alt="构建系统中发现的软件名称" loading="lazy"><br>
+构建系统中发现的软件名称</p>
+</div>
+<p>而通过对提交构建请求的邮箱的进一步溯源，我们在「成都奇鲁科技有限公司」面向外网开放的 <code>@ludashi.com</code> 企业邮箱系统中发现了对应人员信息。这些人员主要提交了「重庆赫赫有盾科技有限公司」等公司旗下软件的构建请求。</p>
+<p>值得注意的是，天眼查系统显示「成都奇鲁科技有限公司」与「重庆赫赫有盾科技有限公司」之间无任何工商关联关系，但技术层面的关联证据清晰可见。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/08.png" alt="奇鲁科技与赫赫有盾之间天眼查商业关系" loading="lazy"><br>
+奇鲁科技与赫赫有盾之间天眼查商业关系</p>
+</div>
+<h3>1.4 外网工作日志中的隐藏关系</h3>
+<p>在对本文列表中所涉及的「小鸟壁纸」软件开展溯源分析时，我们在外网存储的数据里发现了「小鸟壁纸」系列产品的相关日志，其中记录有大量该相关产品的售后日志。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/09.png" alt="售后日志中记录的产品名称信息" loading="lazy"><br>
+售后日志中记录的产品名称信息</p>
+</div>
+<p>而其中一款产品名称标注为「小鸟壁纸」的可执行程序显示 <code>Beijing Qihu Technology Co., Ltd.</code> 公司的有效签名。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/10.png" alt="小鸟壁纸显示奇虎公司数字签名" loading="lazy"><br>
+小鸟壁纸显示奇虎公司数字签名</p>
+</div>
+<p>在相同地址存储的文件中，发现属于「成都盈畅时代文化传播有限公司」的域名 <code>shanhutech.cn</code> 下的一系列商品推广链接记录。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/11.png" alt="一系列商品推广链接记录" loading="lazy"><br>
+一系列商品推广链接记录</p>
+</div>
+<p>而当访问网站 <code>bizhi.shanhutech.cn</code> 时，会进入一个小鸟壁纸软件的下载页面，网站下方的版权文字显示属于「奇鲁科技有限公司」和 <code>ludashi.com</code>。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/12.png" alt="盈畅所属小鸟壁纸软件网站中显示奇鲁科技有限公司" loading="lazy"><br>
+盈畅所属小鸟壁纸软件网站中显示奇鲁科技有限公司</p>
+</div>
+<h3>1.5 总结</h3>
+<p>基于上述信息，我们基本能够构建出一张隐匿于背后的庞大关系网，该关系网将看似毫无关联的数十家公司连接起来，其背后暗藏着利益输送与技术输送的纽带，完成最终的推广业务。</p>
+<h2>【二】溯源技术</h2>
+<p>溯源分析作为威胁情报分析中极为重要且不可或缺的环节，火绒始终秉持合规原则，从公开可查的渠道获取溯源信息。本节文字中，将对本文溯源所采用的信源与技术予以介绍。</p>
+<h3>2.1 收集相关企业名称</h3>
+<p>在火绒安全情报系统中，我们通过建立规则的方式收集与本次威胁情报相关的样本关键信息。根据样本关键信息从样本库中提取相应的样本以及其来源，我们获得了大量使用本次威胁情报中涉及到的推广模块的数字签名信息，从样本数字签名中提取的详细信息中，可以获得与本次威胁情报相关的大量厂商名称，从而得到 <a href="#11-%E6%8E%A8%E5%B9%BF%E4%BA%A7%E4%B8%9A%E7%BD%91%E7%9A%84%E5%BD%A2%E6%88%90">1.1</a> 小节中的软件列表图。</p>
+<h3>2.2 企业信息查询</h3>
+<p>通过天眼查网站提供的企业信息查询能力，我们人工收集并汇总了所有相关企业的联系电话，邮箱和官方网站信息，并且通过程序自动化方式对收集到的信息进行整理形成图表，从而得到 <a href="#11-%E6%8E%A8%E5%B9%BF%E4%BA%A7%E4%B8%9A%E7%BD%91%E7%9A%84%E5%BD%A2%E6%88%90">1.1</a> 小节中的关联信息网状图。</p>
+<h3>2.3 相关网站信息查询</h3>
+<p>通过搜索引擎对相关的情报进行搜索，可以查询到本文涉及到的内容对应的网站信息。</p>
+<p>例如在必应搜索引擎中搜索「杏仁桉推广」关键词，可以查询到 <a href="#12-%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E7%9A%84%E5%88%A9%E7%9B%8A%E8%BE%93%E9%80%81%E5%85%B3%E7%B3%BB">1.2</a> 小节中的杏仁桉推广结算系统。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/13.png" alt="杏仁桉推广搜索引擎结果" loading="lazy"><br>
+杏仁桉推广搜索引擎结果</p>
+</div>
+<p>在友商平台中根据天津杏仁桉域名 <code>apkevery.com</code> 进行相关信息搜索，可以查询到 <a href="#12-%E8%83%8C%E5%90%8E%E9%9A%90%E8%97%8F%E7%9A%84%E5%88%A9%E7%9B%8A%E8%BE%93%E9%80%81%E5%85%B3%E7%B3%BB">1.2</a> 小节中「只允许鲁大师邮箱注册的用户中心系统」所在域名。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/14.png" alt="杏仁桉域名友商结果" loading="lazy"><br>
+杏仁桉域名友商结果</p>
+</div>
+<p>根据「天津拂云科技有限公司」法人「刘科」的杏仁桉域名邮箱 <code>liuke@apkevery.com</code> 在搜索引擎中进行搜索，可以搜索到其提交代码对应的一个自动构建网站记录。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/15.png" alt="天津拂云联系邮箱搜索结果" loading="lazy"><br>
+天津拂云联系邮箱搜索结果</p>
+</div>
+<p>再针对该网站进行搜索所有提交记录的邮箱地址，可以发现相关人员的 QQ 邮箱。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/16.png" alt="其他提交构建信息搜索结果" loading="lazy"><br>
+其他提交构建信息搜索结果</p>
+</div>
+<p>通过对 QQ 邮箱进行对应搜索查找相关 QQ 账号，发现该 QQ 昵称由较为特殊的三个字构成，据此推断此昵称可能为姓名。进一步访问 <code>mail.ludashi.com</code> 网站，利用其找回密码功能获取信息，发现所得到的手机尾号与通过 QQ 找回密码流程中显示的尾号一致。综上所述，基本可以判定为同一人。</p>
+<h3>2.4 小鸟壁纸信息查询</h3>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/17.png" alt="根据小鸟壁纸搜索得到的工作日志网站" loading="lazy"><br>
+根据小鸟壁纸搜索得到的工作日志网站</p>
+</div>
+<p>当在搜索引擎中以关键词「<code>360wallpaper_bird</code>」搜索小鸟壁纸安装包时，可以查询到一个记录了一系列工作日志的网站信息，即 <a href="#14-%E5%A4%96%E7%BD%91%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97%E4%B8%AD%E7%9A%84%E9%9A%90%E8%97%8F%E5%85%B3%E7%B3%BB">1.4</a> 小节中提到的外网工作日志。在网站中，可见 <a href="#14-%E5%A4%96%E7%BD%91%E5%B7%A5%E4%BD%9C%E6%97%A5%E5%BF%97%E4%B8%AD%E7%9A%84%E9%9A%90%E8%97%8F%E5%85%B3%E7%B3%BB">1.4</a> 小节中提到的一系列信息。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/18.png" alt="网站中可见的部分信息内容" loading="lazy"><br>
+网站中可见的部分信息内容</p>
+</div>
+<h2>【三】手段揭露</h2>
+<p>为了防止其具有争议性的推广行为被技术人员分析发现、被公众舆论讨论揭露，躲避自动化分析软件的监控和拦截，隐藏背后编织的巨型利益输送网络，这些推广模块采用了多种技术对抗手段。它们通过云控配置实时调整自身行为，专门规避技术人员等高危群体，精准针对普通用户投放。推广模块会根据用户的<strong>系统环境、地理位置、使用时长、是否充值</strong>等多维度信息判断用户价值，仅对「安全」目标、「小白」用户启动推广行为，使推广行为更加隐蔽。</p>
+<h3>3.1 各项针对检测</h3>
+<p>从<strong>服务器下发云控配置</strong>开始，软件就开始了其针对性的检测：</p>
+<ul>
+<li><strong>地区相关</strong>：以鲁大师为例，软件会根据用户所在地区针对性的投放推广云控配置。测试得出，对<strong>北京</strong>地区的用户会<strong>减少</strong>或<strong>不下发</strong>推广相关的云控配置。</li>
+<li><strong>渠道相关</strong>：有些软件会专门区别用户是否从软件官网下载，并且针对从非官网渠道下载的用户推送推广云控配置，而官网用户将会减少或不下发推广相关云控配置。</li>
+<li><strong>用户相关</strong>：以鲁大师为例，获取云控时会通过遍历检测当前系统信息的方式判断是否为技术人员、是否在虚拟机中、是否为业务会员等相关数据，从而针对性调整云控配置。</li>
+</ul>
+<h3>3.2 多种推广方式</h3>
+<p>为了<strong>实现其推广目的，掇取用户流量价值</strong>，相关软件实现了多种多样的推广方式：</p>
+<p>推广模块以可动态载入的插件的形式存在，从而使得大部分推广策略都可以在云端动态调整。下图中展示的内容为鲁大师软件中包含的部分推广方式。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/19.png" alt="多种推广方式" loading="lazy"><br>
+多种推广方式</p>
+</div>
+<h3>3.3 各种规避手段</h3>
+<p>为与用户及监管进行「捉迷藏」，软件采用多种方式以规避各类情形。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/20.png" alt="规避手段表" loading="lazy"><br>
+规避手段表</p>
+</div>
+<p>自上次监控到「重庆赫赫有盾科技有限公司」开发的软件「DXRepair」利用云控下发推广配置以来，火绒安全情报中心一直持续关注相关威胁情报的动向。外网数据显示，包含类似推广模块的软件仍在大量传播。其中，一款名为「TabXExplorer」的软件同样会弹窗安装软件并劫持浏览器，其签名信息显示来源为「成都奇鲁科技有限公司」。</p>
+<p>鲁大师作为在国内具有极高传播度的硬件检测软件，许多用户在新购置电脑时会安装此软件，用以开展跑分测试并查看硬件信息。然而，用户很难预料到，这一看似正常的使用行为，会在<strong>未得到充分告知或被故意模糊告知的情形</strong>下，使自己的电脑沦为相关企业的「流量变现工具」。</p>
+<h2>【四】技术分析</h2>
+<p>本次主要围绕鲁大师软件展开技术分析，并提出该系列推广软件的共性。在溯源过程中，我们发现小鸟壁纸等软件同样包含类似的推广模块，其中 Lua 脚本执行模块和云控配置请求模块是这些带有推广插件的软件的共同特征。</p>
+<h3>4.1 云控配置的下发</h3>
+<p>不同软件中的云控配置请求模块名称各异，但功能相同。例如：</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/21.png" alt="云控模块名称表" loading="lazy"><br>
+云控模块名称表</p>
+</div>
+<p>在软件中通常有一个控制大部分推广行为的云控配置，下文中称为「总体云控配置」，在该配置中包含大部分的推广相关配置。</p>
+<h4>4.1.1 加密算法</h4>
+<p>本次分析中，所有软件的推广模块基本采用相同的加密方式：使用 BlowFish 算法对原始数据加密，再通过 Base64 算法编码后进行数据收发。解密操作主要发生在以下场景：</p>
+<p>接收服务器云控配置、解析云控配置字段值、下载 Lua 脚本、读取软件中以加密形式存储的配置文件。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/22.png" alt="数据加密不同场景" loading="lazy"><br>
+数据加密不同场景</p>
+</div>
+<h4>4.1.2 规避</h4>
+<p>分析过程中发现，推广模块在获取云控配置时也会进行规避，根据用户地区和下载渠道筛选推广目标，避免向高风险用户投放从而规避可能的风险。</p>
+<h5>4.1.2.1 地区规避</h5>
+<p><strong>整体云控配置下发</strong>：</p>
+<p>云控配置包含大量推广相关参数。通过测试发现，非北京 IP 与北京 IP 获取到的配置存在显著差异，通常非北京 IP 会收到更多的推广配置，具体对比如下所示。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/23.png" alt="整体云控配置下发地区区别" loading="lazy"><br>
+整体云控配置下发地区区别</p>
+</div>
+<p><strong>获取京粉佣金链接</strong>：</p>
+<p>在获取京粉佣金链接时，系统同样会对北京 IP 进行规避。例如，北京 IP 获取的云控配置中 <code>data.land_url</code> 字段为空，而太原等其他地区的 IP 则会返回该字段的具体值，如下所示。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/24.png" alt="云控配置下发规避北京区域" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/25.png" alt="云控配置下发规避北京区域" loading="lazy"><br>
+云控配置下发规避北京区域</p>
+</div>
+<h5>4.1.2.2 渠道</h5>
+<p><strong>非官网渠道下载会产生更多推广</strong>：</p>
+<p>一般情况下，其他公司的官网渠道代号为 <code>home</code>，鲁大师的官网渠道代号为 <code>ludashi</code>。经过多次测试发现，通过官网渠道下载的软件在推广行为上会有所收敛：减少或不下发推广相关的云控配置，又或者在安装包中减少或移除推广模块。</p>
+<p>例如，迅读 PDF 大师会根据访问官网时的 URL 参数动态切换安装包下载地址。官网渠道提供的安装包不包含推广插件，而其他渠道的安装包则内置推广插件。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/26.png" alt="不同渠道不同安装包" loading="lazy"><br>
+不同渠道不同安装包</p>
+</div>
+<h5>4.1.2.3 用户环境</h5>
+<p>请求云控配置时，客户端会上报环境检测数据，包括：<code>sr</code>（杀毒软件）、<code>vm</code>（虚拟机）、<code>vip</code>（会员状态）、<code>advance</code>（360 广告弹窗开关与弹窗拦截开关）、<code>dev</code>（技术人员检测）等信息，服务端据此动态下发差异化的推广配置。</p>
+<p><strong>sr（杀毒软件）</strong>：</p>
+<p>检查 <code>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall</code> 注册表路径中 <code>DisplayIcon</code> 与 <code>InstallLocation</code> 键值中是否存在以下杀软程序名，如果存在，则将其收集到 <code>sr</code> 键值中。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/27.png" alt="杀毒软件程序名" loading="lazy"><br>
+杀毒软件程序名</p>
+</div>
+<p><strong>vm（虚拟机）</strong>：</p>
+<p>检测 <code>HKEY_CLASSES_ROOT\Applications\VMwareHostOpen.exe\shell\open\command</code> 是否存在且默认值有效则会判断为虚拟机。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/28.png" alt="检测虚拟机" loading="lazy"><br>
+检测虚拟机</p>
+</div>
+<p><strong>vip（会员）</strong>：</p>
+<p>VIP 数据通过读取本地配置文件或注册表获取。例如，检测 <code>%APPDATA%\TabXExplorer\config.ini</code> 文件中 <code>settings</code> 节的 <code>level</code> 值是否大于等于 <code>0</code>，或检测注册表项 <code>HKEY_LOCAL_MACHINE\SOFTWARE\LDSGameMaster\User</code> 中 <code>level</code> 键值是否存在且小于 <code>100</code>。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/29.png" alt="检测会员状态" loading="lazy"><br>
+检测会员状态</p>
+</div>
+<p>除了云控请求时会附带会员状态，在部分 Lua 脚本中也会检测是否为会员或充值，若充值过鲁大师尊享版会员则会在配置文件 <code>ComputerZ.set</code> 中设置 <code>rc_flag</code> 键值为 <code>1</code>，随后在 Lua 脚本中检测会员状态从而规避。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/30.png" alt="规避鲁大师尊享版会员" loading="lazy"><br>
+规避鲁大师尊享版会员</p>
+</div>
+<p>除此之外还会规避小鸟（360）壁纸（<code>IsBizhiVip</code>）、Halo壁纸（<code>HaloVip</code>）、TabX Explorer 资源管理器（<code>IsTabXVip</code>）、手机模拟大师（<code>GameMasterVip</code>）等会员用户。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/31.png" alt="规避各类相关软件会员" loading="lazy"><br>
+规避各类相关软件会员</p>
+</div>
+<p><strong>advance（360 广告弹窗开关与 360 弹窗拦截开关）</strong>：</p>
+<p>检测 <code>HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\360Safe\stat</code> 项中 <code>noadpop</code> 与 <code>advtool_PopWndTracker</code> 的键值是否为 <code>1</code>，后者的值表明是否开启 360 弹窗过滤器的强力模式。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/32.png" alt="检测是否开启 360 弹窗过滤器的强力模式" loading="lazy"><br>
+检测是否开启 360 弹窗过滤器的强力模式</p>
+</div>
+<p><strong>dev（技术人员）</strong>：通过以下程序是否运行来判断当前用户是否为开发者等技术人员，从而使 <code>dev</code> 字段设置为 <code>1</code>。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/33.png" alt="检测进程" loading="lazy"><br>
+检测进程</p>
+</div>
+<h3>4.2 进一步的规避手段</h3>
+<p>规避代码不止在推广模块中执行，也在 Lua 脚本中执行，且不同公司和软件拥有不同的规避手段。下面将介绍分析过程中发现的规避手段。</p>
+<h4>4.2.1 虚拟机检测</h4>
+<p>在规避虚拟机环境时，推广模块会调用 <code>Basic.tpi</code>（Lua 解释模块）中的 <code>LuaSystemFactory.VirturalMachineName</code> 函数进行检测。该函数通过 CPUID 指令实现虚拟机识别：首先传入 <code>EAX=1</code>，检查返回值的第 31 位是否为 <code>1</code>，若为 <code>1</code> 则表明运行在 <code>Hypervisor</code>（虚拟机监控程序）环境中；随后传入 <code>EAX=0x40000000</code> 读取虚拟机厂商标识，从而精确识别虚拟机类型。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/34.png" alt="虚拟机检测" loading="lazy"><br>
+虚拟机检测</p>
+</div>
+<h4>4.2.2 浏览器历史记录检测</h4>
+<p>多数软件中的推广模块及 Lua 推广脚本会检测浏览器历史记录，以规避特定人群。检测内容包括历史记录中的页面标题和访问网址。</p>
+<ul>
+<li>
+<p><strong>标题</strong>：系统会匹配历史记录中的页面标题，检测是否包含「劫持」「捆绑」「流氓软件」「自动打开」等关键词，一旦发现则停止向该用户推广，以规避曾搜索过此类内容的用户。</p>
+</li>
+<li>
+<p><strong>访问网址</strong>：匹配历史记录中访问网址中是否存在以下内容，若存在则会选择不推广。</p>
+</li>
+<li>
+<p><strong>技术类网址</strong>：例如 <code>bbs.pediy.com</code>（看雪）、<code>www.52pojie.cn</code>（吾爱破解）等网址。</p>
+</li>
+<li>
+<p><strong>投诉类网址</strong>：例如 <code>www.12315.cn</code>（全国 12315 平台）、<code>www.bj315.org</code>（北京市消费者协会）等网址。</p>
+</li>
+<li>
+<p><strong>传播平台类网址</strong>：例如 <code>weibo.com</code>（微博） 与 <code>www.zhihu.com</code>（知乎）等网址。</p>
+</li>
+</ul>
+<p><strong>值得注意的是，在劫持浏览器的过程中，会对用户是否访问过周鸿祎的微博进行检测，若检测结果为已访问，则不会进行推广。</strong></p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/35.png" alt="检测历史记录" loading="lazy"><br>
+检测历史记录</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/36.png" alt="需规避的标题或链接" loading="lazy"><br>
+需规避的标题或链接</p>
+</div>
+<p>部分脚本会运用反向规避策略，对用户是否存在玩游戏、观看视频、使用搜索引擎、下载软件等正常浏览行为进行检测。若用户的历史记录中缺乏这些常规活动的痕迹，便会将其判定为非正常用户（例如处于安全分析环境中的用户、测试账号等），并停止推广操作。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/37.png" alt="标题列表和链接列表" loading="lazy"><br>
+标题列表和链接列表</p>
+</div>
+<h4>4.2.3 安装软件检测</h4>
+<p><strong>安装软件检测</strong>：</p>
+<p>通过遍历 <code>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall</code> 注册表路径检测当前电脑已安装的软件。</p>
+<p><strong>杀毒软件检测</strong>：</p>
+<p>系统会检测杀毒软件的安装情况，包括火绒、卡巴斯基、360 安全卫士等。检测结果在不同脚本中会触发不同的处理逻辑。例如，主页防护模块的更新脚本采用反向逻辑：只有检测到杀毒软件时才会继续更新，若未检测到则不更新。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/38.png" alt="规避杀毒软件" loading="lazy"><br>
+规避杀毒软件</p>
+</div>
+<p><strong>技术软件检测</strong>：</p>
+<p>系统会检测是否安装了 IDA、Visual Studio、Fiddler 等技术分析和开发工具，若检测到则停止推广，以规避技术人员和安全研究人员。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/39.png" alt="技术软件列表" loading="lazy"><br>
+技术软件列表</p>
+</div>
+<h4>4.2.4 进程检测</h4>
+<p><strong>检测进程名</strong>：</p>
+<p>通过进程名检测是否运行开发、调试、分析软件等技术性程序。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/40.png" alt="检测进程名" loading="lazy"><br>
+检测进程名</p>
+</div>
+<p><strong>检测窗口类名</strong>：</p>
+<p>系统通过检测窗口类名来识别控制面板并进行规避。该窗口检测逻辑与 DirectX 强力修复软件中的 <code>wsadd.pln</code> 模块实现方式一致。（文章《<strong>流氓联盟欺软怕硬，多链路恶意推广</strong>》中检测控制面板窗口的逻辑，相关链接见<a href="#%E6%96%87%E4%B8%AD%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5">文末</a>。）</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/41.png" alt="检测窗口类名" loading="lazy"><br>
+检测窗口类名</p>
+</div>
+<h4>4.2.5 任务栏图标个数检测</h4>
+<p>系统会检测任务栏图标数量是否大于等于 5 个，以此规避常驻进程较少的测试环境或虚假用户。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/42.png" alt="右下角任务栏图标个数检测" loading="lazy"><br>
+右下角任务栏图标个数检测</p>
+</div>
+<h4>4.2.6 冷却时间</h4>
+<p>浏览器插件安装脚本采用延迟触发机制：脚本每天尝试执行一次，但需要在软件安装 7 天后才会真正执行安装操作，且每次成功安装后还有 180 天的冷却期。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/43.png" alt="冷却时间" loading="lazy"><br>
+冷却时间</p>
+</div>
+<p>任务栏图标推广脚本，会根据软件安装时长设置不同的冷却期。以鲁大师为例：其官网渠道需等待 24 小时后才会进行推广，而 <code>lx_store</code>（联想应用商店）渠道则无冷却期，安装后会立即推广。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/44.png" alt="不同渠道不同冷却时间" loading="lazy"><br>
+不同渠道不同冷却时间</p>
+</div>
+<h4>4.2.7 浏览器插件检测</h4>
+<p><strong>利用浏览器插件清理模块进行插件检测</strong>：</p>
+<p>系统会检测浏览器中是否安装了淘客助手类插件，若检测到有则会停止推广，避免向推广从业者投放。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/45.png" alt="需要规避的浏览器插件 ID" loading="lazy"><br>
+需要规避的浏览器插件 ID</p>
+</div>
+<h4>4.2.8 其他</h4>
+<p><strong>系统检测、随机概率、控量</strong>：</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/46.png" alt="系统、概率、控量" loading="lazy"><br>
+系统、概率、控量</p>
+</div>
+<p><strong>规避屏蔽广告设置</strong>：</p>
+<p>规避设置了屏蔽广告弹窗选项的用户。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/47.png" alt="规避设置" loading="lazy"><br>
+规避设置</p>
+</div>
+<p><strong>付费用户与反馈用户检测</strong>：</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/48.png" alt="付费用户与反馈用户" loading="lazy"><br>
+付费用户与反馈用户</p>
+</div>
+<p><strong>浏览器 F12 开发者工具检测</strong>：</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/49.png" alt="开发者工具检测" loading="lazy"><br>
+开发者工具检测</p>
+</div>
+<h3>4.3 推广手段</h3>
+<p><strong>主要的推广手段</strong>：</p>
+<ol>
+<li><strong>根据云控配置下载 Lua 脚本执行</strong>：</li>
+</ol>
+<p>Lua 推广脚本的主要功能包括：下载并加载「浏览器插件安装模块」、通过任务栏图标闪烁推广「传奇」页游、下载并更新自身组件。</p>
+<ol start="2">
+<li><strong>根据云控配置浏览器网页劫持</strong>：</li>
+</ol>
+<p>根据测试中获取到的云控配置，推广模块会进行多种流量劫持操作。例如，识别到用户访问京东链接时会额外跳转至红包领取页面以获取推广佣金；识别百度搜索链接时会在 URL 中添加 <code>tn</code> 渠道标识参数以获取搜索推广分成；以及其他类似的流量劫持变现行为。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/50.png" alt="浏览器静默劫持（京粉佣金静默推广）" loading="lazy"><br>
+浏览器静默劫持（京粉佣金静默推广）</p>
+</div>
+<ol start="3">
+<li><strong>根据云控配置弹窗安装软件</strong>：</li>
+</ol>
+<p>根据测试中获取到的云控配置下载 LionProtect、SecretCipher 等软件。</p>
+<ol start="4">
+<li><strong>根据云控配置浏览器弹出百度搜索框与「传奇」页游框</strong>：</li>
+</ol>
+<p>若用该百度搜索框搜索内容会带有渠道标识。</p>
+<ol start="5">
+<li><strong>浏览器弹窗安装</strong>：</li>
+</ol>
+<p>测试中发现弹窗出现在浏览器右下角，点击则会立即安装。</p>
+<ol start="6">
+<li><strong>其他</strong>：</li>
+</ol>
+<p>锁定浏览器主页、推广自身小工具。</p>
+<p><a href="#%E6%96%87%E4%B8%AD%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5">下文</a>将与之前发布的 DirectX 强力修复分析报告《<strong>流氓联盟欺软怕硬，多链路恶意推广</strong>》进行对比分析。</p>
+<h4>4.3.1 Lua 脚本执行</h4>
+<p><code>RunExtention.tpi</code> 为 Lua 脚本执行器，利用 <code>Basic.tpi</code> 模块导出函数 <code>GetLuaExplain</code> 获取 Lua 解释器进行解释执行。</p>
+<p>其与 DirectX 强力修复分析报告中的 <code>runext.pln</code> 插件类似，都是通过 <code>0x1401</code> 和 <code>0x1402</code> 消息数据传输，也同样拥有 <code>EventId</code>（控制脚本执行方式）、缓存和下载以及执行的机制。（详见《<strong>流氓联盟欺软怕硬，多链路恶意推广</strong>》文章中 <code>runext.pln</code> 脚本执行模块章节，相关链接见<a href="#%E6%96%87%E4%B8%AD%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5">文末</a>。）</p>
+<p>原先 DirectX 强力修复中脚本种类主要有弹窗推广与任务栏闪烁推广，但在此次鲁大师分析中发现还有 Dll 下载与加载和组件更新类脚本。</p>
+<h5>4.3.1.1 DLL 下载与加载</h5>
+<p>该类样本具备下载并加载任意 DLL 的能力。本次发现的云控配置即利用该功能分发浏览器插件安装模块，目前仅在鲁大师环境中观测到此类脚本。</p>
+<p>该浏览器插件安装模块支持 Chrome、Edge、Firefox、360 安全浏览器等主流平台。所安装插件多为日历、记事助手等日常工具，但其中暗藏篡改 URL 参数及页面重定向功能。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/51.png" alt="浏览器支持列表" loading="lazy"><br>
+浏览器支持列表</p>
+</div>
+<p>该脚本会先通过 80% 随机概率、冷却检测、付费用户检测、技术程序检测、虚拟机检测、杀毒软件检测、控量、浏览器支持检测、历史记录检测、浏览器插件等检测，若全部通过则开始安装插件。</p>
+<p>其中浏览器插件的检测是通过脚本中插件清理模块（<code>bp_clean</code>）中的 <code>CheckPluginExist</code> 函数进行检测，其中原理是遍历上述浏览器支持列表中所有 <code>extensions</code> 插件文件夹，检测其中是否有指定插件 ID，本次所规避的是淘客助手类浏览器插件（<code>aokheaddinafdmjphkjlnachkejgleao</code>）。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/52.png" alt="规避浏览器 Lua 脚本" loading="lazy"><br>
+规避浏览器 Lua 脚本</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/53.png" alt="检查浏览器插件是否存在" loading="lazy"><br>
+检查浏览器插件是否存在</p>
+</div>
+<p>随后开始安装插件，利用的是插件安装模块（<code>bp_deploy</code>）中 <code>install</code> 导出函数，随后传入参数 <code>hvsLi6Wy|118.190.130.219</code>，以获取插件数据，随后发现该域名与小鸟壁纸相关。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/54.png" alt="域名信息" loading="lazy"><br>
+域名信息</p>
+</div>
+<p>随后发送 <code>http://118.190.130.219:8107/dcp/browser/cV2?param=加密({"i":"60D2984F-487F-429d-B3F8-62E76030699E","p":"hvsLi6Wy","s":0,"t":1762314116,"v":"1.2.5.22"})</code> 获取插件数据，其中字段 <code>p</code> 的值决定所获取的云控配置，当值为 <code>hvsLi6Wy</code> 时，返回数据中插件下载地址所属域名的备案信息为「上海灸烈网络科技有限公司」。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/55.png" alt="插件数据" loading="lazy"><br>
+插件数据</p>
+</div>
+<p>随后开始下载并将插件安装完成后，其 <code>background.js</code> 作为推广脚本，会在用户访问网页时执行参数添加或页面重定向等操作，以实现推广目的。</p>
+<p>当用户使用百度搜索时，插件会自动设置 <code>tn</code> 参数。其参数值通过访问 <code>http://114.116.10.0/dcp/browser/uc?t={时间戳}</code>，随后从获取到的云控配置中的百度配置中获取渠道标识。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/56.png" alt="百度搜索时设置渠道标识" loading="lazy"><br>
+百度搜索时设置渠道标识</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/57.png" alt="云控标识" loading="lazy"><br>
+云控标识</p>
+</div>
+<p>还有京东和其他网址会通过 <code>http://dg.fireemulator.com/dcp/browser/rc</code>，获取重定向链接，即为京粉佣金推广链接。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/58.png" alt="获取重定向链接" loading="lazy"><br>
+获取重定向链接</p>
+</div>
+<h5>4.3.1.2 任务栏闪烁推广</h5>
+<p>该类脚本经常用于推广「传奇」微端，以闪烁图标诱导用户点击，随后规避软件并进行网页弹窗或静默下载安装「传奇」微端。该类脚本在 DirectX 强力修复中就已存在。（详见《<strong>流氓联盟欺软怕硬，多链路恶意推广</strong>》文章中传奇微端推广章节，相关链接见<a href="#%E6%96%87%E4%B8%AD%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5">文末</a>。）</p>
+<div align="center">
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/59.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div>
+<h5>4.3.1.3 弹窗假关闭按钮安装</h5>
+<p>该类脚本通过设置虚假关闭按钮诱导用户交互，无论用户点击关闭按钮或触发超时机制，均会执行推广软件的下载安装流程。该行为模式与「DirectX 强力修复」工具类似，而后者在用户点击「不再提示」时会执行卸载操作，点击关闭按钮则会默认保持安装状态。（详见《流氓联盟欺软怕硬，多链路恶意推广》文章中夸克弹窗推广章节，相关链接见<a href="#%E6%96%87%E4%B8%AD%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5">文末</a>。）推广软件会存于云控配置的  <code>push_soft_slow</code> 字段中，系统会自动选择最高价格的软件进行安装。但在测试环境中该配置字段为空值，推测是由于条件未触发或服务端暂未下发有效配置。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/60.png" alt="手动关闭与自动关闭都会下载安装" loading="lazy"><br>
+手动关闭与自动关闭都会下载安装</p>
+</div>
+<h4>4.3.2 弹窗安装软件</h4>
+<p>该插件为鲁大师特有插件，其行为与上述「弹窗假关闭按钮安装 Lua 脚本」一致，均通过虚假关闭按钮和超时机制触发静默安装。其主要推送 SecretCipher、LionProtect 等软件（注：DirectX 强力修复未包含此插件）。安装时，通过添加静默参数及隐藏开始菜单之类参数实现隐蔽执行，使用户点击关闭按钮时无法感知安装进程的启动。安装完成后，SecretCipher 等软件将根据云控配置执行推广任务，其通过任务栏闪烁等方式诱导用户点击「传奇」游戏微端等推广内容。</p>
+<p><strong>原理</strong>：程序通过调用 <code>carry_flow.tpi</code> 的 <code>CreateTrayClient</code> 初始化托盘客户端，随后加载 <code>traffic_common.dll</code> 并执行 <code>CreateInterface</code> 函数完成模块初始化；随后拉取云控配置并选择推广软件，当用户交互触发后，无论点击关闭或安装，均会进入安装软件流程，最终执行安装流程。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/61.png" alt="获取安装表列表（云控配置）" loading="lazy"><br>
+获取安装包列表（云控配置）</p>
+</div>
+<p><strong>云控配置</strong>：下图为整体云控配置中的弹窗安装相关配置，其中包含 <code>close_install</code>、<code>timeout_install</code> 之类的安装开关，分别为是否允许点击关闭按钮安装和超时安装。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/62.png" alt="整体云控配置中的弹窗安装相关配置" loading="lazy"><br>
+整体云控配置中的弹窗安装相关配置</p>
+</div>
+<p>以下是出现的弹窗，这里点击以下内容会被安装：</p>
+<ol>
+<li>
+<p><strong>关闭按钮</strong>：当云控配置为 <code>close_install</code> 为 <code>1</code> 的时候会被安装。</p>
+</li>
+<li>
+<p><strong>超时</strong>：<code>{duration_time}</code> 秒后判定超时，且 <code>timeout_install</code> 为 <code>1</code> 的时候会被安装。</p>
+</li>
+<li>
+<p><strong>立即优化</strong>：直接安装。</p>
+</li>
+</ol>
+<div align="center">
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/63.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div>
+<p>安装前先随机选择目标软件，并下载该安装包（动态链接库）并调用导出函数 <code>Start4RunDll</code>，以实现安装。安装时会附加静默参数 <code>--delay-pop-hp=18000 --channel=ludashi_ludashi --from=ludashi_popguide --silent --no-desktop-shortcut --no-start-menu-shortcut</code>，此时安装是静默的、没有托盘图标、开始菜单、桌面快捷方式等显式安装效果。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/64.png" alt="调用导出函数" loading="lazy"><br>
+调用导出函数</p>
+</div>
+<p>以下软件组，分别为数据加密、浏览器保护、清理文件等软件。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/65.png" alt="软件组" loading="lazy"><br>
+软件组</p>
+</div>
+<h4>4.3.3 浏览器弹出百度搜索框</h4>
+<p><strong>云控配置触发冷却时间检测</strong>：从 <code>ConfigCenter</code> 获取到云控配置后，其会发送 <code>0x8100</code> 消息以触发检测冷却时间，随后通过 <code>SetTimer</code> 设置 ID 为 <code>0x64</code> 的计时器等待冷却结束，最后执行环境规避检测。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/66.png" alt="云控配置触发冷却时间检测" loading="lazy"><br>
+云控配置触发冷却时间检测</p>
+</div>
+<p><strong>接收浏览器消息</strong>：每次切换至浏览器窗口时，<code>BrowserBasic.tpi</code> 会将数据传输至 <code>master_ai_ext.tpi</code> 模块。该数据随后被封装为 <code>0x8001</code> 消息发送至主窗口处理函数，随后利用 <code>FindWindowW</code> 寻找类名为 <code>master_ai_client_wnd_class</code>，窗口名为 <code>master_ai_client_wnd_name</code> 的窗口，以检查是否已存在对应搜索框。</p>
+<p>每次切换至浏览器窗口时，<code>BrowserBasic.tpi</code> 会将数据传输至 <code>master_ai_ext.tpi</code> 模块。该数据随后被封装为 <code>0x8001</code> 消息发送至主窗口处理函数，随后利用 <code>FindWindowW</code> 寻找类名为 <code>master_ai_client_wnd_class</code>，窗口名为 <code>master_ai_client_wnd_name</code> 的窗口，以检查是否已存在对应搜索框。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/67.png" alt="接收浏览器窗口改变事件" loading="lazy"><br>
+接收浏览器窗口改变事件</p>
+</div>
+<p>最终会调用 <code>"C:\Program Files (x86)\LuDaShi\SuperApp\master_ai\master_ai_main.exe" --pop_type=attach_opened_doc --attach_wnd=921496</code> 以实现指定窗口弹出搜索框的操作。其调用 <code>js_basic.dll</code> 时，会传入 JSON 数据，从该数据可以看出，将会加载 <code>master_ai_main.dat</code> 文件中的 <code>index.html</code>。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/68.png" alt="JSON 数据" loading="lazy"><br>
+JSON 数据</p>
+</div>
+<p>而在 <code>index.html</code> 文件加载的 JavaScript 脚本中实现了该搜索框的细节，其中可以看到点击搜索按钮时会利用百度搜索附加渠道标识参数进行跳转。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/69.png" alt="搜索框代码细节" loading="lazy"><br>
+搜索框代码细节</p>
+</div>
+<p>点击《百度一下》按钮后搜索时会添加 <code>tn</code> 渠道标识。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/70.png" alt="搜索框及跳转" loading="lazy"><br>
+搜索框及跳转</p>
+</div>
+<h4>4.3.4 浏览器弹出「传奇」页游框</h4>
+<p><strong>云控，推广机制</strong>：该插件 <code>WndPlugin</code> 由 <code>computercenter.exe</code> 进程加载，其行为受云控配置 <code>wnd_plugin_v2_slow</code> 字段控制，其插件利用 <code>BrowserBasic</code> 模块以获取浏览器事件，最终触发「传奇」推广弹窗，并引导用户点击跳转至 <code>click_url</code> 字段指定的「传奇」页游链接。</p>
+<p><strong>多种规避方法</strong>：进程检测、安装软件检测、历史记录检测、VIP 检测、反馈人群检测、浏览器 F12 开发者工具检测。</p>
+<p>下图为云控配置中出现的 <code>black_url</code> 与 <code>black_title</code> 字段，根据其命名及所列网址和标题内容，推测是禁止弹窗的页面。且云控配置中的 <code>pop_ids</code> 为允许弹窗的 ID 列表，与 <code>pop_info</code> 中的 <code>pop_id</code> 相对应。</p>
+<div align="center">
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/71.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div>
+<p>下图为测试过程中的推广效果图。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/72.png" alt="推广效果图" loading="lazy"><br>
+推广效果图</p>
+</div>
+<h4>4.3.5 其他</h4>
+<p>浏览器弹窗安装：在测试过程中，浏览器弹出《推荐-安装幻笔 AI》窗口，经交互验证，点击该弹窗将触发安装流程。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/73.png" alt="浏览器弹窗安装" loading="lazy"><br>
+浏览器弹窗安装</p>
+</div>
+<p><strong>锁定浏览器主页</strong>：测试时发现 <code>Utils</code> 目录中 <code>guardhp.exe</code> 程序会弹出浏览器主页锁定操作，弹出时将浏览器锁定为 <code>hao.360.cn</code>。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/74.png" alt="弹窗图" loading="lazy"><br>
+弹窗图</p>
+</div>
+<p><strong>推广自身小工具</strong>：接收整体云控配置中 <code>universal_popup_rec_slow</code> 与 <code>popmgr_slow</code>，分别是弹窗软件数据和弹窗规则，其含有 <code>intercept_bs</code> 类似的工具，本身用于推广自身小工具，通常存放于 <code>SuperApp</code> 文件夹中。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/75.png" alt="弹窗软件数据和弹窗规则" loading="lazy"><br>
+弹窗软件数据和弹窗规则</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/76.png" alt="弹窗图" loading="lazy"><br>
+弹窗图</p>
+</div>
+<h2>【五】火绒安全提醒</h2>
+<p><strong>目前，火绒安全软件已实现对此类云控推广模块的识别、拦截及查杀</strong>。为保障您的设备安全与使用体验，远离流量劫持、强制弹窗、静默安装等不良行为的侵扰，<strong>建议广大用户将火绒安全软件更新至最新版本</strong>，随后启动<strong>全盘查杀</strong>功能对设备进行全面扫描，及时清除潜在风险。火绒也将持续追踪，为用户构建持续、可靠的安全防护屏障。</p>
+<div align="center">
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/77.png" alt="检查更新" loading="lazy"><br>
+检查更新</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/78.png" alt="全盘查杀" loading="lazy"><br>
+全盘查杀</p>
+</div>
+<h2><a class="header-anchor" href="#文中相关链接"><span></span></a><a href="https://www.huorong.cn/document/tech/vir_report/1839" target="_blank" rel="noopener noreferrer">文中相关链接</a></h2>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/lds/01.png" type="image/png"/>
+    </item>
+    <item>
+      <title>原友们只要吃史就好，而我们米默发表不经过大脑的言论要考虑的就多了</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/strict/251116.html</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/strict/251116.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">原友们只要吃史就好，而我们米默发表不经过大脑的言论要考虑的就多了</source>
+      <description>注 by bilibili @肺雾椰奶酱 注意 可能会引起不适，请谨慎阅读。 剧情是要看过才能评价的 游戏是要玩过才能评分的 只能骂策划，玩家是要尊重的 只能冲官方，二创是要护着的 这些东西我原样丢给友商： 属于是那种没进过厨房，就说菜难吃的货色； 看着菜谱照片，就断定吃了会拉肚子； 尝都没尝，就对着餐馆打一星； 还他妈觉得自己是美食评论家，实际连盐和...</description>
+      <category>留档</category>
+      <category>仙舟联盟</category>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/3493115285473536" target="_blank" rel="noopener noreferrer">@肺雾椰奶酱</a></p>
+</div>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>可能会引起不适，请谨慎阅读。</p>
+</div>
+<figure><figcaption></figcaption></figure>
+<blockquote>
+<p>剧情是要看过才能评价的<br>
+游戏是要玩过才能评分的<br>
+只能骂策划，玩家是要尊重的<br>
+只能冲官方，二创是要护着的</p>
+</blockquote>
+<p>这些东西我原样丢给友商：</p>
+<p>属于是那种没进过厨房，就说菜难吃的货色；<br>
+看着菜谱照片，就断定吃了会拉肚子；<br>
+尝都没尝，就对着餐馆打一星；<br>
+还他妈觉得自己是美食评论家，实际连盐和糖都分不清；<br>
+站在厕所门口闻了闻，就说整桌满汉全席是馊的。</p>
+<p>赛博狐狸这一块给这种人搞明白了。</p>
+<p>实际上，就是自己家的游戏无人在意，只能引战，才能让人知道到底出了什么东西。</p>
+<p>还有，那策划和官方发病了，你骂玩家和二创？现实生活不如意了吧？</p>
+<p>神人剧情、神人活动又不是玩家做的，别人正常讨论，你跳出来说一句「还在玩的真是神人」。</p>
+<p>上次我发的鸡爪躲猫猫，就有个神人跳出来说，「这游戏我最讨厌的就是躲猫猫，看见了就恶心」。</p>
+<p>我寻思，你要真讨厌，点踩、拉黑不就完了？不就是点进来没看见自己想看的东西吗？</p>
+<p>玩家也不是你爹，二创也没对你做什么，纯纯左脑攻击右脑尖尖，代替思考的神人呢？赶紧去瓦 Go 里寻找自己的父母罢。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>留言板</title>
+      <link>https://bxx-114514.github.io/comments.html</link>
+      <guid>https://bxx-114514.github.io/comments.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">留言板</source>
+      <description>留言板 在这里任意写下想发表的内容吧。 Write here what you want to post.</description>
+      <category>其他</category>
+      <category>留言页</category>
+      <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<div style="text-align:center">
+<h1>在这里任意写下想发表的内容吧。</h1>
+<h1>Write here what you want to post.</h1>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>导航页</title>
+      <link>https://bxx-114514.github.io/navigation.html</link>
+      <guid>https://bxx-114514.github.io/navigation.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">导航页</source>
+      <description>网页传送门 Website Links GitHub Pages i 鸣（新） i 哔 i 鬼 仙舟联盟的米游观察站 《原神》与媒体 仓库 Repositories i 鸣（新） i 哔 i 鬼 仙舟联盟的米游观察站 《原神》与媒体 联系和投稿方式 Contact &amp; Relate Details Email: tzhong072@gmail.com ...</description>
+      <category>其他</category>
+      <category>导航页</category>
+      <pubDate>Thu, 01 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>网页传送门 Website Links</h2>
+<h3>GitHub Pages</h3>
+<ul>
+<li><a href="https://bxx-114514.github.io/iming-blog" target="_blank" rel="noopener noreferrer"><s>i 鸣</s></a></li>
+<li><a href="https://bxx-114514.github.io/new-iming-blog" target="_blank" rel="noopener noreferrer">i 鸣（新）</a></li>
+<li><a href="https://bxx-114514.github.io/evil-of-bilibili" target="_blank" rel="noopener noreferrer">i 哔</a></li>
+<li><a href="https://bxx-114514.github.io/igui-blog" target="_blank" rel="noopener noreferrer">i 鬼</a></li>
+<li><a href="https://bxx-114514.github.io/xzlm-hyv" target="_blank" rel="noopener noreferrer">仙舟联盟的米游观察站</a></li>
+<li><a href="https://bxx-114514.github.io/genshinimpact-and-media" target="_blank" rel="noopener noreferrer">《原神》与媒体</a></li>
+</ul>
+<h3>仓库 Repositories</h3>
+<ul>
+<li><a href="https://github.com/bxx-114514/iming-blog" target="_blank" rel="noopener noreferrer"><s>i 鸣</s></a></li>
+<li><a href="https://github.com/bxx-114514/new-iming-blog" target="_blank" rel="noopener noreferrer">i 鸣（新）</a></li>
+<li><a href="https://github.com/bxx-114514/evil-of-bilibili" target="_blank" rel="noopener noreferrer">i 哔</a></li>
+<li><a href="https://github.com/bxx-114514/igui-blog" target="_blank" rel="noopener noreferrer">i 鬼</a></li>
+<li><a href="https://github.com/bxx-114514/xzlm-hyv" target="_blank" rel="noopener noreferrer">仙舟联盟的米游观察站</a></li>
+<li><a href="https://github.com/bxx-114514/genshinimpact-and-media" target="_blank" rel="noopener noreferrer">《原神》与媒体</a></li>
+</ul>
+<h2>联系和投稿方式 Contact &amp; Relate Details</h2>
+<ul>
+<li>Email: <a href="mailto:tzhong072@gmail.com" target="_blank" rel="noopener noreferrer">tzhong072@gmail.com</a></li>
+</ul>
+<h3>SNS</h3>
+<details>
+<summary><strong>SNS</strong></summary>
+<ul>
+<li>德波大饭店 bilibili: <a href="https://space.bilibili.com/626140137" target="_blank" rel="noopener noreferrer">https://space.bilibili.com/626140137</a></li>
+<li>YouTube: <a href="https://youtube.com/@bxx-ii45i4" target="_blank" rel="noopener noreferrer">https://youtube.com/@bxx-ii45i4</a></li>
+<li>小红书 Xiaohongshu/Redbook: <a href="https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d" target="_blank" rel="noopener noreferrer">https://www.xiaohongshu.com/user/profile/67f387fa000000000d009f9d</a></li>
+<li>微博 Weibo: <a href="https://weibo.com/u/7847016698" target="_blank" rel="noopener noreferrer">https://weibo.com/u/7847016698</a></li>
+<li>X (Twitter): <a href="https://x.com/bxx_114514" target="_blank" rel="noopener noreferrer">https://x.com/bxx_114514</a></li>
+<li>Threads: <a href="https://www.threads.com/@114514buxianxian" target="_blank" rel="noopener noreferrer">https://www.threads.com/@114514buxianxian</a></li>
+<li>Bluesky: <a href="https://bsky.app/profile/bxx-114514.bsky.social" target="_blank" rel="noopener noreferrer">https://bsky.app/profile/bxx-114514.bsky.social</a></li>
+<li>Instagram: <a href="https://www.instagram.com/114514buxianxian/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/114514buxianxian/</a></li>
+</ul>
+</details>]]></content:encoded>
+    </item>
+    <item>
+      <title>关于某个反原商稿画师</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/250430-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/250430-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">关于某个反原商稿画师</source>
+      <description>2025 年 4 月 30 日，帕姆的收藏夹发了商稿画师 REDUM 为星铁做的图。与此同时，该画师被挖出早年的反原黑历史，以及去年曾为小明做过商稿。 该图质量非常差，不仅很丑，画风还很抽象，放大仔细看还看不清结构： 我的评价是 同时画多家并没有问题，有问题的是，不仅有反某家黑历史，且对待商稿如此敷衍。既然这样，那就别怪被玩家们谴责。 bilibili...</description>
+      <category>《原神》和媒体</category>
+      <category>留档</category>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>2025 年 4 月 30 日，<a href="https://space.bilibili.com/508103429" target="_blank" rel="noopener noreferrer"><strong>帕姆的收藏夹</strong></a>发了商稿画师 <strong>REDUM</strong> 为星铁做的图。与此同时，该画师被挖出早年的反原黑历史，以及去年曾为小明做过商稿。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/evil-of-kurogames/images/REDUM/1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>该图质量非常差，不仅很丑，画风还很抽象，放大仔细看还看不清结构：</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/evil-of-kurogames/images/REDUM/2.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/evil-of-kurogames/images/REDUM/3.png" alt="" loading="lazy"></p>
+<h2>我的评价是</h2>
+<p>同时画多家并没有问题，有问题的是，不仅有反某家黑历史，且对待商稿如此敷衍。既然这样，那就别怪被玩家们谴责。</p>
+<h2><a class="header-anchor" href="#bilibili-戏剧化愚者-的评价是"><span></span></a><a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">bilibili @戏剧化愚者</a> 的评价是</h2>
+<p>画小明又画原本身不是啥事儿，多的是画师接两边单子。但既有反原黑历史，又如此潦草的对待商单，那就走流程呗。</p>
+<h2>参考资料</h2>
+<ul>
+<li><a href="https://www.bilibili.com/opus/1062084234799218706" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1062084234799218706</a> <a href="https://web.archive.org/web/20250501205933/https://www.bilibili.com/opus/1062084234799218706" target="_blank" rel="noopener noreferrer">快照备份</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/evil-of-kurogames/images/REDUM/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>北大原神玩家开盒？名誉侵犯闹上法院，造谣者惨遭切割！【行秋Official】诉【宁一呐】事件声明</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/250430.html</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/250430.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">北大原神玩家开盒？名誉侵犯闹上法院，造谣者惨遭切割！【行秋Official】诉【宁一呐】事件声明</source>
+      <description>注 bilibili @Yishiki一式风模块 「『米学长』们也就只敢依仗着法律了。」 「宁一呐将军宁军怎么也不会想到，自己的和解会换来这么大的失败。」 「大清洗时代就要来了。」 以上有趣的发言，出自【行秋Official】起诉 UP 主【宁军（宁一呐）】的事件。 2024 年 7 月，B 站用户【冬青】抛出了一系列不知道哪里来的聊天记录，称「这些是...</description>
+      <category>《原神》和媒体</category>
+      <category>留档</category>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>bilibili <a href="https://space.bilibili.com/643362376" target="_blank" rel="noopener noreferrer">@Yishiki一式风模块</a></p>
+</div>
+<p>「『米学长』们也就只敢依仗着法律了。」<br>
+「宁一呐将军宁军怎么也不会想到，自己的和解会换来这么大的失败。」<br>
+「大清洗时代就要来了。」<br>
+以上有趣的发言，出自【行秋Official】起诉 UP 主【宁军（宁一呐）】的事件。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/2.jpg" alt="" loading="lazy"></p>
+<p>2024 年 7 月，B 站用户【冬青】抛出了一系列不知道哪里来的聊天记录，称「这些是米哈游玩家开盒的证据」；这些证据到了【宁军】的手里，被做成视频。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/4.jpg" alt="" loading="lazy"></p>
+<p>他们大肆炒作仙舟开盒论，试图发起一场针对米哈游和「米学长」的圣战。在这场圣战里，橘子自告奋勇做了后勤，而冲在最前面的，就是我们的【宁军】。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/5.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>在他们的口中，「拥有万人规模的『米学长』开盒了几亿网民，罄竹难书。」</p>
+<p>【宁军】和【橘子】还指出了其中的一个典型：【北大学子行秋】，此人曾多次劝告反串带节奏的米默道歉，因而被反米群体记恨在心。这些截屏也就被断章取义，演绎成了所谓的「原神玩家行秋开盒证据」。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/6.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/7.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/8.jpg" alt="" loading="lazy"></p>
+<p>随着【宁将军】和【橘子】的炒作，【行秋】被挂上【北京大学吧】，照片和信息被开出。为了声讨行秋，米默甚至把他挂上了【反开盒吧】，挂上短轰光明磊落地开盒了。真是一副世界名画。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/9.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/10.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/11.jpg" alt="" loading="lazy"></p>
+<p>【行秋】到底开没开别人，我不好说，倒是 8U 大头短轰熟练得好像一条产业链了。各方米默联合震动，逼着【北京大学吧】吧务为他们网暴造谣开绿灯；四处发送【行秋】大头，昼夜短轰【行秋】全家，举报信写得笔尖冒火星子，学校官号下乌泱泱好不热闹。这些尖锐的声音导致【行秋】本人炸毛。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/12.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/13.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/14.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/15.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/16.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/17.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/18.jpg" alt="" loading="lazy"></p>
+<p>在向校方澄清后，将【宁军】告上了法庭。<br>
+10 月 29 日，根据【橘子】描述，（宁军的）应诉迎来了失败，也就有了开头那些经典的发言。【橘子】直言，「我都不知道【宁军】他是不是真的反『仙』」。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/19.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>【宁将军】的和解成了「反米」「反仙」运动里最大的失败。这次逃跑罄竹难书，甚至还被自己的回旋镖扎了个正着，「忠诚不绝对，就是绝对不忠诚」。而【橘子】本人也没逃过「原地升『仙』」的命运，换谁谁能忍住这口气？换谁谁能感受到那种深深的无力感？</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/20.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/21.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/22.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/23.jpg" alt="" loading="lazy"></p>
+<p>至于被告的【宁将军】，更是发布了一个不知所谓的声明「拒绝道歉」。前脚带完节奏，高举大旗网暴北大原神玩家；后脚擦擦嘴巴，吃完人血馒头，拒绝消除影响。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/24.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/25.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/26.jpg" alt="" loading="lazy"></p>
+<p>恶人做恶事永远都有无数的借口，却总想标榜自己就是道义。以前的节奏，擦着道德走；现在的节奏，擦着法律走。无敌了真的是。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/27.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/video/BV1f6D5YzEGM" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1f6D5YzEGM</a></li>
+<li>GitHub Releases <a href="https://github.com/bxx-114514/genshinimpact-and-media/releases/tag/Videos1" target="_blank" rel="noopener noreferrer">https://github.com/bxx-114514/genshinimpact-and-media/releases/tag/Videos1</a></li>
+<li>云盘存档 <a href="https://1drv.ms/f/c/ec6393f81c569b98/EkQBSgDNLn1Am1g-Cnhbd8gB-Hbz7zX_n8LywROjVXDkKw?e=KVVxtR" target="_blank" rel="noopener noreferrer">https://1drv.ms/f/c/ec6393f81c569b98/EkQBSgDNLn1Am1g-Cnhbd8gB-Hbz7zX_n8LywROjVXDkKw?e=KVVxtR</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/genshinimpact-and-media/refs/heads/main/images/BV1f6D5YzEGM/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>造谣《原神》玩家是小偷！堪比毒贩邪教？某些营销号简直毫无底线可言了！</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/250619.html</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/250619.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">造谣《原神》玩家是小偷！堪比毒贩邪教？某些营销号简直毫无底线可言了！</source>
+      <description>注 bilibili @创玩时空、@冲浪少年mzk 我是真没想到，现在的营销号，为了一点流量跟钞票，已经是毫无底线可言了！ 「偷盘子」 前几天刷到个视频，给我是看吐了！不仅整个视频充斥着对《原神》玩家的污名化与侮辱、造谣，将玩家比喻成「邪教」「丧尸」「毒贩」「小偷」，而且还拿出几年前「原神×必胜客」联动的「偷盘子」节奏炒冷饭。 结果反而还倒打一耙、诬陷...</description>
+      <category>《原神》和媒体</category>
+      <category>留档</category>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>bilibili <a href="https://space.bilibili.com/3494375856278051" target="_blank" rel="noopener noreferrer">@创玩时空</a>、<a href="https://space.bilibili.com/443561230" target="_blank" rel="noopener noreferrer">@冲浪少年mzk</a></p>
+</div>
+<p>我是真没想到，现在的营销号，为了一点流量跟钞票，已经是毫无底线可言了！</p>
+<h2>「偷盘子」</h2>
+<p>前几天刷到个视频，给我是看吐了！不仅整个视频充斥着对《原神》玩家的污名化与侮辱、造谣，将玩家比喻成「邪教」「丧尸」「毒贩」「小偷」，而且还拿出几年前「原神×必胜客」联动的「偷盘子」节奏炒冷饭。</p>
+<p>结果反而还倒打一耙、诬陷、造谣、无中生有，说是「《原神》玩家吃完必胜客不走，跑去把联动餐盘偷了，放网上卖 6,480 元，结果真有人下单买了！毒贩都没玩家厉害！」这真就是满嘴谎言连篇、胡说八道、颠倒黑白、张口就来啊！</p>
+<p>几年前的「偷盘子」节奏，早就被辟谣证实，完全就是自导自演的闹剧，来栽赃陷害《原神》玩家。根本就没有玩家去偷什么盘子。</p>
+<p>光是配图上的黄色盘子，就跟联动的红蓝盘子完全不一样。谣言早就不攻自破了。</p>
+<p>结果都没想到，都 2025 年了，居然有这种营销号跑出来，直接现编鬼话造谣。收了黑钱，就可以如此肆无忌惮吗？</p>
+<h2>「排队」</h2>
+<p>还有什么所谓「必胜客门口排队」，就说是《原神》玩家「丧尸围城」的营销号。但凡早期参加、了解过的玩家都知道，当时的联动，品牌方的经验是严重不足的，是完全低估《原神》玩家的庞大数量，与参与线下活动的热情，所以导致门店少、备货不足。玩家等待都是家常便饭。</p>
+<p>但这明显是主办方对于活动误判造成的影响，责任是在他们身上，而并不是玩家有错！玩家可以说是最无辜的，谁也不想再外面大排长龙，都想着能快点吃完联动套餐，打完卡，拿好周边回家。</p>
+<p>结果就被这营销号一顿侮辱性包装，说的好像是「《原神》玩家故意围攻门店，全成『丧尸围城』」一样。这种言论真的就是恶心到家了。</p>
+<p><strong>任何一个东西火了，都会有大排长龙的情况</strong>。合着就《原神》玩家成丧尸了？BBC 真的很需要这样的人才，如此极致双标。</p>
+<h2>「喜茶联动」</h2>
+<p>然后就是所谓的「原神×喜茶」联动，要喝 8 杯奶茶才能送亚克力板。这完全就是在断章取义、避重就轻。</p>
+<p>当时的活动规则其实就写得很清楚，是「<strong>只需要购买含两倍饮料的双人限定套餐，就可以赠送包含白哦情报立牌的一系列礼物</strong>」。这个立牌是四选一的，如果要集齐全部的话，就需要购买四次。</p>
+<p>结果这营销号直接胡言乱语，变成了「要买 8 杯才能送立牌」，意思就完全变了。真的是脸都不要了！为了造谣收黑钱，已经是没有「底线」二字了。</p>
+<p>而还有，就是拿「一些玩家跪拜原石」等一些无法证明真实性的极端案例，来造谣《原神》玩家搞「邪教」的事情。</p>
+<p>虽然说，我对于给原石下跪的整活行为并不认同，可能有些是比较过头了；但拿着某些极端的案例，就来以偏概全，开地图炮，从而歧视、侮辱、造谣全部玩家群体。简直就是无耻至极！</p>
+<p>更何况，这种极端的事情，在其他的 IP 作品也有非常多。结果到了《原神》这里，又开始了双标。</p>
+<blockquote>
+<p>例如，早年部分 LoveLiver 在地铁站跪拜痛贴；部分 A-SOUL 观众跪拜向晚（虚拟主播）立绘，说成跪拜《原神》里的刻晴。</p>
+</blockquote>
+<h2>最后想说的话</h2>
+<p>我知道，自从《原神》诞生之初，互联网对于《原神》，以及《原神》玩家的恶意与攻击，就没停过。<strong>但这并不代表这种风气就是正常的！</strong></p>
+<p><strong>作为玩家，凭什么就要被造谣、欺负、扣帽子，被某些营销号给随意践踏？</strong></p>
+<p>虽然说我自己已经退居这个节奏圈有很长时间，但不代表我不再关注这些。<strong>舆论的阵地，就是要掌握在自己手中。</strong></p>
+<p><strong>说自己喜欢玩《原神》，爱玩《原神》，没有任何错，不应该受到任何的侮辱与歧视。</strong></p>
+<p>最后，也希望大家出门看到地上的垃圾，与其选择无视，倒不如主动把它们扫出门去吧！</p>
+<h2>外部链接</h2>
+<ul>
+<li>原视频 <a href="https://www.bilibili.com/video/BV1jbMqzqEvA" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1jbMqzqEvA</a></li>
+<li>GitHub Releases <a href="https://github.com/bxx-114514/genshinimpact-and-media/releases/tag/Videos2" target="_blank" rel="noopener noreferrer">https://github.com/bxx-114514/genshinimpact-and-media/releases/tag/Videos2</a></li>
+<li>网盘备份 <a href="https://1drv.ms/f/c/ec6393f81c569b98/EgdgLZIW47tEphYjIR1--vEBCivdKNYAp5hd6Eq12r3ItA?e=siOy5E" target="_blank" rel="noopener noreferrer">https://1drv.ms/f/c/ec6393f81c569b98/EgdgLZIW47tEphYjIR1--vEBCivdKNYAp5hd6Eq12r3ItA?e=siOy5E</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>切一个外网的瓜</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/250621.html</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/250621.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">切一个外网的瓜</source>
+      <description>注 bilibili @想要摸鱼的眼镜妹妹 感觉这件事可以跟大家聊一会儿。 事情起因是一个叫「Roshi」的黑人说唱歌手盗用原神的 BGM「Slight Distress」（风龙废墟地区）作为采样，而这个歌手是环球音乐旗下的。 于是环球音乐用这部抄袭作品大开版权炮，在 YouTube 上把所有包含原神这段 BGM 的视频全都举报下架了，其中包括所有丝柯...</description>
+      <category>《原神》和媒体</category>
+      <category>留档</category>
+      <pubDate>Sat, 21 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>bilibili <a href="https://space.bilibili.com/3537113427478927" target="_blank" rel="noopener noreferrer">@想要摸鱼的眼镜妹妹</a></p>
+</div>
+<p>感觉这件事可以跟大家聊一会儿。</p>
+<p>事情起因是一个叫「Roshi」的黑人说唱歌手盗用原神的 BGM「Slight Distress」（风龙废墟地区）作为采样，而这个歌手是环球音乐旗下的。<br>
+于是环球音乐用这部抄袭作品大开版权炮，在 YouTube 上把所有包含原神这段 BGM 的视频全都举报下架了，其中包括所有丝柯克传说任务的实况视频，以及陈致逸的官方账号。只不过最逆天的地方不是盗用，而是盗用完反手举报陈致逸侵权它。</p>
+<p>有外网网友指出，国内的企鹅拥有环球音乐 20% 的股份。<br>
+与此同时，还有一个情况国内社区没有提到，那就是企鹅还主张了芙宁娜主题曲《轻涟》的版权，在 YouTube 发动版权炮，举报下架他人视频。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/1.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/2.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/3.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/4.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/5.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/6.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/7.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/8.webp" alt="" loading="lazy"></p>
+<h1>外部链接</h1>
+<ul>
+<li>原文 <a href="https://www.bilibili.com/opus/1080754683127005186" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1080754683127005186</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250621062131/https://www.bilibili.com/opus/1080754683127005186" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250621062131/https://www.bilibili.com/opus/1080754683127005186</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/1080754683127005186/1.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>记录串子：互联网豆蒸，真的至于这样吗？</title>
+      <link>https://bxx-114514.github.io/posts/genshinimpact-media/250903.html</link>
+      <guid>https://bxx-114514.github.io/posts/genshinimpact-media/250903.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">记录串子：互联网豆蒸，真的至于这样吗？</source>
+      <description>注 by 小红书 @纯美忆者 这件事当事人是 mihoyo 吧黄牌 @JB之神44，它在小红书上取名「和达达利亚约会」，多次发帖反串米 U 试图招黑。其小红书上多个帖子与贴吧所用截图一致，手机界面也是一模一样。 说实话，来反串招黑这种事，大家见的也不少了。但是此君在今天这个特殊的日子，为了在网络上对米游玩家发动攻击，发表了一个触及底线的言论。 互联网社...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 小红书 @<a href="https://www.xiaohongshu.com/user/profile/63db0043000000002702b6bc" target="_blank" rel="noopener noreferrer">纯美忆者</a></p>
+</div>
+<p>这件事当事人是 mihoyo 吧黄牌 @JB之神44，它在小红书上取名「和达达利亚约会」，多次发帖反串米 U 试图招黑。其小红书上多个帖子与贴吧所用截图一致，手机界面也是一模一样。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/4.jpg" alt="" loading="lazy"></p>
+<p>说实话，来反串招黑这种事，大家见的也不少了。但是此君在今天这个特殊的日子，为了在网络上对米游玩家发动攻击，发表了一个触及底线的言论。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/5.jpg" alt="" loading="lazy"></p>
+<p>互联网社区豆蒸，<strong>真的不至于做到这种地步</strong>。在网上，我们可以有很多标签，但是<strong>最起码，我们得是中国人</strong>。</p>
+<h2>附</h2>
+<p>该用户同一账号反串行为被抓后，光速改名。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/6.jpg" alt="" loading="lazy"></p>
+<h2>参考资料</h2>
+<p>记录串子：互联网豆蒸，真的至于这样吗？ - 小红书. [小红书 @<a href="https://www.xiaohongshu.com/user/profile/63db0043000000002702b6bc" target="_blank" rel="noopener noreferrer">纯美忆者</a>]. <a href="https://www.xiaohongshu.com/explore/68b84ca1000000001c031229" target="_blank" rel="noopener noreferrer">https://www.xiaohongshu.com/explore/68b84ca1000000001c031229</a>. [2025-09-03].</p>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/xzlm-hyv/refs/heads/main/images/250903/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>AC</title>
+      <link>https://bxx-114514.github.io/posts/ibili-blog/</link>
+      <guid>https://bxx-114514.github.io/posts/ibili-blog/</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">AC</source>
+      <description>项目介绍 Project Introduction 记录批站的各种黑料。 Recording the evil of pilipili (bilibili). 你所热爱的，就是你的生活。 德波大饭店可能会倒闭，但绝不会变质。 所以说，糯米什么时候熟啊？ 阿姨我啊 最喜欢￥辣 最讨厌不交保护费的厂商辣 最讨厌交保护费的厂商被攻击辣 最喜欢吃不交保护费的厂...</description>
+      <category>AC</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<figure><img src="https://raw.githubusercontent.com/bxx-114514/evil-of-bilibili/refs/heads/main/Images/head.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h1>项目介绍 Project Introduction</h1>
+<p>记录批站的各种黑料。<br>
+Recording the evil of pilipili (bilibili).</p>
+<h2>你所热爱的，就是你的生活。</h2>
+<ul>
+<li>德波大饭店可能会倒闭，但绝不会变质。</li>
+<li>所以说，糯米什么时候熟啊？</li>
+</ul>
+<h2>阿姨我啊</h2>
+<ul>
+<li>最喜欢￥辣</li>
+<li>最讨厌不交保护费的厂商辣</li>
+<li>最讨厌交保护费的厂商被攻击辣</li>
+<li>最喜欢吃不交保护费的厂商黑流量辣</li>
+</ul>
+<h2>「蒙古上单」精神</h2>
+<p>陈睿 LV6<br>
+你所热爱的，就是你的生活。<br>
+　蒙古上单 LV5　你　妈什么时候死啊？</p>
+<h1>B 站可能会倒闭，但绝不会变质。</h1>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/evil-of-bilibili/refs/heads/main/Images/head.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>没人觉得👻就是赛博黑社会吗🤨</title>
+      <link>https://bxx-114514.github.io/posts/igui/250608-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/igui/250608-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">没人觉得👻就是赛博黑社会吗🤨</source>
+      <description>百度贴吧 @只因鸡胎霉 喜欢拿钱招兵买马，时不时给小弟一点甜头，培养了一批死忠鬼童丸，出节奏了这帮人第一个冲上前线。嘴上讲着抵制网暴，实际上自己孝子网暴别人是一点不提，双标的一批。 喜欢拉帮结派，搞小团体，天天在线下和主播聚会，到时候出事了这些都是👻的打手。 喜欢搞事情带节奏，众所周知，👻的大手伸向哪里，哪里就全是节奏。 背景势力庞大，甚至有保护伞...</description>
+      <category>鬼童丸</category>
+      <category>留档</category>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>百度贴吧 <a href="https://tieba.baidu.com/home/main?id=tb.1.bf656620.SHHi3Z0m8STS5pVFLcD_zQ?t=1712235643&amp;fr=pb" target="_blank" rel="noopener noreferrer">@只因鸡胎霉</a></p>
+</blockquote>
+<ol>
+<li>喜欢拿钱招兵买马，时不时给小弟一点甜头，培养了一批死忠鬼童丸，出节奏了这帮人第一个冲上前线。嘴上讲着抵制网暴，实际上自己孝子网暴别人是一点不提，双标的一批。</li>
+<li>喜欢拉帮结派，搞小团体，天天在线下和主播聚会，到时候出事了这些都是👻的打手。</li>
+<li>喜欢搞事情带节奏，众所周知，👻的大手伸向哪里，哪里就全是节奏。</li>
+<li>背景势力庞大，甚至有保护伞的存在，不可言说。总之，黑贼团成立了。</li>
+<li>可能涉及一些网络黑产相关，也是不可言说，能看的出来。</li>
+<li>明着眼瞧不起那些身份地位没他高的人，很喜欢爆典（无关）。</li>
+<li>众所周知，搞建筑的家产亿万的人不可能没干过脏事😅就看有没有大手子给👻整点大活了。</li>
+</ol>
+<h1>外部链接</h1>
+<ul>
+<li>百度贴吧 <a href="https://tieba.baidu.com/p/9776644124" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9776644124</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>林鸽不是鸽 的动态</title>
+      <link>https://bxx-114514.github.io/posts/igui/250608.html</link>
+      <guid>https://bxx-114514.github.io/posts/igui/250608.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">林鸽不是鸽 的动态</source>
+      <description>注 by bilibili @林鸽不是鸽 鬼叔黍不是第一个，也绝不会是最后一个，永远记住你们这些年对米哈游及其玩家群体无底线的侮辱和霸凌。 如果你们记不住，我会替你们记住，因为我就是从你们之中走出来的。 外部链接 原文 https://www.bilibili.com/opus/1075954674959384582 快照备份 https://web....</description>
+      <category>鬼童丸</category>
+      <category>留档</category>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/3546597658987119" target="_blank" rel="noopener noreferrer">@林鸽不是鸽</a></p>
+</div>
+<p>鬼叔黍不是第一个，也绝不会是最后一个，永远记住你们这些年对米哈游及其玩家群体无底线的侮辱和霸凌。</p>
+<p>如果你们记不住，我会替你们记住，因为我就是从你们之中走出来的。</p>
+<h1>外部链接</h1>
+<ul>
+<li>原文 <a href="https://www.bilibili.com/opus/1075954674959384582" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1075954674959384582</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250608111130/https://www.bilibili.com/opus/1075954674959384582" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250608111130/https://www.bilibili.com/opus/1075954674959384582</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250103.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250103.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">鸣潮安可酱｜关于知名鸣潮某 up 主的一些历史记录</source>
+      <description>注 by bilibili @奥兹不想睡大街 首先让我们回到 21 年那个群魔乱舞的时期，在那个时期出现了很多很诡异的节奏，但是最难绷的就是得了节奏金猴奖的「文化外送」，这是一个什么事件呢，看下图： 该名用户认为，在各种优秀作品对外文化输出时候，如果一个文化是中国和日本都有的，那么这个时候中国文化应该做到给日本文化让步，比如在设计时，为了保证不作出文化...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/3546385718708728" target="_blank" rel="noopener noreferrer">@奥兹不想睡大街</a></p>
+</div>
+<p>首先让我们回到 21 年那个群魔乱舞的时期，在那个时期出现了很多很诡异的节奏，<strong>但是最难绷的就是得了节奏金猴奖的「文化外送」</strong>，这是一个什么事件呢，看下图：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>该名用户认为，在各种优秀作品对外文化输出时候，如果一个文化是中国和日本都有的，那么这个时候中国文化应该做到给日本文化让步，比如在设计时，为了保证不作出文化让路的行为，为了保证日本文化的独特性，在中国文化输出应该避开「风雅」「浮世」「天光」等词，意思是这些词本来是中国的，我们文化输出时不能加点自己的东西，而要把日本文化完完整整的去输出给其他国家。</p>
+<p>那么这到底是在输出中国文化，还是帮日本输出文化呢？<strong>我们一直以来都是用中国的文化去讲世界的故事，把价值观真正的输出出去</strong>，这才是真正的文化输出。</p>
+<p>由于这种言论过于逆天，所以被评选为了年度猴奖，这名 up 主便是<strong>渡灵</strong>。</p>
+<p>之后由于不认错，甚至直球辱骂其他来劝的路人，便被封号了。</p>
+<p>但是即使是大号被封，依然用小号继续去辱骂对方，小号名为「大号渡灵被封了」，<strong>现已经改为现在的【安可酱】</strong>：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/2.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/3.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>同时，其认为原神在设计稻妻时用了很多类似辐射污染的元素，这是用稻妻核废水的问题在洗白稻妻，进而影射现实，但是现在却看到这个时候<strong>他自己本人却似乎去了日本上学或者工作，也有可能已经住在了日本</strong>：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/4.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>时间线来到了鸣潮开服前，由于<strong>渡灵</strong>大号已经注销了，其正式用小号并且改名为<strong>再探再报安可酱</strong>，活跃在各大评论区，似乎认为没有人会找到自己的过去，并且四处锐评，比如评判《黑神话：悟空》的配乐等等：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/5.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>同时<strong>化身崩坏 3 玩家、崩铁玩家开始拉踩原神，试图煽动米社区各游戏之间的和谐，到处自称「正常玩家」给路人「科普」</strong>，行为及其搞笑滑稽：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/6.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>到了鸣潮开服，开始学习米社区资讯的 up 主【<a href="https://www.xiaohongshu.com/user/profile/620d3b24000000001000775a" target="_blank" rel="noopener noreferrer">依和p</a>】做起来库洛本来就根本没有什么活的库洛社区资讯。</p>
+<p>然而有一个很幽默的事情，<strong>在鸣潮 1.1 版本左右提前泄露了鸣潮下一个版本的 bgm 的内鬼视频，而且还被参与库洛制作的人员转发了，并且半夜热度都诡异的 1,000+ 的同步播放</strong>，让人不得不对于其现在的真正的成分遐想：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/7.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>然而在 25 年 1 月 2 号，鸣潮花了不亚于开服的宣发来宣传 2.0 版本结构流水非常的惨淡，甚至开了很多礼包和新的皮肤都挽救不了，<strong>这个时候安可酱突然发布了大量诸如「外网原神玩家玩鸣潮，觉得鸣潮比原神好多了」的相关内容的视频，可是在外网鸣潮的热度还不如开池开了很久的绝区零。</strong></p>
+<p>同时安可酱彻底不装了，<strong>声称自己个人隐私被侵犯，并且发布了一张米哈游和网信办相关的保护个人信息的图，矛头直指米社区</strong>。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/8.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/9.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>但是一切已经完了，有很多米社区的玩家发现自己很久很久之前就关注了他，一查发现原来就是之前的<strong>渡灵</strong>，真相便渐渐浮出水面。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/10.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/11.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/12.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/13.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/14.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/15.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/16.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/17.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/18.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/19.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/20.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2><a class="header-anchor" href="#小艾咪绽放光芒-分享图片"><span></span></a><a href="https://space.bilibili.com/617312457" target="_blank" rel="noopener noreferrer">@小艾咪绽放光芒</a> - 分享图片</h2>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/21.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h1>外部链接</h1>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1018208927692619778" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1018208927692619778</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250105220825/https://www.bilibili.com/opus/1018208927692619778" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250105220825/https://www.bilibili.com/opus/1018208927692619778</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1018208927692619778/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>「今天只有韩国人可以入场」？国产游戏《鸣潮》道歉</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250407.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250407.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">「今天只有韩国人可以入场」？国产游戏《鸣潮》道歉</source>
+      <description>注 by 中国青年网 4 月 4 日，有网友在社交平台发布图片称，游戏《鸣潮》在韩国举行联动活动时，摆出了一面写着「请谅解。今天只有韩国人可以入场」的指示牌，文字有中文和英文，中文处于指示牌中央，额外瞩目。 这件事曝光后，引发了许多网友的不满，「虽然多种语言写了，但是特意拿大号字体的中文放中间，很难不认为是故意针对啊」「其实就是中国人不得入内」「周边搞...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 中国青年网</p>
+</div>
+<p>4 月 4 日，有网友在社交平台发布图片称，游戏《鸣潮》在韩国举行联动活动时，摆出了一面写着「请谅解。今天只有韩国人可以入场」的指示牌，文字有中文和英文，中文处于指示牌中央，额外瞩目。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>这件事曝光后，引发了许多网友的不满，「虽然多种语言写了，但是特意拿大号字体的中文放中间，很难不认为是故意针对啊」「其实就是中国人不得入内」「周边搞区别对待就算了，还挂个这样的牌子出来」</p>
+<p>当天下午，鸣潮官号在社交平台发布道歉声明，称「本次活动是与韩国三星商店进行合作的联动内容，部分区域由三星商店负责管理并进行活动运营，合作方在未经我们官方知悉、审核确认的情况下，在现场设置了带有错误引导内容的指示牌。虽然初衷是为了提升现场大家的体验，但是该指示内容严重不当，导致大家产生误解并感到不适，我们已与合作方提出严正交涉，同时对此带来的误解深感歉意。」</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/2.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>但网友们似乎并不买账</strong>，这条道歉声明下方有网友留言，「你游已经出了多少国外限定的游戏周边了，一个中国游戏出的周边优先给外国人，中国人想吃一口还要低人一等求爷爷告奶奶的」「这在韩国用中文标出来只允许韩国人进，纯纯歧视。」</p>
+<p>据 Sensor Tower 官网 2024 年 10 月的《2024 年韩国手游市场洞察》一文，中国手游《鸣潮》在 2024 年 1~10 月韩国市场新游收入榜上高居第 6 位。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/3.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/4.webp" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/5.webp" alt="" loading="lazy"></p>
+<p>公开资料显示，《鸣潮》是由广州库洛科技有限公司开发的开放世界动作游戏，于 2024 年 5 月 23 日开启公测。<strong>在 2023 年，库洛科技曾因抄袭米哈游公司的用户协议，甚至在协议中还出现了「米哈」字样而公开致歉。</strong></p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/6.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://mp.weixin.qq.com/s/PhN-1JEw_UsZVPI60zSuhw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/PhN-1JEw_UsZVPI60zSuhw</a></li>
+<li>快照 <a href="https://web.archive.org/web/20250407085153/https://mp.weixin.qq.com/s/PhN-1JEw_UsZVPI60zSuhw" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250407085153/https://mp.weixin.qq.com/s/PhN-1JEw_UsZVPI60zSuhw</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>流光忆庭：阿尔托莉雅百度词条修改事件始末梳理</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250506.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250506.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">流光忆庭：阿尔托莉雅百度词条修改事件始末梳理</source>
+      <description>注 bilibili @纯美忆者 最开始，有人疑似修改了 Saber 的百度百科，如图（这个并非第一版，是第二版）： 经查询，今天上午总共有下列 ID 编辑了百度百科词条，框起来的三位是跟这次事件相关的： 这是他们的词条编辑情况： 「浴血飞鹏」 「执笔与秋意」 「极冰熊不可爱」。这位是被冤枉的，他是修正词条的人。 这件事发生后，有人开始在贴吧和抖音说米...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 06 May 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>bilibili <a href="https://space.bilibili.com/3546660716153442" target="_blank" rel="noopener noreferrer">@纯美忆者</a></p>
+</div>
+<p>最开始，有人疑似修改了 Saber 的百度百科，如图（这个并非第一版，是第二版）：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>经查询，<strong>今天上午总共有下列 ID 编辑了百度百科词条，框起来的三位是跟这次事件相关的</strong>：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/2.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>这是他们的词条编辑情况：</p>
+<ol>
+<li>「浴血飞鹏」</li>
+</ol>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/3.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="2">
+<li>「执笔与秋意」</li>
+</ol>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/4.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<ol start="3">
+<li>「极冰熊不可爱」。这位是被冤枉的，他是修正词条的人。</li>
+</ol>
+<p>这件事发生后，有人开始在贴吧和抖音说米学长恶意修改 Saber 百科词条了。但你们再仔细看一下，<strong>前两位编辑过后，他们对崩铁的称呼竟然都是「崩坏星穹轨道」???</strong> 崩铁的全称叫「崩坏：星穹铁道」，<strong>米 u 平常都是「崩铁」「星铁」地喊，「铁」字最起码是不能少的吧？那这词条是什么人编辑的呢？</strong></p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/5.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>诶，这个时候我们再稍微注意一下这俩人的编辑时间，和这段时间他们的活动，把前面两个人的行为串起来仔细看：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/6.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>发现了没有？<strong>ID「浴血飞鹏」在 09:48 编辑完词条后，ID「执笔写秋意」在 09:52 这个时间点，到猴吧去挂人</strong>。这时间差，怎么就这么接近呢？就刚刚好，<strong>前者刚编辑完，然后后者就打开了百度百科看到了这个词条</strong>？</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/7.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>更加幽默的是，在 10:38 的时候，ID「执笔写秋意」把 ID「浴血飞鹏」的第一次编辑中不通顺的那一段删掉了；但他并没有删除结尾那句，而是保留了这一段。所以后续大部分人看到的其实是 ID「执笔写秋意」编辑的第二版。<strong>「好心修改」这个说法根本行不通，我不信你眼瞎看不到另外两处，那么就是故意保留的了。故意保留的目的是什么？</strong></p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/8.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>让我们看看他们的洗脑包吧。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/9.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>唉？什么时候星穹铁道内鬼吧也成米白地盘了？玩贴吧的谁不清楚那里是辣仙殖民地？</strong></p>
+<p>最后放俩人成分。</p>
+<p>ID「浴血飞鹏」，<strong>根据忆庭的留档记录，绝对是关注过鸣潮系贴吧并且还发了帖的，还有部分猴吧以及镍币发言</strong>：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/10.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>ID「执笔写秋意」，懒得多说：</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/11.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>你说这不是团伙作案，大家信吗？</strong></p>
+<h2>外部链接</h2>
+<ul>
+<li>原文 <a href="https://www.bilibili.com/opus/1063794954627711001" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1063794954627711001</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250506151914/https://www.bilibili.com/opus/1063794954627711001" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250506151914/https://www.bilibili.com/opus/1063794954627711001</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1063794954627711001/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>「逐火之旅」是什么？</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250608-1.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250608-1.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">「逐火之旅」是什么？</source>
+      <description>注 by bilibili @小艾咪绽放光芒 「逐火之旅」主要来自于崩坏系列 IP 剧情中的组织「逐火之蛾」。 而「逐火之旅」一词，最早出自米哈游的《崩坏：星穹铁道》。其被描述为，一个通过集齐 12 枚火种，并焚烧以重启世界的宏大叙事，并且有一句经典的台词「逐火式不断失却的旅途」。 来自 DeepSeek 回答 「逐火之旅」一词的构成与米哈游崩坏 IP...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/617312457" target="_blank" rel="noopener noreferrer">@小艾咪绽放光芒</a></p>
+</div>
+<p>「逐火之旅」主要来自于崩坏系列 IP 剧情中的组织「逐火之蛾」。</p>
+<p>而「逐火之旅」一词，最早出自米哈游的《崩坏：星穹铁道》。其被描述为，一个通过集齐 12 枚火种，并焚烧以重启世界的宏大叙事，并且有一句经典的台词「逐火式不断失却的旅途」。</p>
+<blockquote>
+<p><strong>来自 DeepSeek 回答</strong></p>
+</blockquote>
+<blockquote>
+<p>「逐火之旅」一词的构成与米哈游崩坏 IP 前作中的「逐火之蛾」（The Moth Who Chases the Flames）高度相似：</p>
+<ul>
+<li>《崩坏 3》（2016 年上线）：逐火之蛾是上世代文明对抗崩坏的核心军事组织，由融合战士组成，其标志性口号「飞蛾逐火，抗争至死」体现了牺牲与抗争的主题。</li>
+<li>《崩坏学园 2》（2014 年上线）：零纪元剧情中已有「逐火之蛾」组织，由凯文领导反抗人合联统治。<br>
+尽管「逐火之蛾」一词更早存在，但「逐火之旅」作为独立名词的首次公开使用仍属于《崩坏：星穹铁道》2025 年的 3.1 版本。</li>
+</ul>
+</blockquote>
+<blockquote>
+<p>在《崩坏：星穹铁道》中的首次亮相（2025 年初）</p>
+<ul>
+<li>3.1 版本「门扉之启，王座之终」（2025 年 2 月 26 日上线）：该版本首次明确将「逐火之旅」作为核心剧情概念提出。玩家在此版本中担任使者，前往新地图「神悟树庭」，目标是收集泰坦火种以重启世界，并提及该计划与对抗黑潮、黄金裔等势力的关联。</li>
+<li>3.2 版本「走过安眠地的花丛」（2025 年 4 月 9 日上线）：进一步深化「逐火之旅」主线，引入生死考验与政治阴谋，新增角色遐蝶、那刻夏，并揭露火种收集过程中的复杂冲突。</li>
+<li>3.3 版本「在黎明升起时坠落」（2025 年 4 月 27 日更新）：作为逐火之旅的终章，玩家与最终敌人天空泰坦艾格勒决战，完成十二火种的收集目标。</li>
+</ul>
+</blockquote>
+<p>而最近，由于铁道的剧情正到高潮时期，于是有很多人自发去搜「逐火之旅」这个自家社区强绑定的剧情词条。</p>
+<p>结果发现，出现了很多污染词条，与词条毫无关系的内容。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250608/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250608/1.jpg" alt="" loading="lazy"></p>
+<p>比如经典的「赢一半」，用模因的方式，试图把「逐火之旅」绑定给古早的雪豹专属剧情 boss「摩托车怪物」。</p>
+<p>甚至直播也是直接挂「逐火之旅」这个词条，导致整个版面全是「赢一半」。</p>
+<p>【图片】</p>
+<p>玩家表示，已经明白了藤壶对于鲸鱼来说，有着属于自己的强大实力。</p>
+<p>而且，词条污染事件早已不是第一次，早在知名古神的「奥奇坎金曲」火热之时，便出现了「奥奇坎金曲赢一半」的词条。</p>
+<p>【图片】</p>
+<p>不得不感慨，这种词条争夺的方式，已经影响到了很多平时不参与社区的普通玩家。于是有玩家用铁道的经典台词评论道「逐火是不断失却的旅途」。</p>
+<p>甚至还有「赢一半嗯」的词条。一时间，给社区带来了极大的乐子，于是很快在官方评论区下散播了开来。</p>
+<h2>外部链接</h2>
+<ul>
+<li>原视频 <a href="https://www.bilibili.com/video/BV1pATpzNEph" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1pATpzNEph</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250608/2.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>词条「逐火之旅」被鸣系 UP 污染事件</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250608-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250608-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">词条「逐火之旅」被鸣系 UP 污染事件</source>
+      <description>暑假在即，新一轮类 4.8 节奏矩阵即将到来。 目前「逐火之旅」词条已被严重污染，不排除大明打算蹭星铁宣发的可能，还望大家做好防范。 米默认为「『逐火之旅』这个词凭啥属于米系？」 百度贴吧 @暗影达达鸭 首先这个词是不是米家原创的不是关键。 关键是「逐火」这个词，不只是「挑战难以想象的困难」，更意味着「面临生命危险」。 飞蛾扑火，最终也是会似的。 人家...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>暑假在即，新一轮类 4.8 节奏矩阵即将到来。</p>
+<p>目前「逐火之旅」词条已被严重污染，不排除大明打算蹭星铁宣发的可能，还望大家做好防范。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250608/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250608/2.jpg" alt="" loading="lazy"></p>
+<h2>米默认为「『逐火之旅』这个词凭啥属于米系？」</h2>
+<blockquote>
+<p>百度贴吧 <a href="https://tieba.baidu.com/home/main?id=tb.1.cc026624.JEbYIcPVMQaWWRrV9TVlrg?t=1725647715&amp;fr=pb" target="_blank" rel="noopener noreferrer">@暗影达达鸭</a></p>
+</blockquote>
+<p>首先这个词是不是米家原创的不是关键。</p>
+<p>关键是「逐火」这个词，不只是「挑战难以想象的困难」，更意味着「面临生命危险」。</p>
+<p>飞蛾扑火，最终也是会似的。</p>
+<p>人家消防员，确实是字面意义上的「逐火」，是面临着生命危险的。</p>
+<p>隔壁崩坏 IP 的「逐火」，也是面临着文明级别的危机，是为了全文明的存亡而去「逐火」。</p>
+<p>大👻和那群米黑也配的上「逐火」二字？他们逐的是哪门子的火？</p>
+<p>既然其所做行为完全不匹配「逐火」的表意和寓意，那么究竟在「逐火」什么？</p>
+<p>这本质上不是为了把某个词占为己有不许别人用，而是当米黑长期拉踩攻击米家的时候，米家社区自然不想和你沾边，你还非要凑上来沾边，明摆着蹭热度，为什么别人不能骂你？这和谁更早发明一个词有任何关系？</p>
+<p>「逐火之旅」这词儿确实谁都可以用，但对于👻÷这种东西和一口一个米孝子的低能米黑来说，不是恶心人是什么？</p>
+<p>还有让鬼叔黍这样的人物代表自己，这对米黑来说难道是什么好事吗？</p>
+<p>还是说只要能反米，只要能恶心我们这群所谓的米孝子，怎么样都行？</p>
+<h2>参考资料</h2>
+<ul>
+<li>百度贴吧 <a href="https://tieba.baidu.com/p/9763785442" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9763785442</a>
+<ul>
+<li>快照备份 <a href="https://web.archive.org/web/20250608124433/https://tieba.baidu.com/p/9763785442" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250608124433/https://tieba.baidu.com/p/9763785442</a></li>
+</ul>
+</li>
+<li>百度贴吧 <a href="https://tieba.baidu.com/p/9773023727" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9773023727</a>
+<ul>
+<li>快照备份 <a href="https://web.archive.org/web/20250608124920/https://tieba.baidu.com/p/9773023727" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250608124920/https://tieba.baidu.com/p/9773023727</a></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250608/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>事态可能比预想的更严峻，警惕针对米哈游相关词条的系统性污染（炸 tag）行为</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250609.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250609.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">事态可能比预想的更严峻，警惕针对米哈游相关词条的系统性污染（炸 tag）行为</source>
+      <description>注 by bilibili @朴博哲 近期，某大 UP 主硬蹭「逐火之旅」词条的行为，使得更多玩家注意到，【米哈游游戏专属词条（如量子之海、虚数之树、博识尊等），被鸣潮社区偷窃的现象】。具体为：近期在 AC 站，出现了大量标题雷同且包含米游词条、内容却是鸣潮的视频。表面看，这是鸣潮社区简单的「寄生」行为，但深入分析其特征，【其本质更符合「炸 Tag」的...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/3494355675384073" target="_blank" rel="noopener noreferrer">@朴博哲</a></p>
+</div>
+<p>近期，某大 UP 主硬蹭「逐火之旅」词条的行为，使得更多玩家注意到，【米哈游游戏专属词条（如量子之海、虚数之树、博识尊等），被鸣潮社区偷窃的现象】。具体为：近期在 AC 站，出现了大量标题雷同且包含米游词条、内容却是鸣潮的视频。表面看，这是鸣潮社区简单的「寄生」行为，但深入分析其特征，【其本质更符合「炸 Tag」的模式，背后可能有更大的阴谋】。</p>
+<p>「炸 Tag」指在社交媒体平台，通过大量发布与特定标签（如 #×××）完全无关或低质的垃圾内容，意图污染该标签下的内容生态的行为。其核心特征包括：</p>
+<ol>
+<li>行为：高频次发布无关／低质内容。</li>
+<li>目标：锁定特定标签。</li>
+<li>目的：干扰正常讨论、淹没优质内容、恶意攻击或不当引流。</li>
+<li>结果：破坏标签的实用性与用户体验，使其失效。</li>
+</ol>
+<p>而大家如果去 AC 站搜索米游的词条（如量子之海、虚数之树、博识尊等等），会发现【搜索结果与上述「炸 Tag」行为高度匹配】。具体特征为：</p>
+<ol>
+<li>【账号水军特征显著】：</li>
+</ol>
+<ul>
+<li>发布相关视频的账号，普遍呈现高度可疑的水军特征，如昵称格式化（很多为汉字＋字母）、内容同质化。</li>
+<li>账号及投稿数量庞大，表明它们的行动具备组织化与规模化特性。</li>
+</ul>
+<ol start="2">
+<li>【行为起始时间明确】：</li>
+</ol>
+<ul>
+<li>此类账号的异常活动最早起始于 2025 年 2 月中旬。可以发现，按时间排序，以 2 月中旬为分界，AC 站内相关米游词条搜索结果呈现明显差异。虽然部分水军账号之前已经存在，但其投稿内容风格在 2 月中旬后发生转变，开始投稿问题视频。</li>
+</ul>
+<ol start="3">
+<li>投稿视频内容：</li>
+</ol>
+<ul>
+<li>这些账号投稿内容基本上都是【《原神》《崩坏：星穹铁道》《绝区零》及《鸣潮》四款游戏】。</li>
+</ul>
+<ol start="4">
+<li>污染模式：<br>
+① 标题高度雷同，缺乏原创性。<br>
+② 标题中大量嵌入米哈游游戏词条，且【绝大部分源自「崩坏」IP 及《崩坏：星穹铁道》】（《原神》与《绝区零》词条占比极低）。<br>
+③ 标题词条与视频内容严重脱节。<br>
+表现为：</li>
+</ol>
+<ul>
+<li>米游词条 + 对应米游内容（少量）</li>
+<li>米游词条 + 其他米游内容（少量）</li>
+<li><strong>【米游词条 + 鸣潮内容（占绝大多数）】</strong></li>
+</ul>
+<p>综合以上特征，<strong>这绝非简单的蹭、偷、抢</strong>。不妨描述为：【自 2025 年 2 月中旬起，大量疑似水军账号持续发布标题包含米哈游词条（尤以崩坏 IP 与崩铁为主）、内容混乱且大量关联鸣潮的无意义视频。这是一场有组织、有预谋、旨在系统性污染特定米哈游游戏词条的行动】。</p>
+<p>某知名 UP 主的行为与这些水军账号的活动，表面是为鸣潮偷窃和抢劫，实则更深刻地揭示了【「崩坏」IP 及《崩坏：星穹铁道》核心词条正遭受针对性污染的严峻现实】。虽然我无从判断其背后动机，和隐藏更深的阴谋诡计，但此类「炸 Tag」行为对社区内容生态的破坏性毋庸置疑。</p>
+<p><strong>当前情况亟需重视！请米游社区的大家保持警惕，积极甄别异常内容，并希望米哈游官方能够关注此问题。事态仍在发展，绝非孤立事件。</strong></p>
+<p>👻👻当然，也得感谢某大 up 纸里包不住火，才能让这些问题暴露出来。👻👻</p>
+<h2>外部链接</h2>
+<ul>
+<li>原文 <a href="https://www.bilibili.com/opus/1076257549577093129" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1076257549577093129</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>对话藤壶玩家，请不要让神人 KOL 辈出了</title>
+      <link>https://bxx-114514.github.io/posts/iming/big/250612.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/big/250612.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">对话藤壶玩家，请不要让神人 KOL 辈出了</source>
+      <description>注 by bilibili @折叠土豆法务部 最近藤壶又推出了一个新 KOL，是外网的一个叫做 Nicholas Light 的 X (Twitter) 博主。 其在主页分享游戏、体育等多方面的内容，可以看到之前也是原神、星铁的玩家，但是一直在游戏区没有很高的知名度。 在 5~6 月左右开始大量发表 wuwa 的帖子，此前他没有任何原神的帖子，并且还计...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/3546385718708728" target="_blank" rel="noopener noreferrer">@折叠土豆法务部</a></p>
+</div>
+<p>最近藤壶又推出了一个新 KOL，是外网的一个叫做 <a href="https://x.com/NicholasLightTV" target="_blank" rel="noopener noreferrer">Nicholas Light</a> 的 X (Twitter) 博主。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/1.jpg" alt="" loading="lazy"></p>
+<p>其在主页分享游戏、体育等多方面的内容，可以看到之前也是原神、星铁的玩家，但是一直在游戏区没有很高的知名度。<br>
+在 5~6 月左右开始大量发表 wuwa 的帖子，此前他没有任何原神的帖子，并且还计划对比星铁。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/3.png" alt="" loading="lazy"></p>
+<p>直播玩 wuwa，并且打着「原神老玩家，觉得 wuwa 比原神好玩」的经典旗号开始锐评。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/2.png" alt="" loading="lazy"></p>
+<p>之后被国内藤壶转发到国内视频平台上，当成 T 佬遭遇舆论压力暂时淡漠后面新进的 kol，给他赐名为「红温哥」。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/4.png" alt="" loading="lazy"></p>
+<p>当然，虽然传播度提高了，但是热度还是属于路边。</p>
+<p>随着事件的发展，有一些心细的玩家去看了其以往的帖子；不看不知道，一看吓一跳。其在 25 年 4 月 21 日发了一个帖子：<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/5.png" alt="" loading="lazy"></p>
+<p>图片是将约翰 · 塞纳的五官嫁接给了伟人，并且配文是向冠军致敬。</p>
+<p>那么，有人会问，约翰 · 塞纳是谁呢？<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/6.png" alt="" loading="lazy"></p>
+<p>这个约翰 · 塞纳是国外的一个知名摔跤运动员。其在 21 年公开表示自己是「胎毒」，并且即使被指责，面临封杀，也一直不收回自己的发言。其便是如此之人，而这个红温哥发了这样一个图片，是什么目的？如果还是正常藤壶都能看出，并且此前其也与 T 佬有高强度的互动。<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/7.png" alt="" loading="lazy"></p>
+<p>此前，藤壶推出的 KOL，从王老吉，到 T 佬，再到红温哥，都给自己带来了极大的流量。但是每一个都经不起细看，每一个都是真正的神，藤壶至少吧，还要良心吧？<br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/e7.jpg" alt="" loading="lazy"></p>
+<p>如果仅仅需要精神上的满足，完全可以用正常的方式，用正确的方式，而不是在这种问题上一错再错！</p>
+<h2>外部链接</h2>
+<ul>
+<li>原文 <a href="https://www.bilibili.com/opus/1077248385661009929" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1077248385661009929</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250612093015/https://www.bilibili.com/opus/1077248385661009929" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250612093015/https://www.bilibili.com/opus/1077248385661009929</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250612/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>猴吧核武器演都不演了</title>
+      <link>https://bxx-114514.github.io/posts/iming/private/250623.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/private/250623.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">猴吧核武器演都不演了</source>
+      <description>陈中医才被封几小时，猴吧直接喊人家真名了！我们潮虫真是太纯良了。</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>陈中医才被封几小时，猴吧直接喊人家真名了！我们潮虫真是太纯良了。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250723/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250723/2.jpg" alt="" loading="lazy"></p>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250723/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>请停止违法行为</title>
+      <link>https://bxx-114514.github.io/posts/iming/private/250907.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/private/250907.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">请停止违法行为</source>
+      <description>bilibili @仙药煎饺桑 侵犯公民个人信息罪（《刑法》第二百五十三条之一）‌。 组织或参与人肉搜索，非法获取、出售或提供公民个人信息，情节严重的，构成此罪。根据司法解释，「情节严重」包括信息类型（如行踪轨迹、通信内容等敏感信息）、数量（如一般信息 5,000 条以上）或违法所得数额（5,000 元以上）等标准。 参考资料 仙药煎饺桑的动态 - 哔...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>bilibili <a href="https://space.bilibili.com/355498282" target="_blank" rel="noopener noreferrer">@仙药煎饺桑</a></p>
+</blockquote>
+<p><strong>侵犯公民个人信息罪</strong>（《刑法》第二百五十三条之一）‌。</p>
+<blockquote>
+<p>组织或参与人肉搜索，非法获取、出售或提供公民个人信息，情节严重的，构成此罪。根据司法解释，<strong>「情节严重」包括信息类型（如行踪轨迹、通信内容等敏感信息）、数量（如一般信息 5,000 条以上）或违法所得数额（5,000 元以上）等标准。</strong></p>
+</blockquote>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/2.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/3.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/4.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/5.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/6.jpg" alt="" loading="lazy"></p>
+<h1>参考资料</h1>
+<ul>
+<li>仙药煎饺桑的动态 - 哔哩哔哩. [bilibili @<a href="https://space.bilibili.com/355498282" target="_blank" rel="noopener noreferrer">仙药煎饺桑</a>]. <a href="https://www.bilibili.com/opus/1109743541308882967" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1109743541308882967</a>. (<a href="https://web.archive.org/web/20250907061802/https://www.bilibili.com/opus/1109743541308882967" target="_blank" rel="noopener noreferrer">快照备份</a>)</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/20250907/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>尘白深陷偷皮肤风波？自导自演还是确有其事？</title>
+      <link>https://bxx-114514.github.io/posts/iming/stolen/250610.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/stolen/250610.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">尘白深陷偷皮肤风波？自导自演还是确有其事？</source>
+      <description>bilibili @巫马钦天 本来是不打算做这期视频的，既耗时又耗力；但是考虑到一些人信口雌黄、颠倒是非，更有甚者造谣式辟谣，罔顾事实，就只好做了。 要我说「麻辣仙人」还是太温和了，太实事求是了，太不会撒泼打滚了，太不会搞双重标准了。 别人盗皮肤就贴脸团建，自家盗皮肤就装傻充愣，甚至倒打一耙。给他解释，他便说是「白蚁」自导自演。 鉴于以上原因，UP 耗...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>bilibili <a href="https://space.bilibili.com/11613035" target="_blank" rel="noopener noreferrer">@巫马钦天</a></p>
+</blockquote>
+<p>本来是不打算做这期视频的，既耗时又耗力；但是考虑到一些人信口雌黄、颠倒是非，更有甚者造谣式辟谣，罔顾事实，就只好做了。</p>
+<p>要我说「麻辣仙人」还是太温和了，太实事求是了，太不会撒泼打滚了，太不会搞双重标准了。</p>
+<p>别人盗皮肤就贴脸团建，自家盗皮肤就装傻充愣，甚至倒打一耙。给他解释，他便说是「白蚁」自导自演。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_131653.485.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_131743.695.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_131847.780.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_131903.450.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_131925.616.jpg" alt="" loading="lazy"></p>
+<p>鉴于以上原因，UP 耗时整理了三个较大 MOD 网站。不完全统计，<strong>除了《尘白禁区》皮肤被非法盗用外，《原神》《崩坏：星穹铁道》《崩坏 3》《女神异闻录》《深空之眼》《碧蓝档案》《依盖之书》，甚至是尚未公测的《终末地》（收费 MOD）等多款与其可形成竞争关系的二游，均有被非法盗用的皮肤或角色。</strong></p>
+<p>为防止被说 P 图，以下非法盗用皮肤的揭露<a href="#%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5">以视频形式展开</a>。</p>
+<p>根据《<a href="https://www.gov.cn/flfg/2010-02/26/content_1544458.htm" target="_blank" rel="noopener noreferrer">中华人民共和国著作权法</a>》</p>
+<ul>
+<li>第三条：游戏模型、角色设计、场景美术等类型，属于美术作品和视听作品，受著作权法保护。</li>
+<li>第十条：著作权人享有复制权、改编权、信息网络传播权等权利，未经许可使用，即可构成侵权。</li>
+<li>第五十二条：侵权人应承担停止侵害、赔偿损失等责任。</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_133807.282.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_133958.436.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_134220.373.jpg" alt="" loading="lazy"></p>
+<p>根据《<a href="http://xingfa.org/" target="_blank" rel="noopener noreferrer">中华人民共和国刑法</a>》</p>
+<ul>
+<li>以营利为目的，未经许可复制、发行他人作品，违法所得较大（≥ 5 万）或传播量巨大（≥ 25 万次），可处以 3 年以下有期徒刑，并处以罚金。</li>
+<li>若盗用模型导致玩家误认，MOD 与原游戏相关，可构成不正当竞争。即使 MOD 免费发布，但若影响原游戏市场（如分流玩家、降低原游戏销量），仍可构成犯罪。</li>
+</ul>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_134632.735.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p><strong>网络不是法外之地。希望其他被非法盗用游戏皮肤的非《尘白禁区》玩家，也积极留档，给自己游戏的官方提供证据，共同维护健康、有序的二游市场环境。</strong></p>
+<p>侵权证据已提供给狸花猫，<strong>著作者现在随时可以启动法律程序，以维护自己的正当权利。</strong></p>
+<p><strong>在此敦促侵权者严肃对待，立刻下架所有盗用的游戏皮肤，避免因侵权行为，承担不必要的法律责任。</strong></p>
+<h1>外部链接</h1>
+<ul>
+<li>原视频 <a href="https://www.bilibili.com/video/BV15iThzyEj9" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV15iThzyEj9</a></li>
+<li>云盘存档 <a href="https://1drv.ms/v/c/ec6393f81c569b98/EXLxtgPy07dDurD7AEaRCqgBTqfZZL71FcWCbXqouqSTZQ?e=QjdNZ5" target="_blank" rel="noopener noreferrer">https://1drv.ms/v/c/ec6393f81c569b98/EXLxtgPy07dDurD7AEaRCqgBTqfZZL71FcWCbXqouqSTZQ?e=QjdNZ5</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250610/20250610_131653.485.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>挖出来了一个大瓜</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/250817-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/250817-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">挖出来了一个大瓜</source>
+      <description>一个疑似库洛员工在 B 站上的号，多次发布反明日方舟言论。 说起最近，库压榨打工人，我还顺便发现了这些，以及反米记录。 成分查询。</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>一个疑似库洛员工在 B 站上的号，多次发布反明日方舟言论。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250702/1.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250702/2.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250702/3.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250702/4.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250702/5.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250702/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>库洛员工对蓝原哈气并拐米</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/250817.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/250817.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">库洛员工对蓝原哈气并拐米</source>
+      <description>真是什么样的公司，就有什么样的玩家、社区、员工啊。怪不得 kl 风评这么烂呢。 此员工的 B 站、闲鱼号，以及过往评论记录 此员工的工作岗位和内部红包晒图 员工言论被爆出后，管理员的破防记录 参考资料 女士Furina的动态 - 哔哩哔哩 [bilibili @女士Furina]. https://www.bilibili.com/opus/11015...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 17 Aug 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>真是<strong>什么样的公司，就有什么样的玩家、社区、员工</strong>啊。怪不得 kl <strong>风评这么烂</strong>呢。</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/01.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/02.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/03.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/04.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/05.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/06.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/07.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/08.jpg" alt="" loading="lazy"></p>
+<h2>此员工的 B 站、闲鱼号，以及过往评论记录</h2>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/09.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/12.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/13.jpg" alt="" loading="lazy"></p>
+<h2>此员工的工作岗位和内部红包晒图</h2>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/10.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/11.jpg" alt="" loading="lazy"></p>
+<h2>员工言论被爆出后，管理员的破防记录</h2>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/14.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/15.jpg" alt="" loading="lazy"></p>
+<h2>参考资料</h2>
+<ul>
+<li>
+<p>女士Furina的动态 - 哔哩哔哩 [bilibili @<a href="https://space.bilibili.com/3546713614714972" target="_blank" rel="noopener noreferrer">女士Furina</a>]. <a href="https://www.bilibili.com/opus/1101566181280579632" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1101566181280579632</a>. [2025-08-16]. (<a href="https://web.archive.org/web/20250816185000/https://www.bilibili.com/opus/1101566181280579632" target="_blank" rel="noopener noreferrer">存档</a>)</p>
+</li>
+<li>
+<p>【图片】记录，库洛员工对蓝原哈气并拐米【有二不玩吧】_百度贴吧. [百度贴吧 @<a href="https://tieba.baidu.com/home/main?id=tb.1.ef331e79.5OkJTEXhg62jSVyqwALsZg" target="_blank" rel="noopener noreferrer">萝莉赛高哒</a>]. <a href="https://tieba.baidu.com/p/9958739385" target="_blank" rel="noopener noreferrer">https://tieba.baidu.com/p/9958739385</a>. [2025-08-16]. (<a href="https://web.archive.org/web/20250816190403/https://tieba.baidu.com/p/9958739385" target="_blank" rel="noopener noreferrer">存档</a>)</p>
+</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/iming-blog/refs/heads/main/images/20250816/01.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>简略分析一下此次新鸣式相关</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-3.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-3.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">简略分析一下此次新鸣式相关</source>
+      <description>注 by bilibili @戏剧化愚者 一、「台湾玩家想要原画集，『4 月 26 号前能结束么？』」为什么上新闻？因为在这个特殊的敏感时间点，这能代表部分台湾普通人的声音——我们同样想要统一。这和 J 演太贴合了，所以报道出来理所应当。 二、为什么库洛已经道歉了，这事儿还是上了各大官媒新闻报道？同样原因——在敏感时间点撞了枪口，仔细看过通稿，就能品味...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>一、「台湾玩家想要原画集，『4 月 26 号前能结束么？』」为什么上新闻？<strong>因为在这个特殊的敏感时间点，这能代表部分台湾普通人的声音——我们同样想要统一</strong>。这和 J 演太贴合了，所以<strong>报道出来理所应当</strong>。</p>
+<p>二、为什么库洛已经道歉了，这事儿还是上了各大官媒新闻报道？同样原因——<strong>在敏感时间点撞了枪口</strong>，仔细看过通稿，就能品味出来：「中国游戏」是提及鸣潮的重点描述。至于怎么敏感法，怎么撞的枪口，自己品，说出来过不了审。</p>
+<p>无论是不是三星／KL 的问题，出现 RH 事件了，<strong>那除了道歉公告，好歹得有点实际行动吧</strong>？但有么？<strong>没有</strong>。这种关键窗口期毫无作为，<strong>KL 活该挨打！</strong></p>
+<p>三、为什么要加一个「米哈协议」？<br>
+这个就很好理解了，「<strong>你干的事儿（各种科韵路精神）上头都清楚，再这么搞没你好果子吃！</strong>」额外提一嘴，这是敲鸣震虎。</p>
+<p>四、为什么各大官媒的文章都一样？因为<strong>通稿就是这样的</strong>，不奇怪，<strong>平时有关注各大官媒的人不会问这种问题。</strong></p>
+<p>五、后续如何？那要看 KL 怎么选了，<strong>不带立场的话，建议库洛认怂，拿点实际行动表明态度</strong>。但我站米，所以我希望 KL 头铁到底【doge】【doge】对，就像图 2 一样【笑哭】</p>
+<p>六、刃 go 带原画集节奏以及 p 图造假星铁激励，在此次事件中处于什么位置？答：<strong>路边野 go</strong></p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053032552597553156/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053032552597553156/2.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1053032552597553156" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053032552597553156</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408083833/https://www.bilibili.com/opus/1053032552597553156" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408083833/https://www.bilibili.com/opus/1053032552597553156</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053032552597553156/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>如何评价鸣潮韩国联动活动？</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-6.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-6.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">如何评价鸣潮韩国联动活动？</source>
+      <description>注 by 知乎 @戈多 棒子有事情喜欢拐东大。 棒子体量比东大小。 棒子人口比东大少。 棒子老喜欢吹他麻辣泡菜比东大菜强。 棒子老喜欢偷东大东西，东西在东大的时候棒子就哈气，偷到了棒子就骄傲地说这是K-什么什么东西，好! 棒子的女明星脸都一个样。 外部链接 来源 https://www.zhihu.com/question/18914795519111...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 知乎 <a href="https://www.zhihu.com/people/ge-duo-57-3" target="_blank" rel="noopener noreferrer">@戈多</a></p>
+</div>
+<p>棒子有事情喜欢拐东大。</p>
+<p>棒子体量比东大小。</p>
+<p>棒子人口比东大少。</p>
+<p>棒子老喜欢吹他麻辣泡菜比东大菜强。</p>
+<p>棒子老喜欢偷东大东西，东西在东大的时候棒子就哈气，偷到了棒子就骄傲地说这是K-什么什么东西，好!</p>
+<p>棒子的女明星脸都一个样。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/Screenshots/Screenshot_2025-04-08-11-47-33-956_com.zhihu.android.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.zhihu.com/question/1891479551911100490/answer/1892566861125773209" target="_blank" rel="noopener noreferrer">https://www.zhihu.com/question/1891479551911100490/answer/1892566861125773209</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/Screenshots/Screenshot_2025-04-08-11-47-33-956_com.zhihu.android.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>我给鸣潮出主意！</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408-8.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408-8.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">我给鸣潮出主意！</source>
+      <description>注 by bilibili @戏剧化愚者 中青网下的逆天发言截图换成了遐蝶美图，可以过审吧？【笑哭】 一、立刻终止联动，棒子玩家骂就骂了，反正在韩国的买量下降后流水也降的很快，韩国市场＝鸡肋！【辣眼睛】 二、补偿国服玩家至少 1,600 星声，并做出大幅度增加国内联动的承诺。【点赞】 三、发表声明接受官媒批评，并与各类 HJ 👖🐩切割【辣眼睛】 四...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</div>
+<p>中青网下的逆天发言截图换成了遐蝶美图，可以过审吧？【笑哭】</p>
+<p>一、立刻终止联动，棒子玩家骂就骂了，反正在韩国的买量下降后流水也降的很快，韩国市场＝鸡肋！【辣眼睛】</p>
+<p>二、补偿国服玩家至少 1,600 星声，并做出大幅度增加国内联动的承诺。【点赞】</p>
+<p>三、发表声明接受官媒批评，并与各类 HJ 👖🐩切割【辣眼睛】</p>
+<p>四、发挥传统艺能科韵路精神，「逆风翻盘」「运营超神」，下个月又可以继续赢了！【doge】</p>
+<p><strong>记得让藤子帮忙，你爸爸还是爱你的【星星眼】</strong></p>
+<p><strong>Make Wuwa Great Again!【鼓掌】【鼓掌】【鼓掌】</strong></p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053014346196582403.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1053014346196582403" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053014346196582403</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408080916/https://www.bilibili.com/opus/1053014346196582403" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408080916/https://www.bilibili.com/opus/1053014346196582403</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1053014346196582403.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>YugoFukt雨果 的动态</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250408.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250408.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">YugoFukt雨果 的动态</source>
+      <description>注 by bilibili @YugoFukt雨果 因某游被开盒的记者是我朋友，已经联系律师刑事和民事两边都走流程，B 站和微博先各抓一个典型，下午他去找领导评估下这事究竟几两重，需要的话省委网信办介入也不是不可以，毕竟开盒这个事情最近国家严打，属于撞枪口上了。 外部链接 来源 https://www.bilibili.com/opus/1053319...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/4048244" target="_blank" rel="noopener noreferrer">@YugoFukt雨果</a></p>
+</div>
+<p>因某游被开盒的记者是我朋友，已经联系律师刑事和民事两边都走流程，B 站和微博先各抓一个典型，下午他去找领导评估下这事究竟几两重，<strong>需要的话省委网信办介入也不是不可以，毕竟开盒这个事情最近国家严打，属于撞枪口上了。</strong></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1053319903104204805" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053319903104204805</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250408075451/https://www.bilibili.com/opus/1053319903104204805" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250408075451/https://www.bilibili.com/opus/1053319903104204805</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>YugoFukt雨果 的动态 2</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250410.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250410.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">YugoFukt雨果 的动态 2</source>
+      <description>注 by bilibili @YugoFukt雨果 （一）4 月 8 日下午联系专业律师，了解民事和刑事报案流程，初步完成证据收集固定。 （二）4 月 9 日下午陪同姜记者前往辖区派出所完成民事报警登记，并将相关证据提交给网警进行溯源处理，以便确认开盒行为是否涉及「侵犯公民个人信息罪」刑事犯罪，相关溯源处理需要一段时间，具体结果等派出所电话通知。 （三...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by bilibili <a href="https://space.bilibili.com/4048244" target="_blank" rel="noopener noreferrer">@YugoFukt雨果</a></p>
+</div>
+<p>（一）4 月 8 日下午联系专业律师，了解民事和刑事报案流程，初步完成证据收集固定。</p>
+<p>（二）4 月 9 日下午陪同姜记者前往辖区派出所完成民事报警登记，并将相关证据提交给网警进行溯源处理，以便确认开盒行为是否涉及「侵犯公民个人信息罪」刑事犯罪，相关溯源处理需要一段时间，具体结果等派出所电话通知。</p>
+<p>（三）姜记者本人无生育史，故上一条动态中部分留言提到的有关「姜记者女儿」的照片信息属于伪造。</p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1053821074241748998" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1053821074241748998</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250410054653/https://www.bilibili.com/opus/1053821074241748998" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250410054653/https://www.bilibili.com/opus/1053821074241748998</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于某个商稿画师</title>
+      <link>https://bxx-114514.github.io/posts/iming/uncategory/250430-2.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/uncategory/250430-2.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">关于某个商稿画师</source>
+      <description>2025 年 4 月 30 日，帕姆的收藏夹发了商稿画师 REDUM 为星铁做的图。与此同时，该画师被挖出早年的反原黑历史，以及去年曾为小明做过商稿。 该图质量非常差，不仅很丑，画风还很抽象，放大仔细看还看不清结构： 我的评价是 同时画多家并没有问题，有问题的是，不仅有反某家黑历史，且对待商稿如此敷衍。既然这样，那就别怪被玩家们谴责。 bilibili...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>2025 年 4 月 30 日，<a href="https://space.bilibili.com/508103429" target="_blank" rel="noopener noreferrer"><strong>帕姆的收藏夹</strong></a>发了商稿画师 <strong>REDUM</strong> 为星铁做的图。与此同时，该画师被挖出早年的反原黑历史，以及去年曾为小明做过商稿。</p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/REDUM/1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>该图质量非常差，不仅很丑，画风还很抽象，放大仔细看还看不清结构：</p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/REDUM/2.png" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/REDUM/3.png" alt="" loading="lazy"></p>
+<h2>我的评价是</h2>
+<p>同时画多家并没有问题，有问题的是，不仅有反某家黑历史，且对待商稿如此敷衍。既然这样，那就别怪被玩家们谴责。</p>
+<h2><a class="header-anchor" href="#bilibili-戏剧化愚者-的评价是"><span></span></a><a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">bilibili @戏剧化愚者</a> 的评价是</h2>
+<p>画小明又画原本身不是啥事儿，多的是画师接两边单子。但既有反原黑历史，又如此潦草的对待商单，那就走流程呗。</p>
+<h2>参考资料</h2>
+<ul>
+<li><a href="https://www.bilibili.com/opus/1062084234799218706" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1062084234799218706</a> <a href="https://web.archive.org/web/20250501205933/https://www.bilibili.com/opus/1062084234799218706" target="_blank" rel="noopener noreferrer">快照备份</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/REDUM/1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>既然知道了那就取关拉黑吧</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/things/250410.html</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/things/250410.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">既然知道了那就取关拉黑吧</source>
+      <description>既然知道了那就取关拉黑吧 bilibili @戏剧化愚者 原来是 tnl 的节奏功臣之一啊，那就取关拉黑吧 冷知识：tnl 和有男不玩，都是同一个人出钱组织带的，姓丫 外部链接 来源 https://www.bilibili.com/opus/1051833475019046928 快照备份 https://web.archive.org/web/20...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[
+<blockquote>
+<p>bilibili <a href="https://space.bilibili.com/19976514" target="_blank" rel="noopener noreferrer">@戏剧化愚者</a></p>
+</blockquote>
+<p>原来是 tnl 的节奏功臣之一啊，那就取关拉黑吧</p>
+<p><strong>冷知识：tnl 和有男不玩，都是同一个人出钱组织带的，姓丫</strong></p>
+<p><img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051833475019046928/1.jpg" alt="" loading="lazy"><br>
+<img src="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051833475019046928/2.jpg" alt="" loading="lazy"></p>
+<h2>外部链接</h2>
+<ul>
+<li>来源 <a href="https://www.bilibili.com/opus/1051833475019046928" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/opus/1051833475019046928</a></li>
+<li>快照备份 <a href="https://web.archive.org/web/20250410054225/https://www.bilibili.com/opus/1051833475019046928" target="_blank" rel="noopener noreferrer">https://web.archive.org/web/20250410054225/https://www.bilibili.com/opus/1051833475019046928</a></li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/image-hosting/refs/heads/main/images/old/1051833475019046928/1.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>关于我</title>
+      <link>https://bxx-114514.github.io/intro.html</link>
+      <guid>https://bxx-114514.github.io/intro.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">关于我</source>
+      <description>将你的个人介绍和档案放置在此处。</description>
+      <pubDate>Thu, 25 Sep 2025 16:46:04 GMT</pubDate>
+      <content:encoded><![CDATA[<p>将你的个人介绍和档案放置在此处。</p>
+]]></content:encoded>
+      <enclosure url="https://bxx-114514.github.io/125323026_p0.webp" type="image/webp"/>
+    </item>
+    <item>
+      <title>龟娘事件全梳理</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/250914.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/250914.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">龟娘事件全梳理</source>
+      <description>待补充</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>待补充</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>日本鸣潮 KOL 开小号黑《原神》被抓包</title>
+      <link>https://bxx-114514.github.io/posts/iming/things/250915.html</link>
+      <guid>https://bxx-114514.github.io/posts/iming/things/250915.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">日本鸣潮 KOL 开小号黑《原神》被抓包</source>
+      <description>注 知乎 @priconeWill 国内竟然没人吃这个瓜，非常惊讶。因为结局很让人舒适，所以决定尽量让国服玩家能看到。 这是个日服二游社群深水区的瓜。 事情始末 一名高中生鸣潮粉发了个推，原文我用 AI 翻译如下： 《鸣潮》的剧情，其实没那么有意思吧。嗯。 要是有同感的人希望能告诉我。虽然我知道时机确实不太好，但正因为是更新后的现在才更想说。 结果遭到...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <category>《原神》和媒体</category>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>知乎 @priconeWill</p>
+</div>
+<p>国内竟然没人吃这个瓜，非常惊讶。因为结局很让人舒适，所以决定尽量让国服玩家能看到。</p>
+<p>这是个日服二游社群深水区的瓜。</p>
+<h2>事情始末</h2>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/01.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>一名高中生鸣潮粉发了个推，原文我用 AI 翻译如下：</p>
+<blockquote>
+<p>《鸣潮》的剧情，其实没那么有意思吧。嗯。<br>
+要是有同感的人希望能告诉我。虽然我知道时机确实不太好，但正因为是更新后的现在才更想说。</p>
+</blockquote>
+<p>结果遭到鸣潮圈子的围攻，好几个数千粉的小 KOL 都下场了。<strong>这场网暴最终引起日本二游圈小炎上，大家都对鸣潮社区环境发表各种意见。</strong></p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/02.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>有怀疑人家连高中生文化水平都没有的。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/03.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>原神玩家在黑鸣潮。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/04.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>你只是想对鸣潮的优秀唱反调而已。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/05.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>直球让未成年去死。</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/01.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>日本鸣潮 KOL 开小号黑《原神》被抓包</title>
+      <link>https://bxx-114514.github.io/posts/xzlm/things/250915.html</link>
+      <guid>https://bxx-114514.github.io/posts/xzlm/things/250915.html</guid>
+      <source url="https://bxx-114514.github.io/rss.xml">日本鸣潮 KOL 开小号黑《原神》被抓包</source>
+      <description>注 by 知乎 @priconeWill 国内竟然没人吃这个瓜，非常惊讶。因为结局很让人舒适，所以决定尽量让国服玩家能看到。 这是个日服二游社群深水区的瓜。 事情始末 一名高中生鸣潮粉发了个推，原文我用 AI 翻译如下： 《鸣潮》的剧情，其实没那么有意思吧。嗯。 要是有同感的人希望能告诉我。虽然我知道时机确实不太好，但正因为是更新后的现在才更想说。 结...</description>
+      <category>i 鸣</category>
+      <category>留档</category>
+      <category>《原神》和媒体</category>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>by 知乎 @priconeWill</p>
+</div>
+<p>国内竟然没人吃这个瓜，非常惊讶。因为结局很让人舒适，所以决定尽量让国服玩家能看到。</p>
+<p>这是个日服二游社群深水区的瓜。</p>
+<h2>事情始末</h2>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/01.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>一名高中生鸣潮粉发了个推，原文我用 AI 翻译如下：</p>
+<blockquote>
+<p>《鸣潮》的剧情，其实没那么有意思吧。嗯。<br>
+要是有同感的人希望能告诉我。虽然我知道时机确实不太好，但正因为是更新后的现在才更想说。</p>
+</blockquote>
+<p>结果遭到鸣潮圈子的围攻，好几个数千粉的小 KOL 都下场了。<strong>这场网暴最终引起日本二游圈小炎上，大家都对鸣潮社区环境发表各种意见。</strong></p>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/02.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>有怀疑人家连高中生文化水平都没有的。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/03.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>原神玩家在黑鸣潮。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/04.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>你只是想对鸣潮的优秀唱反调而已。</p>
+</blockquote>
+<figure><img src="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/05.jpg" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<blockquote>
+<p>直球让未成年去死。</p>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://raw.githubusercontent.com/bxx-114514/new-iming-blog/refs/heads/main/images/20250919/01.jpg" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>

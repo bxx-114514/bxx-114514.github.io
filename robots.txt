@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://bxx-114514.github.io/sitemap.xml
