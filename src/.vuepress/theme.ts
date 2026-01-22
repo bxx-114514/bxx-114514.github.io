@@ -41,7 +41,7 @@ export default hopeTheme({
     intro: "/intro.html",
     medias: {
       BiliBili: "https://space.bilibili.com/626140137",
-      Email: "mailto:tzhong072@gmail.com",
+      Email: "mailto:bxx-114514@outlook.com",
       Telegram: "https://t.me/bxx_114514",
       QQ: "https://qm.qq.com/q/1uKRrF0dba",
       GitHub: "https://github.com/bxx-114514",
